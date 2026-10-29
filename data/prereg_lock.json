@@ -1,0 +1,46 @@
+{
+  "locked_on": "2026-10-29",
+  "sha256": "4e52600a7b5c4b619c1431238c5fd03e22c4190708d1506e72e6e409c00485e1",
+  "spec": {
+    "hypothesis": "H2: exposed DPGs lost team members after the 2025 US funding freeze; output fell less than team size",
+    "event_date": "2025-01-20",
+    "first_quarter": "2024Q1",
+    "reference_quarter": "2024Q4",
+    "unit": "DPG-quarter",
+    "sample": "analysis_sample.in_joint_test == True (B1-B3 and repo confidence high); sensitivity: in_joint_test_sens",
+    "exposure": "funding_flags.exposed (score 2 or 3, DESIGN B); dose-response with funding_flags.exposure_score",
+    "outcomes": {
+      "team": "log1p(core_team_dpg)",
+      "team_secondary": [
+        "log1p(dev_months_dpg)",
+        "log1p(departures_dpg)"
+      ],
+      "output": "log1p(release_minor + release_major + issues_closed)",
+      "secondary": [
+        "log1p(pr_merged_human)",
+        "log1p(active_contributors_dpg)",
+        "log1p(maintainers_dpg)"
+      ]
+    },
+    "model": "OLS on log1p outcomes with DPG and quarter fixed effects, exposed x quarter coefficients, SE clustered by DPG (CR1)",
+    "elasticity": "log output on log team size is descriptive; output per person is never a primary outcome",
+    "checks": [
+      "pre-trend: joint test that exposed x quarter coefficients before the reference quarter are zero",
+      "placebo group: exposure_score == 1 (federal money, not foreign aid) vs score 0",
+      "placebo date: fake shock at 2023-01-20 using 2022Q1-2023Q4"
+    ],
+    "robustness": [
+      "winsorise outcomes at 1/99 pct",
+      "DPG-level medians",
+      "restrict controls to the same owner_type as exposed",
+      "sensitivity sample incl. medium confidence"
+    ],
+    "exploratory_only": [
+      "AI-text signals",
+      "category/sector breakdowns",
+      "PR size",
+      "other team measures"
+    ],
+    "power": "D23: MDE ~= 2.8 * sd_between_dpg_change_in_pre_period * sqrt(1/n_exposed + 1/n_unexposed); computed from pre-period data only"
+  }
+}

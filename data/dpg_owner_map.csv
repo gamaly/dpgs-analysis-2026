@@ -1,0 +1,484 @@
+dpgid,dpg,owner_name,owner_type,owner_country,confidence,related_orgs,notes,us_990_candidate,reviewed,declared_owner,declared_owner_url,ownership_check
+GID0090024,DIGIT,eGovernments Foundation,NP,IN,high,,,False,out of D29 scope: agree,eGovernments Foundation,https://github.com/egovernments/DIGIT-OSS/blob/master/LICENSE,agree
+GID0090077,OpenCRVS,Plan International,NP,GB,low,Jembi Health Systems NPC,originated at Plan International; verify current steward,False,auto:disagree,opencrvs.org,"Copyright (C) Plan International Inc, Plan International Australia, Jembi Health Systems NPC and Vital Strategies Inc. 
+ https://www.opencrvs.org/
+ 
+ https://github.com/opencrvs/opencrvs-core/blob/master/README.md",unresolved
+GID0090283,Product Catalog Management Tool,VillageReach,USNP,US,high,,,True,auto:agree,VillageReach,https://gitlab.com/pcmt/pcmt/-/blob/master/COPYRIGHT.md,agree
+GID0090284,Everwell Hub,Everwell Health Solutions Pvt Ltd,CO,IN,high,,,False,out of D29 scope: agree,Everwell Health Solutions Pvt. Ltd.,https://gitlab.com/everwell/hub-foss/-/blob/master/LICENSE,agree
+GID0090285,iHRIS,IntraHealth International,USNP,US,high,,,True,auto:agree,IntraHealth,https://github.com/iHRIS/iHRIS,agree
+GID0090666,LocalGov Drupal,Open Digital Cooperative,CO,GB,medium,,D38: declared owner is a co-operative; legal form and country from outside knowledge,False,F12:rebuilt,Open Digital Cooperative,"https://opendigital.coop/
+ https://localgovdrupal.org/
+ https://docs.localgovdrupal.org/",conflict_resolved_to_declared
+GID0090010,Bisa Health,Bisa Health,CO,GH,medium,,,False,auto:agree,Bisa Health,https://bisaapp.com/team/,agree
+GID0090692,Doptor Open Data,"a2i (Aspire to Innovate), Government of Bangladesh",GOV,BD,high,,,False,out of D29 scope: agree,Aspire to Innovate (a2i) Programme (A Multinational Digital Transformation Catalyst from the Government of Bangladesh),https://dpgdata.doptor.gov.bd,agree
+GID0090708,Jellow AAC Communicator,NINAAD Digital Technology Private Limited,CO,IN,medium,,"D38: declared company; website jellow.org and GitHub 'Jellow' point to the product, contact is gmail",False,F12:rebuilt,NINAAD Digital Technology Private Limited,https://github.com/jellow-aac/jellow-communicator-android/blob/master/LICENSE.txt,conflict_resolved_to_declared
+GID0090764,Indonesian Phoneme Recognizer,PT Bookbot Indonesia,CO,ID,high,,D38: declared PT (Indonesian company); contact domain bookbotkids.com,False,F12:rebuilt,PT Bookbot Indonesia,https://huggingface.co/bookbot,conflict_resolved_to_declared
+GID0090767,Energy Access Explorer,World Resources Institute,USNP,US,high,,,True,auto:agree,World Resources Institute,https://www.energyaccessexplorer.org/,agree
+GID0090794,Interfacer,Dyne.org Foundation,NP,NL,high,,,False,out of D29 scope: agree,Dyne.org Foundation,https://github.com/interfacerproject/zenflows/blob/master/CONTRIBUTING.md,agree
+GID0090011,Boxtribute,Boxtribute,NP,NL,low,,,False,auto:disagree,Boxtribute,https://www.boxtribute.org/,agree
+GID0090088,Productive Forests,Bioverse Labs,CO,BR,medium,,,False,auto:agree,Bioverse Labs,https://github.com/Bioverse-Labs/deep-learning/blob/master/LICENSE,agree
+GID0090034,FarmStack,Digital Green,USNP,US,high,Digital Green Trust (India),,True,auto:agree,Digital Green,https://www.farmstack.co/,agree
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",iGrant.io (LCubed AB),CO,SE,high,,,False,out of D29 scope: agree,"iGrant.io, Sweden (LCubed AB)",https://github.com/decentralised-dataexchange/dexa-protocol/blob/main/LICENSE,agree
+GID0090904,Data to Policy Navigator,UNDP,UN,,high,,,False,auto:agree,United Nations Development Programme,https://www.datatopolicy.org/copyright-and-terms-of-use,agree
+GID0090209,Data Observation Toolkit,DataKind,USNP,US,high,Medic,,True,auto:agree,DataKind,https://github.com/datakind/Data-Observation-Toolkit/blob/main/LICENSE.md,agree
+GID0090672,CIEL terminology,Columbia University (Columbia International eHealth Laboratory),UNIV,US,medium,,,False,auto:agree,Columbia Department of Biomedical Informatics,https://app.openconceptlab.org/#/orgs/CIEL/,agree
+GID0090002,Accessible Kazakhstan,Tandau Foundation (public fund),NP,KZ,medium,,"D38: declared public fund; GitHub org QLT is a developer, contact is gmail",False,F12:rebuilt,"Public fund ""Tandau Foundation""","https://drive.google.com/file/d/1xRHNUeAB09lprjFojY7qU2AvzN1uXVVc/view?usp=sharing, https://drive.google.com/file/d/1YqECDA1YosFf6LNxBEsGOcbzBHMKEyeS/view?usp=sharing",conflict_resolved_to_declared
+GID0090952,cfr,Epiverse-TRACE,COMM,,low,London School of Hygiene & Tropical Medicine; Rockefeller Foundation,"D38: declared project (plus an individual), not a legal entity",False,F12:rebuilt,Epiverse-TRACE; [individual],"https://epiverse-trace.r-universe.dev/cfr,
+ https://cran.r-project.org/web/packages/cfr/index.html",unresolved
+GID0090106,Sunbird Lern,EkStep Foundation,NP,IN,high,,,False,out of D29 scope: agree,EkStep Foundation,https://sunbird.org/software-license,agree
+GID0090979,HCW@Home,Iabsis SARL,CO,CH,medium,Geneva University Hospitals (HUG),,False,auto:agree,Iabsis SARL,https://github.com/HCW-home/backend/blob/master/README.md#credit,agree
+GID0090990,IVTToken,Investtools,CO,BR,high,UNICEF Venture Fund,,False,out of D29 scope: agree,Investtools,https://ivttoken.vercel.app/en/main,agree
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),Convexity,CO,NG,medium,UNICEF Venture Fund,,False,auto:agree,Convexity Technologies Limited,"https://withconvexity.com/blockchain-for-scial-good/,
+ https://chats.cash/terms-of-use/",agree
+GID0090119,Uwazi,HURIDOCS,NP,CH,high,,,False,out of D29 scope: agree,HURIDOCS (Human Rights Information and Documentation Systems),"https://huridocs.org/technology/uwazi/,
+ https://uwazi.io/en/page/w4feakb1j3p/about",agree
+GID0090073,Open Contracting Portal,Development Gateway,USNP,US,high,,,True,auto:agree,"Development Gateway, Inc",https://github.com/devgateway/ocportal/blob/develop/LICENSE,agree
+GID0090005,Altinn,Norwegian Digitalisation Agency (Digdir),GOV,NO,high,,,False,out of D29 scope: agree,Norwegian Digitalisation Agency,"https://www.altinn.no/en/about-altinn/the-altinn-co-operation/,
+ https://www.digdir.no/digdir/about-norwegian-digitalisation-agency/887",agree
+GID0090040,Global Open Facility Registry,IntraHealth International,USNP,US,high,,,True,auto:agree,IntraHealth International,"https://www.facilitymatch.net/,
+ https://www.intrahealth.org/",agree
+GID0091018,PotLock,"PotLuck Foundation DAO, LLC",CO,MH,medium,,D38: declared Marshall Islands DAO LLC,False,F12:rebuilt,"PotLuck Foundation DAO, LLC (A Marshall Island DAO LLC)",https://potlock.org/license,conflict_resolved_to_declared
+GID0091020,magasin,UNICEF,UN,,high,,,False,auto:agree,UNICEF (United Nations Children's Fund),https://unicef.github.io/magasin/about.html,agree
+GID0090020,cQube,EkStep Foundation,NP,IN,medium,,,False,auto:agree,EkStep Foundation,https://sunbird.org/software-license,agree
+GID0090009,Bahmni,OpenMRS Inc,USNP,US,high,Thoughtworks,"D38: declaration: 'Bahmni IP is owned by OpenMRS, which also acts as its fiscal sponsor'",True,F12:rebuilt,Bahmni,"1. Bahmni IP is owned by OpenMRS, which also acts as its Fiscal sponsor. All Bahmni trademarks are owned by OpenMRS.  Policies around “Bahmni” trademark are governed by similar policies as adopted by OpenMRS (https://wiki.openmrs.org/display/RES/OpenMRS+Trademark+Policy) 
+ 2. Bahmni is an OpenMRS distribution and a product initiative supported by Bahmni Coalition which manages its evolution. https://www.bahmni.org/bahmni-coalition
+ 3. ThoughtWorks has been instrumental in conceiving Bahmni and a major contributor to its development over the last 8 years. Bahmni is listed on the ThoughtWorks website open source page: https://www.thoughtworks.com/en-in/insights/topic/open-source",conflict_resolved_to_declared
+GID0091036,Ersilia Model Hub,Ersilia Open Source Initiative,NP,GB,medium,,,False,auto:agree,Ersilia Open Source Initiative,"The Ersilia Open Source Initiative, a non-profit organization incorporated as a Charitable Incorporated Organisation with the Charity Commission for England and Wales (1192266) and as a Foundation in Spain (G44657393), owns the solution. These statuses are equivalent to a 503(c) status in the United States.
+ 
+ The ownership is demonstrated since the Ersilia Model Hub repository and associated tools is hosted in the Ersilia GitHub organization (https://github.com/ersilia-os). A catalog of AI models is available from the Ersilia website (https://ersilia.io/model-hub), and the tool is highlighted on the Ersilia website (https://www.ersilia.io/tools)",agree
+GID0091038,Open Concept Lab,Open Concept Lab LLC,CO,US,high,,"D38: declared LLC, so not a nonprofit (earlier USNP guess was wrong)",False,F12:rebuilt,Open Concept Lab LLC,https://openconceptlab.org/about/,conflict_resolved_to_declared
+GID0091042,Sunbird Saral,EkStep Foundation,NP,IN,medium,,,False,auto:agree,EkStep Foundation,https://sunbird.org/software-license,agree
+GID0090047,if me,if me (volunteer community),COMM,,medium,,,False,auto:agree,if-me.org,https://www.if-me.org/about,agree
+GID0090085,OpenSRP,Ona Systems,CO,KE,medium,OpenSRP Foundation,,False,auto:agree,Ona,"https://docs.opensrp.io/project-information,
+ https://github.com/opensrp/fhircore/blob/main/LICENSE",agree
+GID0090087,PRISM,World Food Programme,UN,,high,,,False,auto:agree,United Nations World Food Programme,"https://wfp-vam.github.io/prism-app/about-prism/,
+ https://github.com/WFP-VAM/prism-app/blob/master/LICENSE",agree
+GID0090257,OpenEyes,Apperta Foundation,NP,GB,high,,,False,out of D29 scope: agree,Apperta Foundation CIC,"https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003557481,
+ https://apperta.org/",agree
+GID0090081,openIMIS,GIZ (openIMIS Initiative),GOV,DE,medium,Swiss TPH,,False,auto:agree,Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)/Swiss Agency for Development and Cooperation (SDC) as licence owner,"https://openimis.atlassian.net/wiki/spaces/OP/pages/40566798/Licenses, https://openimis.atlassian.net/wiki/spaces/OP/pages/1341030501/openIMIS+Software+License,
+ https://openimis.org/legal-information",agree
+GID0090346,Aid Management Platform,Development Gateway,USNP,US,high,,,True,auto:agree,"Development Gateway, Inc",https://developmentgateway.org/expertise/aid-management/,agree
+GID0090142,StoryWeaver,Pratham Books,NP,IN,high,,,False,out of D29 scope: agree,Pratham Books,https://storyweaver.org.in/about,agree
+GID0090121,VIPS,NIBIO (Norwegian Institute of Bioeconomy Research),GOV,NO,high,,,False,auto:agree,NIBIO,https://nibio.no/en/services/vips,agree
+GID0090058,linelist,data.org,USNP,US,medium,London School of Hygiene & Tropical Medicine,D38: declared data.org; no EIN found,True,F12:rebuilt,data.org,https://github.com/epiverse-trace/linelist/blob/main/LICENSE.md,conflict_resolved_to_declared
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,Avyantra Health Technologies Pvt Ltd,CO,IN,high,,,False,auto:agree,Avyantra Health Technologies,https://github.com/kvklrao/Avyantra2023,agree
+GID0091139,CodiTeach,CodiPlay,CO,KZ,medium,,,False,auto:agree,CodiPlay founder (Zhanadil Taldybayev),https://github.com/codiplaykz/coditeach/blob/main/Copyright%20agreement.pdf,agree
+GID0090089,Project AEDES,CirroLytix Research Services,CO,PH,high,,,False,out of D29 scope: agree,Cirrolytix Research Services,"https://github.com/Cirrolytix/aedes_dpg/blob/main/readme.md,
+ https://www.aedesproject.org, https://www.earthobservations.org/geo_blog_obs.php?id=472",agree
+GID0091156,Mifos Payment Hub-EE (PH-EE),Mifos Initiative,USNP,US,high,,,True,auto:agree,The Mifos Initiative,https://mifos.org/about-us/financial-legal/,agree
+GID0091161,HOPE,UNICEF,UN,,high,,,False,auto:agree,UNICEF,https://www.unicef.org/hope-hct,agree
+GID0090369,OpenClinic GA,[individual] / Post-Factum BV,CO,BE,low,,D38: declared an individual plus a company; no single legal entity,False,F12:rebuilt,[individual] and Commercial Edition by Post-Factum BV,"https://sourceforge.net/projects/open-clinic/,
+ https://sourceforge.net/p/open-clinic/code/ci/master/tree/web/README,
+ http://www.post-factum.be/",conflict_resolved_to_declared
+GID0091167,Rocky Linux,Rocky Enterprise Software Foundation,CO,US,medium,CIQ,"public benefit corp, not 501c3",False,auto:agree,Rocky Enterprise Software Foundation,"https://rockylinux.org/trademark,
+ https://www.resf.org/projects",agree
+GID0091177,Syft,OpenMined Foundation,USNP,US,high,,"IRS EO master file: OPENMINED FOUNDATION, New York NY, 501(c)(3) ruling 2024-03, EIN 934965096 (see data notes); homepage 2026 OpenMined Foundation",True,auto:agree,OpenMined Foundation,https://openmined.org/about-the-foundation/,agree
+GID0090321,CityLearn,University of Texas at Austin (Intelligent Environments Lab),UNIV,US,medium,,D38: declared owners are three named individuals (lab members); university inferred,False,F12:rebuilt,"[individual], [individual], [individual]",Copyright footer - https://www.citylearn.net/index.html,conflict_capped_medium
+GID0091186,Open-Pryv.io,Pryv SA,CO,CH,high,,,False,out of D29 scope: agree,Pryv SA,https://www.pryv.com/open-pryv/,agree
+GID0090101,Somleng,Chatterbox Solutions,CO,KH,medium,UNICEF Venture Fund,D38: declared company behind Somleng,False,F12:rebuilt,Chatterbox Solutions,https://www.somleng.org/,conflict_resolved_to_declared
+GID0090110,Surveillance Outbreak Response Management and Analysis System,SORMAS Foundation,NP,DE,high,Helmholtz Centre for Infection Research; GIZ,,False,out of D29 scope: agree,SORMAS Foundation,"https://github.com/SORMAS-Foundation,
+ https://sormas.org",agree
+GID0090191,PrepTime Analytics,Scribble Works,CO,GH,medium,,,False,auto:agree,Scribble Works,https://preptimeanalytics.com/,agree
+GID0090053,Kindly,UNICEF,UN,,high,,,False,auto:agree,UNICEF,https://unicef.github.io/kindly/acknowledgements,agree
+GID0090452,Safe YOU,Impact Innovations Institute LLC,CO,AM,high,,"D38: declared LLC, so a company not a nonprofit",False,F12:rebuilt,Impact Innovations Institute LLC,"The ownership of Safe YOU solution, all its components and all the source code is certified through the employment and service contracts signed with the development teams, and UI/UX teams, which clearly state that all intellectual property rights connected to Safe YOU solution belong to Impact Innovations Institute. Safe  YOU trademark has been internationally registered as intellectual property of Impact Innovations Institute and can be checked in WIPO website: https://branddb.wipo.int/en/brand/WO500000001750047
+ https://github.com/safeyou-space/safeyou#offered-by",conflict_resolved_to_declared
+GID0090494,finalsize,Epiverse-TRACE,COMM,,low,London School of Hygiene & Tropical Medicine,"D38: declared project, not a legal entity",False,F12:rebuilt,Epiverse-TRACE,"https://github.com/epiverse-trace/finalsize/blob/7999edada7d8467c1f3d87b99babad6b0c2fb383/README.md?plain=1#L44-L50
+ 
+ The text reads:
+ 
+ ""finalsize is developed at the Centre for the Mathematical Modelling of Infectious Diseases at the London School of Hygiene and Tropical Medicine as part of the Epiverse-TRACE.""",unresolved
+GID0090256,Deon,DrivenData Inc,CO,US,high,,,False,auto:agree,DrivenData,https://deon.drivendata.org/,agree
+GID0090128,Zamba,DrivenData Inc,CO,US,high,,,False,auto:agree,DrivenData,https://github.com/drivendataorg/zamba/blob/master/LICENSE,agree
+GID0090111,Synthea,MITRE Corporation,USNP,US,high,,,True,auto:agree,The MITRE Corporation,https://github.com/synthetichealth/synthea#license,agree
+GID0091320,QuarkID,Government of the City of Buenos Aires,GOV,AR,high,,,False,out of D29 scope: agree,Buenos Aires City Government,https://docs.quarkid.org/en/Docs/registro-software/,agree
+GID0090492,ekShop Marketplace,"a2i (Aspire to Innovate), Government of Bangladesh",GOV,BD,high,,,False,out of D29 scope: agree,Aspire to Innovate (a2i) Programme ( A Multinational Digital Transformation Catalyst from the Government of Bangladesh),"Project Domain:  https://dpg.ekshop.gov.bd
+ Source Code:      https://github.com/a2i-dpg/ekShop
+ Documentation:  https://github.com/a2i-dpg/ekShop-doc",agree
+GID0091335,ClimWeb,WMO Regional Office for Africa,UN,,high,Norwegian Refugee Council (NORCAP),,False,auto:agree,WMO and NORCAP,"1. Official Project Website
+ URL: https://climtech.africa/climweb/
+ The ClimWeb landing page explicitly displays the ownership structure through:
+ 
+ Official logos of the World Meteorological Organization (WMO) and NORCAP prominently featured
+ Clear institutional branding and attribution throughout the site
+ Comprehensive project documentation demonstrating organizational backing
+ 
+ 2. GitHub Repository
+ URL: https://github.com/wmo-raf/climweb
+ The official GitHub repository provides definitive ownership evidence:
+ 
+ Repository hosted under the wmo-raf organization account, clearly indicating WMO Regional Association for Africa ownership
+ WMO and NORCAP logos displayed in the repository documentation
+ Open-source licensing and contribution guidelines established by the parent organizations
+ Commit history and project governance demonstrating institutional control and oversight
+ 
+ 3. Organizational Context
+ 
+ Owners: World Meteorological Organization (WMO) - Regional Association for Africa, NORCAP (Norwegian Refugee Council's global provider of humanitarian expertise)
+ Project Status: Official WMO-backed open-source initiative supporting National Meteorological and Hydrological Services",agree
+GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,Autonomous Province of Bolzano,GOV,IT,high,,,False,out of D29 scope: agree,Provincia Autonoma di Bolzano (public administration),https://www.provincia.bz.it/formazione-lingue/didattica-formazione-docenti/tecnologie-dell-informazione-e-della-comunicazione-fuss.asp,agree
+GID0090120,VaccineLedger,StaTwig,CO,IN,high,UNICEF Venture Fund,,False,out of D29 scope: agree,StaTwig,https://gitlab.com/statwig-public/theledger/-/blob/6c3bf23524244bf0d2cf0a2772214a21d1a270ee/LICENSE,agree
+GID0091358,Media Cloud,Media Ecosystems Analysis Group Inc.,USNP,US,medium,Northeastern University; University of Massachusetts Amherst,D38: declared consortium of three owners; lead entity chosen,True,F12:rebuilt,"Media Ecosystems Analysis Group Inc., Northeastern University, University of Massachusetts Amherst","https://www.mediacloud.org/consortium/,
+ https://www.mediacloud.org/legal/media-cloud-terms-of-use",conflict_capped_medium
+GID0090124,WaPOR,FAO,UN,,high,,,False,auto:agree,FAO,https://www.fao.org/in-action/remote-sensing-for-water-productivity/en/,agree
+GID0091359,Go.Data,World Health Organization,UN,,high,,,False,auto:agree,World Health Organization (WHO),https://www.who.int/tools/godata,agree
+GID0090027,Eco-Index Biodiversity Dashboards,Eco-index Limited,CO,NZ,medium,,,False,auto:agree,Eco-Index,https://eco-index.nz/,agree
+GID0091369,Nextcloud Server,Nextcloud GmbH,CO,DE,high,,,False,out of D29 scope: agree,Nextcloud GmbH,https://nextcloud.com/impressum/,agree
+GID0091385,Measuring Real Power Usage of Software Applications,HSBC,CO,GB,high,,,False,out of D29 scope: agree,HSBC GLOBAL SERVICES (UK) LIMITED,"https://github.com/hsbc, 
+ U.S. Patent Application No. 18/581,792",agree
+GID0091388,FAOLEX,FAO,UN,,high,,,False,auto:agree,FAO,https://www.fao.org/faolex/en/,agree
+GID0090367,Connect For Life,Janssen Pharmaceutica NV,CO,BE,high,Johnson & Johnson,D38: declared Janssen Pharmaceutica NV (a J&J company),False,F12:rebuilt,Janssen Pharmaceutica NV. (A company of Johnson & Johnson),https://www.connect-for-life.org/legal.html,conflict_resolved_to_declared
+GID0091412,Tazama,LF Charities (Linux Foundation),USNP,US,high,Gates Foundation,,True,auto:agree,The Linux Foundation,"https://tazama.org/charter/,
+ https://lf-charities.org/",agree
+GID0091415,Wikirate Data,Wikirate International e.V.,NP,DE,medium,,,False,auto:agree,Wikirate International e.V.,"https://wikirate-intl.org/Impressum
+ https://wikirate.org/Terms_of_Use",agree
+GID0091430,Digital Impact Exchange,United Nations Foundation (host of Digital Impact Alliance),USNP,US,medium,Digital Impact Alliance,"D38: declared DIAL, which is not a legal entity; legal host is the UN Foundation",True,F12:rebuilt,Digital Impact Alliance,https://dial.global/work/digital-impact-exchange/,conflict_resolved_to_declared
+GID0090293,Decidim,Decidim Free Software Association,NP,ES,medium,Barcelona City Council,,False,auto:agree,Decidim Free Software Association,"The creation of the association was decided in a community assembly recorded on our own governance Decidim instance: https://meta.decidim.org/assemblies/our-governance
+ 
+ The decision was formalized in the statues of the association that can be consulted here: https://metadecidim.s3.amazonaws.com/uploads/decidim/attachment/file/2096/ESTATUTS_ASS_DECIDIM__AMB_ESMENESV2_.pdf",agree
+GID0091444,epiCo,Epiverse-TRACE,COMM,,low,London School of Hygiene & Tropical Medicine,"D38: declared project, not a legal entity",False,F12:rebuilt,Epiverse-TRACE,https://github.com/epiverse-trace/epiCo,unresolved
+GID0090116,TruBudget,KfW Development Bank,GOV,DE,high,BMZ,,False,auto:agree,KfW (Kreditanstalt für Wiederaufbau),https://trademarks.justia.com/792/74/trubudget-79274337.html,agree
+GID0090023,DiCRA,UNDP,UN,,medium,NABARD,"D38: declared UNDP; website is NABARD's, so a hosting conflict",False,F12:rebuilt,United Nations Development Programme,https://dicra.undp.org.in/,conflict_capped_medium
+GID0090118,The Ushahidi Platform,Ushahidi,USNP,US,high,,,True,auto:agree,Ushahidi Inc.,Terms of Service: https://www.ushahidi.com/terms-of-service/,agree
+GID0090017,Community Health Toolkit,Medic (Medic Mobile Inc),USNP,US,high,,EIN 275104203 verified on ProPublica,True,auto:agree,"Medic Mobile, Inc.",https://github.com/medic/cht-core#copyright,agree
+GID0091470,Uli,Tattle Civic Technologies,CO,IN,medium,,check legal form,False,auto:promoted,Tattle Civic Technologies Pvt Ltd,https://tattle.co.in/products/ogbv,agree
+GID0091478,GDevelop,GDevelop Ltd,CO,,medium,,D38: declared Ltd; country unverified (France vs UK clues conflict),False,F12:rebuilt,GDevelop LTD.,https://gdevelop.io/page/terms-and-conditions,conflict_capped_medium
+GID0090144,Oobee,GovTech Singapore,GOV,SG,high,,,False,out of D29 scope: agree,"Government Technology Agency, Singapore",https://github.com/GovTechSG/oobee-desktop/blob/main/LICENSE,agree
+GID0090695,Advocacy Training for Community Health Workers,Stanford University (Digital Medic),UNIV,US,high,,,False,auto:agree,"Digital Medic, an initiative of the Stanford Center for Health Education, and Community Health Impact Coalition (CHIC)","https://digitalmedic.stanford.edu/advocacy-training-community-health-workers, https://joinchic.org/resources/chw-advocates/",agree
+GID0090618,OpenRIMS-PV,Management Sciences for Health,USNP,US,high,,,True,auto:agree,Management Sciences for Health (MSH),https://pv.openrims.org/,agree
+GID0090802,CREDEBL,Blockster Labs Private Limited,CO,IN,high,Linux Foundation Decentralized Trust,D38: declared company; contact domain blockster.global agrees,False,F12:rebuilt,Blockster Labs Private Limited,https://docs.credebl.id/en/license/copyright-and-license,conflict_resolved_to_declared
+GID0091509,Register for Organic Agriculture,Organika Association,NP,XK,high,,,False,out of D29 scope: agree,ORGANIKA Association,https://organika-ks.org/en/the-register-for-organic-agriculture/,agree
+GID0091516,Open Food Facts,Open Food Facts,NP,FR,high,,,False,out of D29 scope: agree,Open Food Facts,The legal information page - https://world.openfoodfacts.org/legal. The official French business registry - https://annuaire-entreprises.data.gouv.fr/entreprise/open-food-facts-off-814529905,agree
+GID0090586,Orthanc,UCLouvain,UNIV,BE,medium,University Hospital of Liege; Osimis S.A.; Orthanc Team SRL,D38: declared four owners; one chosen,False,auto:agree,"University Hospital of Liège, Osimis S.A., Orthanc Team SRL, and UCLouvain university",https://orthanc.uclouvain.be/book/faq/licensing.html,conflict_capped_medium
+GID0090741,NiSE3 Skills and Certification,"a2i (Aspire to Innovate), Government of Bangladesh",GOV,BD,high,,,False,auto:agree,Aspire to Innovate (a2i) Programme (Government of Bangladesh),"Project Domain: https://dpg.nise.gov.bd
+ Source Code: https://github.com/a2i-dpg/skills-and-certification",agree
+GID0091526,UrbanPy,Inter-American Development Bank,MDB,,high,,,False,auto:agree,Inter-American Development Bank,https://code.iadb.org/en/tools/urbanpy,agree
+GID0091530,SUSE Linux Enterprise Server ,SUSE,CO,DE,low,,,False,auto:disagree,SUSE LLC,"Trademark - https://tsdr.uspto.gov/#caseNumber=78720651&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch
+ 
+ EULA - https://www.suse.com/licensing/eula/download/suse_end_user_license_agreement_february_2024.pdf",agree
+GID0090051,iVerify,UNDP,UN,,high,,,False,auto:agree,United Nations Development Programme,https://github.com/undp/iVerify-Apps#readme,agree
+GID0090192,Code Your Future,CodeYourFuture,NP,GB,high,,,False,out of D29 scope: agree,Code Your Future,https://codeyourfuture.io/governance/,agree
+GID0090589,Sunbird SERVE,eVean Foundation,NP,IN,high,,D38: declared foundation; contact domain evean.net agrees,False,F12:rebuilt,eVean Foundation,https://serve.evean.net/evean/,conflict_resolved_to_declared
+GID0091548,Prospect,Access to Energy Institute (A2EI),NP,DE,medium,GIZ,,False,auto:agree,Access to Energy Institute (A2EI) and GET.invest,"Prospect is an open-source digital platform developed collaboratively by the Access to Energy Institute (A2EI) and GET.invest. It is currently maintained and governed by A2EI, a non-profit organization based in Berlin.
+ 
+ Evidence of ownership:
+ 
+ Official Website (https://prospect.energy): Prospect's official website provides detailed information about the platform and its implementers.
+ 
+ Development and Launch Announcement: A2EI and GET.invest announced the launch of Prospect, highlighting its open-source nature and collaborative development. 
+ 
+ GitLab Repository: The source code for Prospect is publicly available on GitLab, demonstrating its open-source licensing under AGPLv3.",agree
+GID0090048,Immunization Calculation Engine,HLN Consulting LLC,CO,US,high,,possible CDC/state public-health funding; check,False,auto:agree,"HLN Consulting, LLC",https://cdsframework.atlassian.net/wiki/spaces/CDSF/pages/14352414/Open-Source+License,agree
+GID0090743,MEDPlat,Argusoft India Ltd,CO,IN,high,,,False,out of D29 scope: agree,Argu Soft India Limited,"https://argusoft.com - MEDPLat can be found listed under the OEM IPs section on our corporate website.
+ 
+ https://medplat.co.in/privacy_policy.html - Describes the Privacy Policy and Ownership of the Platform by Argusoft India Limited.",agree
+GID0090675,SPICE,Medtronic LABS,USNP,US,high,,,True,auto:agree,Medtronic LABS,"Medtronic LABS is the owner and primary developer of the SPICE platform. Our website clearly highlights our technology platform, SPICE, as the technology behind our programs (https://www.medtroniclabs.org/technology-platform/). 
+ 
+ Within our license terms, we have provided a copyright that the software is Copyright of Medtronic LABS, 2024 (https://github.com/Medtronic-LABS ).",agree
+GID0090001,Aam Digital,Aam Digital GmbH,CO,DE,medium,,,False,auto:agree,Aam Digital GmbH,https://aam-digital.com/about-us/,agree
+GID0090502,Grievance Redress  System (GRS),"a2i (Aspire to Innovate), Government of Bangladesh",GOV,BD,high,,,False,auto:agree,Aspire to Innovate (a2i) Programme (Government of Bangladesh),https://dpg.grs.gov.bd,agree
+GID0090196,OpenTeleRehab,Humanity & Inclusion,NP,FR,high,Handicap International Federation; HI US,,False,auto:agree,Humanity & Inclusion,"https://euipo.europa.eu/eSearch/#details/trademarks/018651877, https://hi.org/en/news/innovation-and-rehabilitation--hi-develops-a-software-to-provide-remote-rehabilitation-services",agree
+GID0091566,AGRIS Open Data Set,FAO,UN,,high,,,False,auto:agree,Food and Agriculture Organization of the United Nations (FAO),Ownership information is published both on the website (https://www.fao.org/agris/agris-ods) and in the metadata in the datasets at https://data.apps.fao.org/catalog/dcat/agris (property dc:creator).,agree
+GID0090223,Vxnaid,Johnson & Johnson,CO,US,medium,,"D38: declared 'Johnson & Johnson Global Public Health' (a division, no separate legal entity)",False,F12:rebuilt,Johnson & Johnson Global Public Health,https://github.com/johnsonandjohnson/vxnaid/wiki/Software-Terms-Of-Use,conflict_capped_medium
+GID0090070,NotesMaster,Notesmaster Caribbean,CO,,low,,D38: declared name only; country unverified,False,F12:rebuilt,Notesmaster Caribbean,https://notesmaster.com/termsofuse,unresolved
+GID0091578,DKAN,CivicActions Inc,CO,US,high,,,False,out of D29 scope: agree,CivicActions,"https://github.com/GetDKAN/dkan
+ https://getdkan.org/",agree
+GID0091586,QGIS,QGIS.ORG Association,NP,CH,high,,,False,auto:agree,The QGIS Foundation,https://qgis.org/community/foundation/,agree
+GID0090623,Feluda,Tattle Civic Technologies,CO,IN,medium,,check legal form,False,auto:promoted,Tattle Civic Tech,https://tattle.co.in/products/feluda/,agree
+GID0091592,JemPI,Jembi Health Systems NPC,NP,ZA,high,,,False,auto:agree,Jembi Health Systems NPC,See: https://jembi.gitbook.io/jempi. JemPI was developed by Jembi Health Systems and is a current reference technology for the client registry in the OpenHIE (Open Health Information Exchange). It is supported through a number of implementation projects that drive its continuing development to meet real world needs.,agree
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,Tonkünstler-on-the-Bund,UNKNOWN,,low,,,False,auto:disagree,Tonkünstler-on-the-Bund,"https://t18d.github.io/attested-conjectures, https://tonkunstler-on-the-bund.com/",agree
+GID0090230,IASO,Bluesquare,CO,BE,high,,,False,out of D29 scope: agree,Bluesquare,https://www.bluesquarehub.com/iaso/,agree
+GID0090186,Android FHIR SDK,Google,CO,US,high,,,False,auto:agree,Google,https://github.com/google/android-fhir/wiki,agree
+GID0090526,OpenStreetMap,OpenStreetMap Foundation,NP,GB,high,,,False,out of D29 scope: agree,OpenStreetMap Foundation LLC,"OSM Trademark - https://wiki.openstreetmap.org/wiki/Trademark,
+ 
+ OSM Licensing requirements for data - https://wiki.osmfoundation.org/wiki/Licence/Attribution_Guidelines#Attribution_text,
+ 
+ Company registration - 
+ https://find-and-update.company-information.service.gov.uk/company/05912761",agree
+GID0091624,Open Supply Hub,Open Supply Hub,USNP,US,high,,,True,auto:agree,"Open Supply Hub, Inc.",https://info.opensupplyhub.org/terms-of-service,agree
+GID0090228,GeoPrism Registry,TerraFrame Inc,CO,US,high,,GeoPrism reportedly USAID-funded (Laos); check,False,auto:agree,"TerraFrame, Inc.",https://www.terraframe.com/products,agree
+GID0091629,Isomer,Open Government Products (GovTech Singapore),GOV,SG,high,,,False,auto:agree,Government Technology Agency of Singapore,"https://products.open.gov.sg/isomer
+ 
+ https://developer.tech.gov.sg/products/categories/content-management/isomer/overview.html",agree
+GID0091644,caMicroscope,Emory University,UNIV,US,high,,website now redirects to unrelated domain,False,auto:agree,Emory University,https://camicroscope.org (live demo).,agree
+GID0090086,Primero,UNICEF,UN,,high,Quoin,,False,auto:agree,UNICEF,"https://github.com/primeroIMS/primero/blob/master/LICENSE
+ Primero Terms of Use templates come in several forms depending on hosting arrangements, service agreement, and role of government. These are not hosted publicly.",agree
+GID0090072,Oky,UNICEF,UN,,high,,,False,auto:agree,UNICEF,https://okyapp.info/terms-conditions/,agree
+GID0090060,MET Norway Weather API,Norwegian Meteorological Institute,GOV,NO,high,,,False,out of D29 scope: agree,Norwegian Meteorological Insitute,https://developer.yr.no/doc/License/,agree
+GID0091651,UPYOG,National Institute of Urban Affairs (NIUA),GOV,IN,high,,,False,auto:agree,National Institute of Urban Affairs,https://nudm.mohua.gov.in/,agree
+GID0091671,LEI,GLEIF,NP,CH,high,,,False,auto:agree,Global Legal Entity Identifier Foundation,"https://www.gleif.org/en/about/open-data
+ 
+ https://www.gleif.org/en/about/open-source",agree
+GID0090079,OpenFn,Open Function Group,CO,US,medium,,check whether now a nonprofit,False,auto:agree,Open Function Group,https://github.com/OpenFn/governance/blob/main/README.md,agree
+GID0090035,Fedora Linux,Red Hat,CO,US,medium,,"D38: declared Fedora Project, a community sponsored by Red Hat",False,F12:rebuilt,Fedora Project,"https://docs.fedoraproject.org/en-US/project/
+ https://docs.fedoraproject.org/en-US/legal/",conflict_capped_medium
+GID0091676,HOT Tasking Manager,Humanitarian OpenStreetMap Team,USNP,US,high,,,True,auto:agree,Humanitarian OpenStreetMap Team (HOTOSM),https://tasks.hotosm.org/about,agree
+GID0090151,Cider,UC Berkeley (Global Policy Lab),UNIV,US,high,,,False,out of D29 scope: agree,Regents of the University of California.,https://github.com/Global-Policy-Lab/cider/blob/master/LICENSE.txt,agree
+GID0091682,LibreSign,LibreCode (cooperative),CO,BR,medium,,,False,auto:agree,LibreCode coop,"Go to this webpage: https://busca.inpi.gov.br/pePI/jsp/programas/ProgramaSearchBasico.jsp
+ Fill LibreSign at the field ""Conntenha todas as palavras .... no título do programa""
+ And then will be possible see the PDF of registration certificate.
+ 
+ You also can make the search using our ""Número do pedido"" (process number): BR512021001420-0",agree
+GID0091685,Health Claims Data Exchange,Swasth Digital Health Foundation,NP,IN,high,,,False,out of D29 scope: agree,Swasth Digital Health Foundation,"https://github.com/Swasth-Digital-Health-Foundation/hcx-platform/blob/main/LICENSE, https://swasthalliance.org/health-claims-exchange.html",agree
+GID0090038,Glific,Project Tech4Dev (Chintu Gudiya Foundation),NP,IN,high,,,False,out of D29 scope: agree,Project Tech4Dev,"https://projecttech4dev.org/glific/
+ 
+ Glific is an initiative of Project Tech4Dev.",agree
+GID0090946,Bebbo Parenting App,UNICEF (Europe & Central Asia Regional Office),UN,,high,,,False,auto:agree,UNICEF,"https://www.bebbo.app/about-us,
+ https://www.unicef.org/eca/bebbo-parenting-app",agree
+GID0090071,ODK,Get ODK Inc,CO,US,medium,,,False,auto:agree,Get ODK Inc,https://github.com/getodk/governance,agree
+GID0090068,Mozilla Common Voice,Mozilla Foundation,USNP,US,high,,,True,auto:agree,Mozilla FOUNDATION,https://github.com/common-voice/common-voice/blob/main/LICENSE,agree
+GID0090217,E-Heza,TIP Global Health,USNP,US,high,,,True,auto:agree,TIP Global Health,https://github.com/TIP-Global-Health/eheza-app/blob/main/LICENSE.txt,agree
+GID0090065,Modular Open Source Identity Platform,IIIT Bangalore (MOSIP),UNIV,IN,high,Gates Foundation; Omidyar Network; Tata Trusts,,False,auto:agree,International Institute of Information Technology Bangalore,"https://www.mosip.io/ip_policy
+ https://iiitb.ac.in/projects/mosip-2
+ 
+ MOSIP is a project of the International Institute of Information Technology Bangalore, a deemed University under Indian laws. 
+ For documents related to trademarking of the word and logo ""MOSIP"", we are happy to share the legal documents (PDFs) based on request.",agree
+GID0090109,Sunbird,EkStep Foundation,NP,IN,high,,,False,auto:agree,EkStep Foundation,https://sunbird.org/software-license,agree
+GID0090385,LibreOffice,The Document Foundation,NP,DE,high,,,False,out of D29 scope: agree,The Document Foundation,https://www.libreoffice.org/about-us/who-are-we/,agree
+GID0090906,Crosscut,Crosscut,UNKNOWN,,low,,,False,auto:disagree,Crosscut,https://crosscut.io,agree
+GID0091739,Food Fortification Quality Management System,PATH,USNP,US,high,,,True,auto:agree,PATH,https://food.fortification.in/aboutUs.html,agree
+GID0090939,AGROVOC Multilingual Thesaurus,FAO,UN,,high,,,False,auto:agree,Food and Agriculture Organization of the United Nations (FAO),https://www.fao.org/agrovoc/about,agree
+GID0090194,OpenHexa,Bluesquare,CO,BE,high,,,False,auto:agree,Bluesquare SA,https://www.bluesquarehub.com/openhexa/,agree
+GID0090129,DHIS2,University of Oslo (HISP Centre),UNIV,NO,high,,,False,auto:agree,"HISP Centre, University of Oslo","https://github.com/dhis2/dhis2-core/blob/master/LICENSE
+ https://dhis2.org/about/",agree
+GID0090896,OpenMandriva Lx,OpenMandriva Association,NP,FR,high,,,False,out of D29 scope: agree,OpenMandriva Association,https://wiki.openmandriva.org/en/policies/oma-tm-licence-en,agree
+GID0090012,Cboard,OTTAA Project,UNKNOWN,,low,,"D38: declared project; web copyright names Assistive Communication LLC, legal form unclear",False,F12:rebuilt,ottaa project,https://www.cboard.io/cboard/unicef/ottaa%20project/2021/11/25/cboard-and-ottaa-project/,unresolved
+GID0090195,OpenSPP,OpenSPP (project),COMM,,low,GIZ; Newlogic,"D38: declared 'OpenSPP' (copyright file in the project repo), not a legal entity; GIZ is an implementer",False,F12:rebuilt,OpenSPP,https://github.com/openspp-project/openspp-program/blob/15.0/COPYRIGHT,unresolved
+GID0090750,OpenELIS Global,University of Washington (I-TECH / DIGI),UNIV,US,high,,PEPFAR/CDC-funded programme; check,False,auto:agree,The University of Washington (steward),https://www.go2itech.org/digital-initiatives-group-at-i-tech/openelis-global/,agree
+GID0090594,Querido Diário,Open Knowledge Brasil,NP,BR,high,,,False,out of D29 scope: agree,Open Knowledge Brasil (OKBR),"Project website - https://queridodiario.ok.org.br/en-US/privacidade ,
+ OKBR's website - https://ok.org.br/projetos/querido-diario/",agree
+GID0090185,Torkel Opsahl Academic EPublisher,CILRAP (Centre for International Law Research and Policy),NP,BE,high,,,False,out of D29 scope: agree,Centre for International Law Research and Policy (CILRAP),https://toaep.org/copyright/,agree
+GID0090056,Lexsitus,CILRAP (Centre for International Law Research and Policy),NP,BE,high,,,False,out of D29 scope: agree,Centre for International Law Research and Policy (CILRAP),https://cilrap-lexsitus.org/en/copyright,agree
+GID0090259,TrueNAS,iXsystems Inc,CO,US,high,,,False,auto:agree,"iXsystems, Inc. dba TrueNAS",https://www.truenas.com/trademarks/,agree
+GID0090320,Open Health Stack,Google,CO,US,high,,,False,auto:agree,Google Health,https://developers.google.com/open-health-stack,agree
+GID0090045,Harmony,Zenysis Technologies,CO,US,high,,,False,auto:agree,Zenysis Technologies Inc.,https://www.zenysis.com/solution/platform/,agree
+GID0090084,OpenMRS,OpenMRS Inc,USNP,US,high,,,True,auto:agree,"OpenMRS, Inc.",https://openmrs.atlassian.net/wiki/spaces/Archives/pages/26312438/OpenMRS+Trademark+Policy,agree
+GID0090091,RapidPro,UNICEF,UN,,high,Nyaruka,,False,auto:agree,UNICEF,https://github.com/rapidpro/rapidpro/blob/main/LICENSE,agree
+GID0091039,Mautic,Open Source Collective,USNP,US,medium,Acquia,"D38: declared: fiscally hosted by Open Source Collective, which holds the trademarks",True,F12:rebuilt,"Mautic is fiscally hosted by Open Source Collective, who hold the trademarks and brand on behalf of the project.","Evidence of trademark ownership by Open Source Collective can be found on the USPTO trademark database: https://nimb.ws/5Ojsg2,
+ 
+ Details of our move to become an independent open source project can be found here: https://www.mautic.org/blog/community/towards-a-future-of-independence,
+ 
+ Our governance model can be found here: https://contribute.mautic.org/governance/governance.",conflict_resolved_to_declared
+GID0090949,Dalgo,Project Tech4Dev (Chintu Gudiya Foundation),NP,IN,high,,,False,out of D29 scope: agree,Project Tech4Dev,https://projecttech4dev.org/dalgo/,agree
+GID0091778,TYPO3,TYPO3 Association,NP,CH,high,,,False,out of D29 scope: agree,TYPO3 Association,"TYPO3 Association is the owner of the TYPO3 trademark: https://trademarks.justia.com/850/24/typo3-85024444.html
+ 
+ TYPO3 Association bylaws: https://typo3.org/project/association/by-laws
+ 
+ https://typo3.org/project states ""The TYPO3 project was initiated in 1997 by Danish developer Kasper Skårhøj. […] Kasper is no longer involved in the project, and the TYPO3 Association has taken over the responsibility to coordinate the project and manage the TYPO3 brand.""",agree
+GID0091790,Food Price Monitoring and Analysis Tool,FAO,UN,,high,,,False,auto:agree,Food and Agriculture Organization of the United Nations,https://www.fao.org/giews/food-prices/price-tool/,agree
+GID0091826,The Land Portal,Land Portal Foundation,NP,NL,high,,,False,auto:agree,Stiching The Land Portal (Land Portal Foundation),"https://landportal.org/about/foundation
+ 
+ https://landportal.org/sites/landportal.org/files/2024/07/Land%20Portal%20-%20Non%20profit%20organisations%20information%20-%20anbi-format-650-fondswerv-organisaties%20per%2031%20December%202023.pdf",agree
+GID0090006,Apache Fineract,Apache Software Foundation,USNP,US,high,Mifos Initiative,,True,auto:agree,Apache Software Foundation,"Originally donated by The Mifos Initiative in 2016, now trademarked Apache Fineract(R) 
+ https://projects.apache.org/project.html?fineract",agree
+GID0090229,Consul Democracy,Consul Democracy Foundation,NP,ES,medium,Madrid City Council,,False,auto:agree,The original author of the software is the Madrid City Council. The Consul Democracy Foundation is the owner and maintainer of the main international GitHub repository used by all cities using the software worldwide.,"https://github.com/consuldemocracy/consuldemocracy
+ https://github.com/consuldemocracy/consuldemocracy/blob/master/LICENSE-AGPLv3.txt,
+ https://consuldemocracy.org",agree
+GID0090318,UNIDO Industrial Analytics Platform,UNIDO,UN,,high,,,False,auto:agree,United Nations Industrial Development Organization (UNIDO),"https://open.unido.org/projects/M0/projects/190326,
+ https://open.unido.org/projects/M0/projects/210170",agree
+GID0090061,Mifos X,Mifos Initiative,USNP,US,high,,,True,auto:agree,The Mifos Initiative,https://mifos.org/about-us/financial-legal/,agree
+GID0090039,Global Healthsites Mapping Project,Open Healthsite Consulting,CO,,low,Kartoza,D38: declared consultancy; legal entity and country unverified,False,F12:rebuilt,Open Healthsite Consulting,https://github.com/healthsites/healthsites/wiki/healthsites---privacy-policy,unresolved
+GID0090953,Avni,Samanvay Research and Development Foundation,NP,IN,high,,,False,auto:agree,Samanvay Foundation,"https://avniproject.org/about,
+ https://www.samanvayfoundation.org/products",agree
+GID0090552,FormSG,Open Government Products (GovTech Singapore),GOV,SG,high,,,False,out of D29 scope: agree,"Open Government Products, Government Technology Agency of Singapore","https://www.open.gov.sg/products/formsg/ ;
+ 
+ https://www.developer.tech.gov.sg/products/categories/productivity-tools/formsg/overview.html",agree
+GID0090967,Agrontology,FAO,UN,,high,,,False,auto:agree,Food and Agriculture Organization of the United Nations (FAO),"https://aims.fao.org/agrontology, https://www.fao.org/agrovoc/agrontology",agree
+GID0090019,Care,Open Healthcare Network Foundation,NP,IN,high,,,False,out of D29 scope: agree,Open Healthcare Network,https://ohc.network/,agree
+GID0090100,Simple,Resolve to Save Lives,USNP,US,high,Vital Strategies,,True,auto:agree,Resolve to Save Lives,https://www.simple.org/license/,agree
+GID0090107,Sunbird RC,EkStep Foundation,NP,IN,high,,,False,auto:agree,EkStep Foundation,https://sunbird.org/software-license,agree
+GID0090042,GNU Health,GNU Solidario,NP,ES,high,,,False,out of D29 scope: agree,GNU Solidario,https://www.gnusolidario.org/about-us.html,agree
+GID0090440,Drupal,Drupal Association,USNP,US,high,,,True,auto:agree,"Drupal Association, 501c3 and [individual], Drupal Founder.","Website of the organization - https://drupal.org/association,
+ Trademark: https://www.drupal.org/about/trademark",agree
+GID0090413,Janssen Project,Linux Foundation (Janssen Project),USNP,US,medium,Gluu Inc,,True,auto:agree,Linux Foundation,"https://www.linuxfoundation.org/projects,
+ https://github.com/JanssenProject/jans/blob/main/docs/governance/charter.md
+ 
+ The ""Janssen Project"" name and logo are also Linux Foundation trademarks.",agree
+GID0090016,CommCare,Dimagi Inc,CO,US,high,,,False,auto:agree,Dimagi,"CommCare is an ecosystem of open source components, fronted by CommCareHQ (Web) and CommCare Mobile. CommCare Web is sourced under the open source BSD license while CommCare Mobile is sourced under the Apache License. Everything we produce is clearly defined for both: 
+ 
+ Functional: https://confluence.dimagi.com/display/commcarepublic/Home 
+ Technical: https://github.com/dimagi/",agree
+GID0090705,Open Terms Archive,Open Terms Archive Collective,NP,FR,medium,,D38: declared collective; legal form from outside knowledge (earlier GOV guess dropped),False,F12:rebuilt,Open Terms Archive Collective,https://opentermsarchive.org/about,conflict_resolved_to_declared
+GID0090193,OpenRIMS,Management Sciences for Health,USNP,US,high,,,True,auto:agree,Management Sciences for Health,https://www.openrims.org/,agree
+GID0091848,Wikipedia,Wikimedia Foundation,USNP,US,high,,,True,auto:agree,"Wikimedia Foundation, Inc.","Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ https://wikimediafoundation.org/,
+ https://foundation.wikimedia.org/wiki/Legal:Wikimedia_trademarks,
+ https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#6._Trademarks",agree
+GID0090066,Mojaloop,Mojaloop Foundation,USNP,US,medium,Gates Foundation,,True,auto:agree,Mojaloop Foundation,https://mojaloop.io/wp-content/uploads/2020/06/Mojaloop-Foundation-inc_Bylaws_as-of-20200430.pdf,agree
+GID0090095,SanteSuite,SanteSuite Inc,CO,CA,medium,Fyfe Software,,False,auto:agree,SantéSuite Inc.,https://github.com/santedb/santedb-server/blob/master/SanteDB.licenseheader,agree
+GID0090277,OpenFisca,OpenFisca Foundation,NP,FR,medium,,D38: declared foundation,False,F12:rebuilt,OpenFisca Foundation,"OpenFisca Core has been incubated within the French state (https://beta.gouv.fr/startups/openfisca), shifting across ministries (see https://openfisca.org/en/about/). As it scales up and internationally, the decision has been made to transition its operations to a dedicated NGO. This incorporation has taken place in January 2025, as can be seen in the founding members memberships on https://opencollective.com/openfisca. The formal receipt of incorporation will be provided by the French administration in the next weeks.",conflict_resolved_to_declared
+GID0091856,Tor Browser,The Tor Project,USNP,US,high,,,True,auto:agree,Tor Project,https://www.torproject.org/about/history,agree
+GID0090848,The Turing Way,The Alan Turing Institute,NP,GB,medium,,,False,auto:agree,"The project is owned by the community, currently hosted by The Alan Turing Institute.","https://book.the-turing-way.org/foreword/cite
+ https://book.the-turing-way.org/afterword/contributors-record#project-delivery-team-members",agree
+GID0091862,OpenEWS,Chatterbox Solutions,CO,KH,medium,UNICEF Venture Fund,D38: declared company behind Somleng/OpenEWS,False,F12:rebuilt,Chatterbox Solutions,https://www.somleng.org/,conflict_resolved_to_declared
+GID0091863,AgriTech Observatory,FAO,UN,,high,,,False,auto:agree,FAO Regional Office for Europe and Central Asia,https://agritechobservatory.fao.org/about,agree
+GID0091140,Chamilo,Chamilo Association,NP,BE,low,BeezNest,,False,auto:disagree,Chamilo Association,https://euipo.europa.eu/eSearch/#details/trademarks/008726515,agree
+GID0090263,OpenG2P,International Institute of Information Technology Bangalore,UNIV,IN,high,IIIT Bangalore,D38: declared owner is the institute (same as MOSIP),False,F12:rebuilt,International Institute of Information Technology Bangalore,Refer to https://www.openg2p.org,conflict_resolved_to_declared
+GID0091909,Ozone,Mekom Solutions Pte Ltd,CO,SG,high,,D38: declared name; Pte Ltd is the Singapore form,False,F12:rebuilt,Mekom Solutions Pte Ltd,"Please refer to our Terms of Use at https://www.ozone-his.com/terms-of-use, which clearly state that Ozone is owned by Mekom Solutions.",conflict_resolved_to_declared
+GID0091917,Accessible Medical Records via Integrated Technologies,Piramal Swasthya Management and Research Institute,NP,IN,high,,,False,auto:agree,Piramal Swasthya Management and Research Institute,"AMRIT has been developed as an in-house initiative by Piramal Swasthya Management and Research Institute (PSMRI). PSMRI is part of the Piramal Foundation, the philanthropic arm of the Piramal Group. PSMRI's goal is to make healthcare accessible, affordable, and available to all, especially those who are most vulnerable.
+ 
+ https://www.piramalswasthya.org/building-sustainability-framework/",agree
+GID0090527,CKAN,Open Knowledge Foundation,NP,GB,medium,Datopian; Link Digital,,False,auto:agree,Open Knowledge Foundation,"License - https://github.com/ckan/ckan/blob/master/LICENSE.txt ,
+ Website - https://ckan.org/faq/essential , 
+ Trademark - https://euipo.europa.eu/eSearch/#details/trademarks/011961158",agree
+GID0091075,QField,OPENGIS.ch GmbH,CO,CH,high,,,False,auto:agree,OPENGIS.ch,https://euipo.europa.eu/eSearch/#details/trademarks/018932740,agree
+GID0090054,Kolibri,Learning Equality,USNP,US,high,,,True,auto:agree,Learning Equality,https://learningequality.org/r/Kolibri-TESS,agree
+GID0091996,Data Norge,Norwegian Digitalisation Agency (Digdir),GOV,NO,high,,,False,auto:agree,The Norwegian Digitalization Agency,"https://data.norge.no/en/about
+ https://data.norge.no/en (in footer)
+ https://data.norge.no/publishing (in footer)
+ https://samarbeid.digdir.no/felles-datakatalog/datanorgeno/1617",agree
+GID0092012,Pix,Pix (GIP),GOV,FR,medium,,,False,auto:agree,Groupement Intérêt Public Pix,"https://pix.org/en/legal-notice/
+ Ministerial decrees : 
+ https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000034517672 
+ https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045602276",agree
+GID0090003,AccessMod,University of Geneva (GeoHealth),UNIV,CH,medium,World Health Organization,,False,auto:agree,"University of Geneva, GeoHealth group",http://www.accessmod.org,agree
+GID0092040,IATI Data,IATI Secretariat,UN,,medium,UNDP; UNOPS,,False,auto:agree,International Aid Transparency Initiative,"IATI is the custodian of all IATI data. The data is based on a distributed ownership model - IATI (International Aid Transparency Initiative) is owned by a collaborative partnership involving the IATI Steering Committee, consisting of representatives from various international organizations and stakeholders. Ownership is detailed on the IATI Governance page, which provides information about the IATI Steering Committee and its role in overseeing the development and usage of the IATI standard. https://iatistandard.org/en/governance/",agree
+GID0090033,farmOS,farmOS (community),COMM,US,low,Farmier,,False,auto:agree,farmOS,https://farmos.org/community/trademark,agree
+GID0092044,Marine Spatial Planning - SAHAV ,National Centre for Coastal Research (Ministry of Earth Sciences),GOV,IN,high,,,False,out of D29 scope: agree,"National Centre for Coastal Research, Ministry of Earth Sciences, Government of India",https://www.nccr.gov.in/sites/default/files/th14feb23.pdf,agree
+GID0092066,Statbus,Statistics Norway,GOV,NO,high,,,False,auto:agree,"SSB, Statistics Norway",https://www.statbus.org/,agree
+GID0092078,GAUL 2024,FAO,UN,,high,,,False,auto:agree,FAO,https://data.apps.fao.org/catalog/dataset/b0634117-37c0-4125-ad87-89cb9aec4eea/resource/6f356517-8469-4c41-a802-9883b25612a2/download/gaul2024termsofuse.pdf,agree
+GID0092082,WSO2 Identity Server,WSO2 LLC,CO,US,high,,,False,auto:agree,WSO2 LLC,"The ownership and development of WSO2 IS are clearly attributed to WSO2 LLC.
+ https://github.com/wso2/product-is/blob/master/release-notes.html
+ 
+ More details can be found at the website: https://wso2.com/identity-server and the documentation: https://is.docs.wso2.com/en/latest/",agree
+GID0090145,Global Human Settlement Layer,European Commission Joint Research Centre,GOV,EU,high,,,False,out of D29 scope: disagree,European Commission,https://human-settlement.emergency.copernicus.eu/about.php,agree
+GID0091291,Quantification Analytics Tool,Chemonics International,CO,US,high,,D38: declared owner is Chemonics; built under the USAID GHSC-PSM programme it implemented,False,F12:rebuilt,"Chemonics International, Inc.",https://github.com/FASP-QAT/fasp-core-ui/blob/master/README.md,conflict_resolved_to_declared
+GID0090044,Hand-in-Hand Geospatial Platform,FAO,UN,,high,,,False,auto:agree,FAO,https://www.fao.org/hih-geospatial-platform/en/,agree
+GID0092151,Pol.is,The Computational Democracy Project,USNP,US,medium,,D38: declared 'Math & Democracy' (terms of service); other clues name the Computational Democracy Project,True,F12:rebuilt,Math & Democracy,https://pol.is/tos,conflict_capped_medium
+GID0090029,FAO Digital Services Portfolio,FAO,UN,,high,,,False,auto:agree,FAO,http://www.fao.org/digital-agriculture/digital-portfolio/en/,agree
+GID0092221,MyChild HelpLine,UNICEF (Eastern Caribbean Area Office),UN,,high,,,False,auto:agree,UNICEF Eastern Caribbean Area Office,https://www.mychildhelpline.org/mychild_helpline.html,agree
+GID0092223,SYSPIN,Indian Institute of Science (IISc),UNIV,IN,high,GIZ,,False,auto:agree,"Indian Institute of Science (IISc), Bangalore",https://spiredatasets.ee.iisc.ac.in/syspincorpus,agree
+GID0090340,Rights Tracker,Human Rights Measurement Initiative,NP,NZ,high,,,False,auto:agree,Human Rights Measurement Initiative Charitable Trust,https://rightstracker.org/en/page/about,agree
+GID0092260,Designsystemet,Norwegian Digitalisation Agency (Digdir),GOV,NO,high,,,False,out of D29 scope: agree,The Norwegian Digitalisation Agency,"Designsystemet is developed and maintained by The Norwegian Digitalisation Agency (Digdir). The GitHub repository, which contains the source code, explicitly lists The Norwegian Digitalisation Agency as the owner and maintainer. All contributions to Designsystemet are governed by contribution guidelines, and the repository includes a LICENSE file (MIT License) clarifying that Digdir holds the copyright. Evidence of ownership: 
+ 
+ Official organization website: https://www.digdir.no/ 
+ Design System documentation site: https://designsystemet.no/ 
+ GitHub repository with LICENSE and ownership info: https://github.com/digdir/designsystem",agree
+GID0091413,Creative Commons Legal Tools,Creative Commons,USNP,US,high,,,True,auto:agree,Creative Commons,"History of Creative Commons - https://creativecommons.org/timeline/,
+ Trademark Policy - https://creativecommons.org/policies/#trademark,
+ Terms of Use - https://creativecommons.org/terms/",agree
+GID0092292,Joomla CMS,Open Source Matters Inc,USNP,US,high,,,True,auto:agree,"Open Source Matters, Inc","Open Source Matters, Inc. (OSM) holds Joomla’s copyrights and trademarks and provides the legal/organizational home for the project. The “About the Joomla Project” and OSM policies describe this clearly; OSM’s bylaws are public.
+ 
+ Evidence
+ https://www.joomla.org/about-joomla/the-project.html
+ https://tm.joomla.org/trademark-license.html
+ https://trademark.justia.com/772/24/joomla-77224536.html
+ https://www.opensourcematters.org/images/documents/20210130-OSM-Bylaws.pdf",agree
+GID0090099,Sentinel-2 10m Land Use/Land Cover Time Series,Impact Observatory Inc,CO,US,high,Esri; Microsoft,,False,auto:agree,Impact Observatory Inc.,https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d,agree
+GID0090090,Rahat,Rumsan,CO,NP,medium,UNICEF Venture Fund,,False,auto:agree,Rumsan Associates Private Limited,The Rahat platform is managed and maintained by Rumsan (www.rumsan.com). Ownership details and platform information are available at Rumsan's website. You can also access the repository and platform specifics on GitHub (www.github.com/rahataid) and learn more at Rahat's official site (www.rahat.io) and www.docs.rahat.io for technical documentation.,agree
+GID0090043,Govdirectory,Govdirectory (community),COMM,,low,,,False,auto:agree,Govdirectory,https://github.com/govdirectory/website/blob/main/README.md,agree
+GID0090125,X-Road®,Nordic Institute for Interoperability Solutions (NIIS),GOV,EE,low,,,False,auto:disagree,Nordic Institute for Interoperability Solutions (NIIS),https://github.com/nordic-institute/X-Road/blob/develop/LICENSE,agree
+GID0092379,Rafiki,Interledger Foundation,USNP,US,high,,,True,auto:agree,Interledger Foundation,"Rafiki was originally developed by Coil Technologies Inc. and was donated to the Interledger Foundation in 2023. The Interledger Foundation now stewards the development of Rafiki. This arrangement is acknowledged in the footer of the Rafiki webpage (https://rafiki.dev), on the Developers Portal on the Interledger Foundation website (https://interledger.org/developers/), and by hosting the source code for Rafiki on the Interledger Foundation's Github account, which shows the project provenance (https://github.com/interledger/rafiki/).
+ 
+ The term ""Rafiki"" is not trademarked.",agree
+GID0092384,La Suite Drive,DINUM (French interministerial digital directorate),GOV,FR,high,,,False,out of D29 scope: agree,Direction Interministérielle du Numérique (DINUM),https://github.com/suitenumerique/drive/blob/main/LICENSE,agree
+GID0092393,La Suite Meet,DINUM (French interministerial digital directorate),GOV,FR,high,,,False,out of D29 scope: agree,Direction Interministérielle du Numérique (DINUM),https://github.com/suitenumerique/meet/blob/main/LICENSE.md,agree
+GID0092407,OpenCHS,BITZ IT Consulting Ltd,CO,KE,high,,,False,auto:agree,BITZ IT CONSULTING,https://github.com/BITZ-IT-Consulting-LTD/ai,agree
+GID0092457,Open Data Editor,Open Knowledge Foundation,NP,GB,high,,,False,auto:agree,Open Knowledge Foundation,"https://opendataeditor.okfn.org/contributing/interim-governance/
+ https://okfn.org/en/projects/open-data-editor/",agree
+GID0092472,PeerTube,Framasoft,NP,FR,high,,,False,out of D29 scope: agree,Framasoft,"- https://joinpeertube.org/faq#who-is-working-on-peertube
+ - https://joinpeertube.org
+ - https://github.com/Chocobozzz/PeerTube/
+ - https://framasoft.org/en/trademarks",agree
+GID0092599,Compar:IA,Ministry of Culture (France),GOV,FR,medium,DINUM (French interministerial digital directorate),"D38: declared ministry; contact is DINUM, so a conflict",False,F12:rebuilt,Ministry of Culture - France,"https://comparia.beta.gouv.fr/mentions-legales
+ https://beta.gouv.fr/startups/languia.html",conflict_capped_medium
+GID0092635,MapBiomas Brazil,MapBiomas,NP,BR,low,,check legal entity,False,auto:disagree,MapBiomas Network,"MapBiomas is not owned by a single legal entity but rather a collaborative initiative between several NGOs, universities, and technology companies. Institutional support and fiscal sponsorship are provided by Arapyaú Institute, AVINA Foundation and the Institute to Support MapBiomas (IAMap).
+ 
+ https://brasil.mapbiomas.org/en/quem-somos",agree
+GID0092690,Green Roads Toolkit,Asian Development Bank,MDB,,high,,,False,auto:agree,Asian Development Bank,https://data.adb.org/terms-use-data,agree
+GID0092714,Wikidata,Wikimedia Foundation,USNP,US,high,Wikimedia Deutschland e.V.,"D38: declared Wikimedia Foundation, Inc.; Wikimedia Deutschland develops it",True,F12:rebuilt,"Wikimedia Foundation, Inc.","Wikidata is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ https://wikimediafoundation.org/,
+ https://foundation.wikimedia.org/wiki/Legal:Wikimedia_trademarks,
+ https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#6._Trademarks",conflict_resolved_to_declared
+GID0092718,Rural Environmental Registry Registration Module,Government of Brazil (Rural Environmental Registry / SFB),GOV,BR,high,,,False,auto:agree,Government of Brazil - Ministry of Management and Innovation in Public Services,"The solutions’ Github page states copyright and ownership of the solution in its Read.me file. https://github.com/Rural-Environmental-Registry/core
+ 
+ RER has been developed through the contract between the Ministry of Management and Innovation in Public Services (MGI) and Dataprev, a Brazilian State Owned Enterprise for technology. The Term of Reference (document attached) that is part of the contract clearly stablishes the ownership and property of all developed solutions as part of the contract on its item 4.15.3 that: 
+ 	“The intellectual property and copyright of the data and information and any type of work related to the CONTRACTING PARTY's demands will be owned by the CONTRACTING PARTY, except for those not owned by MGI or the bodies that are part of the Collaborative Arrangement. The CONTRACTED PARTY must refrain from disclosing or passing on any data or information, unless expressly authorized by the CONTRACTING PARTY.” 
+ Link to document: 
+  https://drive.google.com/file/d/1oYDEKS_XD0HwyR1_I17p3XnFFVo79BY8/view?usp=sharing 
+ 
+ The federal decree that stablishes the competences of the Ministry of Management and Innovation in Public Services (MGI), Decree nº 12.102/2024, stablishes the competence of the Ministry to manage the Rural Environmental Registry (Cadastro Ambiental Rural) and its systems (Article 1-item XII, Article 15). Link to the decree:  
+              https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Decreto/D12102.htm#art7",agree
+GID0092823,Ghost,Ghost Foundation,NP,SG,medium,,,False,auto:agree,Ghost Foundation Ltd,"USPTO - https://tmog.uspto.gov/#/issueDate=2023-03-21&serialNumber=97049806
+ 
+ EUIPO - https://euipo.europa.eu/eSearch/#basic/1+1+1+1/100+100+100+100/012308946
+ 
+ UKIPO - https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00912308946",agree
+GID0090130,KoboToolbox,Kobo Inc,USNP,US,high,,,True,auto:agree,"Kobo, Inc","https://www.kobotoolbox.org/terms/   
+ https://www.kobotoolbox.org/about-us/  
+ https://www.kobotoolbox.org/about-us/the-organization/",agree
+GID0090041,GLOBALEAKS,Whistleblowing Solutions Impresa Sociale S.r.l.,CO,IT,medium,Hermes Center for Transparency and Digital Human Rights,D38: declared social enterprise; Hermes Center is the GitHub-visible partner,False,F12:rebuilt,Whistleblowing Solutions Impresa Sociale S.r.l.,"https://www.globaleaks.org/about
+ 
+ https://github.com/globaleaks/globaleaks-whistleblowing-software/blob/stable/LICENSE",conflict_capped_medium
+GID0092885,Penpot,Kaleidos (Penpot),CO,ES,high,,,False,auto:agree,Kaleidos,https://penpot.app/terms,agree
+GID0092888,CodeCarbon,CodeCarbon (community),COMM,,low,,,False,auto:agree,Code Carbon,https://github.com/mlco2/codecarbon/blob/master/LICENSE,agree
+GID0092892,Biomass Prediction Model,Vertify.earth,CO,,low,,D38: declared name only; legal form and country unverified,False,F12:rebuilt,Vertify.earth,"The vertify Biomass Prediction Model is owned and maintained by Vertify, a private organization. The development of this solution was funded by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH through its Fair Forward program. Link to company: https://www.vertify.earth/",unresolved
+GID0092900,Software Heritage Archive,Inria (Software Heritage),GOV,FR,high,UNESCO,,False,out of D29 scope: agree,INRIA and Fondation INRIA,https://www.softwareheritage.org/legal/,agree
+GID0092909,AgriOS,Advance Insight,CO,,low,,,False,auto:agree,Advance Insight,"Current Ownership & Copyright AgriOS is currently owned and maintained by Advance Insight, a technology company based in Kenya and the Netherlands. AgriOS is the company's flagship application in the agri-food sector. While the core platform is built upon Odoo Community (which is licensed under LGPLv3), the specific code, modules, and configurations constituting ""AgriOS"" are the copyright of Advance Insight.
+ 
+ AgriOS is a mixed-license project.
+ - AgriOS-specific modules are licensed under MPL-2.0
+ - Odoo Community components are licensed under LGPL-3.0
+ 
+ Future Governance To ensure long-term neutrality and status as a Digital Public Good, we are in the process of spinning AgriOS out into an independent entity. We intend to release AgriOS under the stewardship of the Linux Foundation to guarantee it remains a community-owned asset independent of any single commercial vendor.
+ 
+ Links to Evidence:
+ Official Website: AgriOS.org: mentions the open-source nature and Advance Insight role.
+ Parent Organisation: AdvanceInsight.dev: demonstrates AgriOS is a product of this entity.
+ Donor mention: https://www.linkedin.com/feed/update/urn:li:activity:7331320193513660417/
+ Advance Insight post about AgriOS: https://www.linkedin.com/posts/advanceinsight_agrios-opensource-erp-activity-7379414500489367553-VZLu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmXfJEBCoj9hcdnmBItNxgA_TEv04KZ0f0
+ Code Repository: https://github.com/advanceinsight/AgriOS",agree
+GID0090137,African Storybook,Saide (South African Institute for Distance Education),NP,ZA,high,,,False,out of D29 scope: agree,South African Institution for Distance Education (Saide),"https://www.africanstorybook.org
+ https://www.saide.org.za
+ https://storybooksafricanlanguages.net",agree
+GID0091633,National Carbon Credit Registry,UNDP,UN,,high,,,False,auto:agree,United Nations Development Programme,https://github.com/undp/carbon-registry/tree/main?tab=readme-ov-file#governance-and-support,agree
+GID0093036,OSHWA Open Source Hardware Certification Data,Open Source Hardware Association,USNP,US,high,,,True,auto:agree,Open Source Hardware Association,https://oshwa.org/,agree
+GID0093041,SimpleAudit,SimulaMet,UNIV,NO,medium,,D38: declared 'Simula Research Laboratory' not matched to row; capped medium. ,False,out of D29 scope: disagree,Simula Research Laboratory,https://github.com/kelkalot/simpleaudit/blob/main/LICENSE,unresolved
+GID0091581,Open Sustainable Technology,protontypes (community),COMM,DE,low,,,False,auto:agree,prototypes Community,"Website: https://protontypes.eu/
+ Namespace: https://github.com/protontypes
+ 
+ protontypes is a free open source community without legal identity so far. 
+ Board of directors: [individual], Andrew Nesbit, and Josh Hopkins.",agree
+GID0093103,neotree,Neotree,NP,GB,high,,,False,auto:agree,The Neotree Charity,"Neotree is a UK registered charity (Charity Number: 1186748) that owns and maintains the digital solution.
+ 
+   Ownership documentation:
+ 
+   1. UK Charity Commission Registration: https://register-of-charities.charitycommission.gov.uk/charity-details/?regId=1186748&subId=0
+     - Confirms Neotree as the legal entity (registered charity)
+   2. GitHub MIT License: https://github.com/neotree/neotree/blob/master/LICENSE
+     - States ""Copyright (c) 2022 Neotree"" under MIT License
+     - All repositories under github.com/neotree use this same license
+   3. Neotree Website - About Page: https://www.neotree.org/about
+     - Displays charity registration number (1186748) and organizational governance",agree
+GID0093129,SMILE,UNDP Indonesia,UN,,medium,Ministry of Health Indonesia,,False,auto:agree,United Nations Development Programme (UNDP),https://github.com/smile-health/smile/blob/main/OWNERSHIP.md,agree
+GID0093201,The Climate Action Data Trust,Climate Action Data Trust,NP,SG,medium,World Bank; Chia Network,,False,auto:agree,Climate Action Data Trust Ltd,"1. Governance: https://climateactiondata.org/about/
+ 
+ 2. GitHub note on Climate Action Data Trust: https://github.com/Chia-Network/cadt?tab=readme-ov-file
+ 
+ 3. Terms for data providers and users: 
+ https://climateactiondata.org/wp-content/uploads/2023/12/CAD-Trust-Registry-Terms-and-Conditions-2023.pdf
+ 
+ https://climateactiondata.org/wp-content/uploads/2023/12/CAD-Trust-User-Terms-and-Conditions.pdf",agree
+GID0093220,Compar:IA Datatsets,Ministry of Culture (France),GOV,FR,medium,DINUM (French interministerial digital directorate),"D38: declared ministry; contact is DINUM, so a conflict",False,F12:rebuilt,Ministry of Culture - France,"https://huggingface.co/ministere-culture
+ https://comparia.beta.gouv.fr/
+ https://comparia.beta.gouv.fr/mentions-legales",conflict_capped_medium
+GID0091175,FAO Agricultural Stress Index System,FAO,UN,,high,,,False,auto:agree,UN FAO,"https://www.fao.org/3/ca7085en/ca7085en.pdf
+ https://www.fao.org/giews/earthobservation/access.jsp?lang=en",agree
+GID0092176,Mastodon,Mastodon gGmbH,NP,DE,high,Mastodon Inc (US),,False,out of D29 scope: agree,Mastodon gGmbH,"Mastodon has registered trademarks in EU, US, Canada e.g. https://joinmastodon.org/trademark",agree
+GID0091706,Trade Trust,Infocomm Media Development Authority (IMDA),GOV,SG,high,,,False,auto:agree,Singapore Infocomm Media Development Authority (IMDA),"https://www.tradetrust.io/about/who-we-are/
+ https://www.tradetrust.io/terms-of-use/",agree
+GID0092098,Docs - Collaborative Text Editing,DINUM (French interministerial digital directorate),GOV,FR,high,ZenDiS,,False,auto:agree,Direction Interministérielle du Numérique (DINUM),https://github.com/suitenumerique/docs/blob/main/LICENSE,agree
+GID0093552,Element,Element Creations Ltd,CO,GB,high,Matrix.org Foundation,D38: declared name (successor to New Vector Ltd),False,F12:rebuilt,Element Creations Ltd,"Element is owned and maintained by Element Creations Ltd. Ownership and governance are evidenced through the official GitHub organisation (element-hq), the Element website, and repository-level copyright notices in core components such as Synapse and Element Web. This is further defined in our Software and Services License Agreement (https://static.element.io/legal/element-software-and-services-license-agreement-uk-1.pdf), which governs the use of Element products.
+ 
+ The Element logo is trademarked in: 
+ - The UK (https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00003507853), 
+ - The US (https://tsdr.uspto.gov/#caseNumber=79305895&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch), 
+ - EU (https://branddb.wipo.int/en/similarname/brand/WO500000001579368?sort=score%20desc&start=0&rows=30&asStructure=%7B%22_id%22:%22f1af%22,%22boolean%22:%22AND%22,%22bricks%22:%5B%7B%22_id%22:%22f1b0%22,%22key%22:%22brandName%22,%22value%22:%22element%22,%22strategy%22:%22Simple%22%7D,%7B%22_id%22:%22f1b1%22,%22key%22:%22applicant%22,%22value%22:%22element%20creations%22,%22strategy%22:%22Simple%22%7D%5D%7D&_=1776863248546&fg=_void_&i=2) 
+ - Canada (https://branddb.wipo.int/en/similarname/brand/CA502020002089067?sort=score%20desc&start=0&rows=30&asStructure=%7B%22_id%22:%22f1af%22,%22boolean%22:%22AND%22,%22bricks%22:%5B%7B%22_id%22:%22f1b0%22,%22key%22:%22brandName%22,%22value%22:%22element%22,%22strategy%22:%22Simple%22%7D,%7B%22_id%22:%22f1b1%22,%22key%22:%22applicant%22,%22value%22:%22element%20creations%22,%22strategy%22:%22Simple%22%7D%5D%7D&_=1776863248546&fg=_void_&i=1). 
+ 
+ Our trademark policy can be seen here: https://element.io/en/legal/trademark-policy",conflict_resolved_to_declared
+GID0093688,FireForm,FireForm (community),COMM,US,low,,,False,auto:agree,"Accountable Entity: The intellectual property and copyright of the software code and content are owned by the original core creators: [individual], [individual], [individual], [individual], and [individual].",https://fireform-core.github.io/FireForm/dpg.html,unresolved
+GID0093698,SYNTH,Pleias,CO,FR,high,,,False,out of D29 scope: agree,PleIAs,https://pleias.fr/blog/blogsynth-the-new-data-frontier,agree
+GID0094184,Eurosky Identity Platform,Stichting Modal / Eurosky,NP,NL,medium,,D38: declared Dutch foundation (Stichting),False,F12:rebuilt,Stichting Modal / Eurosky,"Terms of Service identifying Stichting Modal (a Dutch non-profit foundation, The Hague, RSIN 868779465) as the operator of the Eurosky Personal Data Server and Portal: https://eurosky.tech/accounts/terms/
+ Privacy Policy identifying Stichting Modal as data controller: https://eurosky.tech/accounts/privacy
+ Public source repositories under the Eurosky GitHub organisation: https://github.com/eurosky-social",conflict_resolved_to_declared

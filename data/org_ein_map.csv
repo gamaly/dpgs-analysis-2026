@@ -1,0 +1,40 @@
+owner_name,ein,irs_name,city,state,attribution,confidence,evidence,notes,reviewed
+Apache Software Foundation,470825376,Apache Software Foundation,Wilmington,DE,host,high,exact name,hosts hundreds of projects; Fineract finances not separable,auto:agree
+Creative Commons,043585301,Creative Commons Corporation,Mountain View,CA,direct,high,exact legal name; known HQ,second hit 320821840 (Wilseyville CA) is unrelated,auto:agree
+DataKind,464082076,Datakind,Brooklyn,NY,partial,low,exact name; NY HQ,Data Observation Toolkit is one of many programmes,auto:disagree
+Development Gateway,522318905,Development Gateway Inc,Washington,DC,partial,high,exact name; DC HQ,several DPGs/products,auto:agree
+Digital Green,262418959,Digital Green Foundation,San Francisco,CA,partial,high,exact name,US entity; Indian trust files separately,auto:agree
+United Nations Foundation (host of Digital Impact Alliance),582368165,United Nations Foundation Inc,Washington,DC,host,medium,DIAL hosted by UN Foundation (from knowledge),owner rebuilt on clearOwnership (D38): legal host of DIAL; finances not attributable to the DPG,not coded by QC
+Drupal Association,271138640,DrupalCon Inc,Portland,OR,direct,medium,Portland HQ and revenue scale match; legal name differs from trading name,verify dba on a 990 PDF,auto:agree
+Humanitarian OpenStreetMap Team,273166713,Humanitarian Openstreetmap Team United States Inc,Washington,DC,direct,high,exact name,,auto:agree (lenient: direct vs partial)
+Interledger Foundation,842364885,Interledger Foundation,Tampa,FL,direct,high,exact name,,auto:agree (lenient: direct vs partial)
+IntraHealth International,550825466,Intrahealth International Inc,Bethesda,MD,parent,high,exact name,iHRIS is a minor part of a large USAID-funded org,auto:agree
+Kobo Inc,371934868,Kobo Inc,Cambridge,MA,direct,high,exact name; Cambridge MA (Harvard spin-out),,auto:agree
+LF Charities (Linux Foundation),841730246,Lf Charities Inc,Wilmington,DE,host,high,exact name,hosts several projects incl. Tazama,auto:agree
+Learning Equality,462676188,Foundation For Learning Equality Inc,La Jolla,CA,direct,high,legal name variant; only candidate,,auto:agree
+Linux Foundation (Janssen Project),460503801,The Linux Foundation,Wilmington,DE,host,high,exact name,501(c)(6); hosts hundreds of projects,auto:agree
+MITRE Corporation,042239742,The Mitre Corporation,Bedford,MA,parent,high,exact name,FFRDC operator; Synthea negligible share,auto:agree
+Management Sciences for Health,042482188,Management Sciences For Health Inc,Medford,MA,parent,high,exact name,OpenRIMS minor part of large USAID-funded org,auto:agree
+Medic (Medic Mobile Inc),275104203,Medic Mobile Inc,San Francisco,CA,direct,high,exact legal name,,auto:agree
+Medtronic LABS,812307516,Medtronic Global Health Foundation,Minneapolis,MN,direct,low,Medtronic HQ address; revenue falls to $0.3M in 2023 (possible spin-out to new entity),excluded until verified,auto:disagree
+Mifos Initiative,453613178,Mifos Initiative,Seattle,WA,direct,high,exact name,,auto:agree
+Mojaloop Foundation,850922903,Mojaloop Foundation Inc,Wakefield,MA,direct,high,exact name,,auto:agree
+Mozilla Foundation,200097189,Mozilla Foundation,San Francisco,CA,parent,high,exact name,Common Voice one programme among many,auto:agree
+Open Source Hardware Association,455524560,Open Source Hardware Association,Boulder,CO,direct,high,exact name,,auto:agree
+Open Supply Hub,845010884,Open Supply Hub Inc,Hudson,NY,direct,high,exact name,,auto:agree
+OpenMRS Inc,455316647,Openmrs Inc,Indianapolis,IN,direct,high,exact name; Indianapolis (Regenstrief),,auto:agree
+PATH,911157127,Path,Seattle,WA,parent,high,exact name; Seattle HQ,other PATH hits (Dallas; Path Foundation VA) unrelated,auto:agree
+Resolve to Save Lives,862254152,Resolve To Save Lives Inc,Alexandria,VA,partial,high,exact name,Simple is a main programme,auto:agree
+TIP Global Health,262490827,Tip Global Health,Aptos,CA,direct,high,exact name,,auto:agree
+The Tor Project,208096820,Tor Project Inc,Winchester,NH,direct,high,exact name,,auto:agree
+Ushahidi,262652079,Ushahidi Inc,Orlando,FL,direct,high,exact name,,auto:agree
+VillageReach,912083484,Villagereach,Seattle,WA,partial,high,exact name,,auto:agree
+Wikimedia Foundation,200049703,Wikimedia Foundation Org,San Francisco,CA,direct,high,exact name,Wikidata is developed by Wikimedia Deutschland (non-US) but WMF funds it,auto:agree
+World Resources Institute,521257057,World Resources Institute,Washington,DC,parent,high,exact name,second hit 521464425 is WRI Fund (related endowment),auto:agree
+Open Source Matters Inc,,,,,,unmatched,not in ProPublica search or IRS EO master file,,auto:agree
+The Computational Democracy Project,,,,,,unmatched,not in ProPublica search or IRS EO master file,may be fiscally sponsored,auto:agree
+Open Concept Lab,,,,,,unmatched,not in ProPublica search or IRS EO master file,"owner is now Open Concept Lab LLC (a company, D38); no 990 expected",auto:agree
+data.org,,,,,,unmatched,not in ProPublica search or IRS EO master file,check whether data.org is fiscally sponsored,not coded by QC
+OpenMined Foundation,934965096,OPENMINED FOUNDATION,New York,NY,direct,high,exact name; IRS EO master file and ProPublica; NY,"ruling 2024-03: first 990 is for 2024, so no 2019-2023 baseline (fails A5)",auto:agree
+Media Ecosystems Analysis Group Inc.,822956461,MEDIA ECOSYSTEMS ANALYSIS GROUP,Milton,MA,direct,high,"IRS EO master file: exact name, 501(c)(3), ruling 2019-06, MA",Media Cloud is its main project; co-owners Northeastern and UMass Amherst (declared),not coded by QC
+Open Source Collective,822037583,OPEN SOURCE COLLECTIVE,Covina,CA,host,high,"IRS EO master file: exact name, 501(c)(6)",fiscal host for many projects; finances not attributable to Mautic,not coded by QC

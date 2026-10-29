@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Greg Maly
+
+The datasets in data/ and reference_outputs/, the codebook and the data
+dictionary are licensed under the Creative Commons Attribution 4.0
+International License.
+
+You are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for any
+purpose, even commercially, under these terms:
+
+  Attribution. You must give appropriate credit (Greg Maly, "Digital public
+  goods activity data, 2020-2026"), provide a link to the licence, and indicate
+  if changes were made. You may do so in any reasonable manner, but not in any
+  way that suggests the licensor endorses you or your use.
+
+  No additional restrictions. You may not apply legal terms or technological
+  measures that legally restrict others from doing anything the licence permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Third-party sources. Some columns restate public records: the Digital Public
+Goods Alliance registry, GitHub repository metadata and public activity, US
+federal award data (USAspending.gov), ProPublica Nonprofit Explorer and IRS
+Form 990 data, IATI donor data. Those remain subject to the terms of their own
+publishers; this licence covers only the selection, curation and derived
+measures added here.

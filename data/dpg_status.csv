@@ -1,0 +1,348 @@
+dpgid,dpg,repo_set,status,n_repos,n_active,n_slowing,n_dormant,last_event_date,check_move,bot_only
+GID0090001,Aam Digital,high,active,1,1,0,0,2026-10-29,False,False
+GID0090001,Aam Digital,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090002,Accessible Kazakhstan,high,dormant,1,0,0,1,2024-01-09,False,False
+GID0090002,Accessible Kazakhstan,high+medium,dormant,1,0,0,1,2024-01-09,False,False
+GID0090003,AccessMod,high,dormant,1,0,0,1,2025-05-22,False,False
+GID0090003,AccessMod,high+medium,dormant,1,0,0,1,2025-05-22,False,False
+GID0090005,Altinn,high,active,1,1,0,0,2026-10-29,False,False
+GID0090005,Altinn,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090006,Apache Fineract,high,active,1,1,0,0,2026-10-29,False,False
+GID0090006,Apache Fineract,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,high,dormant,1,0,0,1,,False,False
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,high+medium,dormant,1,0,0,1,,False,False
+GID0090009,Bahmni,high,active,1,1,0,0,2026-10-12,False,False
+GID0090009,Bahmni,high+medium,active,1,1,0,0,2026-10-12,False,False
+GID0090011,Boxtribute,high,active,1,1,0,0,2026-10-28,False,False
+GID0090011,Boxtribute,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0090012,Cboard,high,active,1,1,0,0,2026-09-24,False,False
+GID0090012,Cboard,high+medium,active,1,1,0,0,2026-09-24,False,False
+GID0090016,CommCare,high,active,1,1,0,0,2026-10-29,False,False
+GID0090016,CommCare,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090017,Community Health Toolkit,high,active,1,1,0,0,2026-10-21,False,False
+GID0090017,Community Health Toolkit,high+medium,active,1,1,0,0,2026-10-21,False,False
+GID0090019,Care,high,active,1,1,0,0,2026-10-25,False,False
+GID0090019,Care,high+medium,active,1,1,0,0,2026-10-25,False,False
+GID0090020,cQube,high,dormant,1,0,0,1,2022-08-16,False,False
+GID0090020,cQube,high+medium,dormant,1,0,0,1,2022-08-16,False,False
+GID0090023,DiCRA,high,dormant,1,0,0,1,2025-09-20,False,False
+GID0090023,DiCRA,high+medium,dormant,1,0,0,1,2025-09-20,False,False
+GID0090024,DIGIT,high,dormant,1,0,0,1,2024-01-24,False,False
+GID0090024,DIGIT,high+medium,dormant,1,0,0,1,2024-01-24,False,False
+GID0090027,Eco-Index Biodiversity Dashboards,high,dormant,1,0,0,1,2022-04-13,False,False
+GID0090027,Eco-Index Biodiversity Dashboards,high+medium,dormant,1,0,0,1,2022-04-13,False,False
+GID0090033,farmOS,high+medium,active,16,9,0,7,2026-02-14,False,False
+GID0090034,FarmStack,high,dormant,2,0,0,2,2025-06-13,False,False
+GID0090034,FarmStack,high+medium,dormant,2,0,0,2,2025-06-13,False,False
+GID0090038,Glific,high,active,1,1,0,0,2026-10-29,False,False
+GID0090038,Glific,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090039,Global Healthsites Mapping Project,high,active,1,1,0,0,2026-08-26,False,False
+GID0090039,Global Healthsites Mapping Project,high+medium,active,1,1,0,0,2026-08-26,False,False
+GID0090040,Global Open Facility Registry,high,dormant,1,0,0,1,2023-12-22,False,False
+GID0090040,Global Open Facility Registry,high+medium,dormant,1,0,0,1,2023-12-22,False,False
+GID0090041,GLOBALEAKS,high,slowing,1,0,1,0,2026-10-28,False,False
+GID0090041,GLOBALEAKS,high+medium,slowing,1,0,1,0,2026-10-28,False,False
+GID0090045,Harmony,high,dormant,1,0,0,1,2025-01-06,False,False
+GID0090045,Harmony,high+medium,dormant,1,0,0,1,2025-01-06,False,False
+GID0090047,if me,high,active,1,1,0,0,2026-09-19,False,False
+GID0090047,if me,high+medium,active,1,1,0,0,2026-09-19,False,False
+GID0090048,Immunization Calculation Engine,high,active,1,1,0,0,2026-10-06,False,False
+GID0090048,Immunization Calculation Engine,high+medium,active,1,1,0,0,2026-10-06,False,False
+GID0090051,iVerify,high,slowing,1,0,1,0,2025-12-15,False,False
+GID0090051,iVerify,high+medium,slowing,1,0,1,0,2025-12-15,False,False
+GID0090053,Kindly,high,active,1,1,0,0,2026-07-30,False,False
+GID0090053,Kindly,high+medium,active,1,1,0,0,2026-07-30,False,False
+GID0090054,Kolibri,high,active,1,1,0,0,2026-10-28,False,False
+GID0090054,Kolibri,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0090058,linelist,high,dormant,1,0,0,1,2025-07-07,False,True
+GID0090058,linelist,high+medium,dormant,1,0,0,1,2025-07-07,False,True
+GID0090061,Mifos X,high,active,1,1,0,0,2026-10-07,False,False
+GID0090061,Mifos X,high+medium,active,1,1,0,0,2026-10-07,False,False
+GID0090065,Modular Open Source Identity Platform,high,dormant,1,0,0,1,2024-08-26,False,False
+GID0090065,Modular Open Source Identity Platform,high+medium,dormant,1,0,0,1,2024-08-26,False,False
+GID0090066,Mojaloop,high,active,1,1,0,0,2026-10-22,False,False
+GID0090066,Mojaloop,high+medium,active,1,1,0,0,2026-10-22,False,False
+GID0090071,ODK,high+medium,active,26,5,0,21,2026-10-29,False,False
+GID0090072,Oky,high,active,1,1,0,0,2026-10-20,False,False
+GID0090072,Oky,high+medium,active,1,1,0,0,2026-10-20,False,False
+GID0090073,Open Contracting Portal,high,active,1,1,0,0,2025-10-31,False,False
+GID0090073,Open Contracting Portal,high+medium,active,1,1,0,0,2025-10-31,False,False
+GID0090077,OpenCRVS,high,active,1,1,0,0,2026-10-29,False,False
+GID0090077,OpenCRVS,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090079,OpenFn,high,active,1,1,0,0,2026-10-29,False,False
+GID0090079,OpenFn,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090084,OpenMRS,high,active,1,1,0,0,2026-10-29,False,False
+GID0090084,OpenMRS,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090085,OpenSRP,high,slowing,1,0,1,0,2026-09-02,False,False
+GID0090085,OpenSRP,high+medium,slowing,1,0,1,0,2026-09-02,False,False
+GID0090086,Primero,high,active,1,1,0,0,2026-08-26,False,False
+GID0090086,Primero,high+medium,active,1,1,0,0,2026-08-26,False,False
+GID0090087,PRISM,high,active,1,1,0,0,2026-10-27,False,False
+GID0090087,PRISM,high+medium,active,1,1,0,0,2026-10-27,False,False
+GID0090088,Productive Forests,high,dormant,1,0,0,1,2023-10-01,False,False
+GID0090088,Productive Forests,high+medium,dormant,1,0,0,1,2023-10-01,False,False
+GID0090089,Project AEDES,high,dormant,1,0,0,1,2023-01-19,False,False
+GID0090089,Project AEDES,high+medium,dormant,1,0,0,1,2023-01-19,False,False
+GID0090090,Rahat,high,active,1,1,0,0,2026-10-29,False,False
+GID0090090,Rahat,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090091,RapidPro,high,active,1,1,0,0,2026-04-21,False,False
+GID0090091,RapidPro,high+medium,active,1,1,0,0,2026-04-21,False,False
+GID0090095,SanteSuite,high,dormant,1,0,0,1,2025-06-23,False,False
+GID0090095,SanteSuite,high+medium,dormant,1,0,0,1,2025-06-23,False,False
+GID0090100,Simple,high,active,1,1,0,0,2026-10-29,False,False
+GID0090100,Simple,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090106,Sunbird Lern,high,active,4,4,0,0,2026-02-10,False,False
+GID0090106,Sunbird Lern,high+medium,active,4,4,0,0,2026-02-10,False,False
+GID0090107,Sunbird RC,high,active,1,1,0,0,2026-10-27,False,False
+GID0090107,Sunbird RC,high+medium,active,1,1,0,0,2026-10-27,False,False
+GID0090110,Surveillance Outbreak Response Management and Analysis System,high,active,1,1,0,0,2026-10-27,False,False
+GID0090110,Surveillance Outbreak Response Management and Analysis System,high+medium,active,1,1,0,0,2026-10-27,False,False
+GID0090111,Synthea,high,active,2,2,0,0,2026-10-21,False,False
+GID0090111,Synthea,high+medium,active,2,2,0,0,2026-10-21,False,False
+GID0090116,TruBudget,high,dormant,1,0,0,1,2025-08-29,False,False
+GID0090116,TruBudget,high+medium,dormant,1,0,0,1,2025-08-29,False,False
+GID0090118,The Ushahidi Platform,high,slowing,2,0,2,0,2026-10-22,False,False
+GID0090118,The Ushahidi Platform,high+medium,slowing,2,0,2,0,2026-10-22,False,False
+GID0090119,Uwazi,high,active,1,1,0,0,2026-10-29,False,False
+GID0090119,Uwazi,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090125,X-Road®,high,active,1,1,0,0,2026-10-29,False,False
+GID0090125,X-Road®,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090128,Zamba,high,active,1,1,0,0,2026-07-19,False,False
+GID0090128,Zamba,high+medium,active,1,1,0,0,2026-07-19,False,False
+GID0090129,DHIS2,high,active,1,1,0,0,2026-10-29,False,False
+GID0090129,DHIS2,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090130,KoboToolbox,high,active,1,1,0,0,2026-10-29,False,False
+GID0090130,KoboToolbox,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090137,African Storybook,high,dormant,1,0,0,1,2017-04-04,False,False
+GID0090137,African Storybook,high+medium,dormant,1,0,0,1,2017-04-04,False,False
+GID0090144,Oobee,high,active,1,1,0,0,2026-10-29,False,False
+GID0090144,Oobee,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090151,Cider,high,dormant,1,0,0,1,2024-04-05,False,False
+GID0090151,Cider,high+medium,dormant,1,0,0,1,2024-04-05,False,False
+GID0090191,PrepTime Analytics,high,dormant,2,0,0,2,2024-05-27,False,False
+GID0090191,PrepTime Analytics,high+medium,dormant,2,0,0,2,2024-05-27,False,False
+GID0090192,Code Your Future,high,active,2,1,0,1,2026-10-26,False,False
+GID0090192,Code Your Future,high+medium,active,2,1,0,1,2026-10-26,False,False
+GID0090193,OpenRIMS,high,dormant,1,0,0,1,,False,False
+GID0090193,OpenRIMS,high+medium,dormant,1,0,0,1,,False,False
+GID0090194,OpenHexa,high,active,6,4,1,1,2026-10-28,False,False
+GID0090194,OpenHexa,high+medium,active,6,4,1,1,2026-10-28,False,False
+GID0090195,OpenSPP,high,active,1,1,0,0,2026-10-08,False,False
+GID0090195,OpenSPP,high+medium,active,1,1,0,0,2026-10-08,False,False
+GID0090196,OpenTeleRehab,high,dormant,3,0,0,3,,False,False
+GID0090196,OpenTeleRehab,high+medium,dormant,3,0,0,3,,False,False
+GID0090209,Data Observation Toolkit,high,active,1,1,0,0,2026-08-19,False,False
+GID0090209,Data Observation Toolkit,high+medium,active,1,1,0,0,2026-08-19,False,False
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",high,active,4,4,0,0,2026-08-24,False,False
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",high+medium,active,4,4,0,0,2026-08-24,False,False
+GID0090217,E-Heza,high,active,1,1,0,0,2026-10-29,False,False
+GID0090217,E-Heza,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090223,Vxnaid,high,slowing,1,0,1,0,2026-06-22,False,False
+GID0090223,Vxnaid,high+medium,slowing,1,0,1,0,2026-06-22,False,False
+GID0090228,GeoPrism Registry,high,active,1,1,0,0,2025-11-22,False,False
+GID0090228,GeoPrism Registry,high+medium,active,1,1,0,0,2025-11-22,False,False
+GID0090229,Consul Democracy,high,active,1,1,0,0,2026-10-28,False,False
+GID0090229,Consul Democracy,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0090230,IASO,high,active,1,1,0,0,2026-10-29,False,False
+GID0090230,IASO,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090256,Deon,high,active,1,1,0,0,2026-03-23,False,False
+GID0090256,Deon,high+medium,active,1,1,0,0,2026-03-23,False,False
+GID0090257,OpenEyes,high,active,1,1,0,0,2026-08-27,False,False
+GID0090257,OpenEyes,high+medium,active,1,1,0,0,2026-08-27,False,False
+GID0090277,OpenFisca,high,active,1,1,0,0,2026-10-23,False,False
+GID0090277,OpenFisca,high+medium,active,1,1,0,0,2026-10-23,False,False
+GID0090285,iHRIS,high,dormant,1,0,0,1,2024-10-04,False,False
+GID0090285,iHRIS,high+medium,dormant,1,0,0,1,2024-10-04,False,False
+GID0090293,Decidim,high,active,1,1,0,0,2026-10-29,False,False
+GID0090293,Decidim,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090320,Open Health Stack,high,active,2,1,1,0,2026-08-06,False,False
+GID0090320,Open Health Stack,high+medium,active,2,1,1,0,2026-08-06,False,False
+GID0090321,CityLearn,high,active,1,1,0,0,2026-09-09,False,False
+GID0090321,CityLearn,high+medium,active,1,1,0,0,2026-09-09,False,False
+GID0090346,Aid Management Platform,high,active,1,1,0,0,2026-10-07,False,False
+GID0090346,Aid Management Platform,high+medium,active,1,1,0,0,2026-10-07,False,False
+GID0090367,Connect For Life,high,dormant,1,0,0,1,2024-05-21,False,False
+GID0090367,Connect For Life,high+medium,dormant,1,0,0,1,2024-05-21,False,False
+GID0090413,Janssen Project,high,active,1,1,0,0,2026-10-29,False,False
+GID0090413,Janssen Project,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090452,Safe YOU,high,dormant,1,0,0,1,,False,False
+GID0090452,Safe YOU,high+medium,dormant,1,0,0,1,,False,False
+GID0090492,ekShop Marketplace,high,dormant,1,0,0,1,2022-07-14,False,False
+GID0090492,ekShop Marketplace,high+medium,dormant,1,0,0,1,2022-07-14,False,False
+GID0090494,finalsize,high,dormant,1,0,0,1,2025-02-13,False,True
+GID0090494,finalsize,high+medium,dormant,1,0,0,1,2025-02-13,False,True
+GID0090502,Grievance Redress  System (GRS),high,dormant,2,0,0,2,,False,False
+GID0090502,Grievance Redress  System (GRS),high+medium,dormant,2,0,0,2,,False,False
+GID0090527,CKAN,high,active,1,1,0,0,2026-10-28,False,False
+GID0090527,CKAN,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0090552,FormSG,high,active,1,1,0,0,2026-10-29,False,False
+GID0090552,FormSG,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090589,Sunbird SERVE,high,active,6,2,2,2,2026-10-24,False,False
+GID0090589,Sunbird SERVE,high+medium,active,6,2,2,2,2026-10-24,False,False
+GID0090594,Querido Diário,high,slowing,1,0,1,0,2026-10-12,False,False
+GID0090594,Querido Diário,high+medium,slowing,1,0,1,0,2026-10-12,False,False
+GID0090618,OpenRIMS-PV,high,dormant,1,0,0,1,2024-12-11,False,False
+GID0090618,OpenRIMS-PV,high+medium,dormant,1,0,0,1,2024-12-11,False,False
+GID0090623,Feluda,high,dormant,1,0,0,1,2025-09-22,False,False
+GID0090623,Feluda,high+medium,dormant,1,0,0,1,2025-09-22,False,False
+GID0090708,Jellow AAC Communicator,high,active,1,1,0,0,2026-08-20,False,False
+GID0090708,Jellow AAC Communicator,high+medium,active,1,1,0,0,2026-08-20,False,False
+GID0090741,NiSE3 Skills and Certification,high,dormant,1,0,0,1,2022-03-29,False,False
+GID0090741,NiSE3 Skills and Certification,high+medium,dormant,1,0,0,1,2022-03-29,False,False
+GID0090743,MEDPlat,high,slowing,1,0,1,0,2026-02-19,False,False
+GID0090743,MEDPlat,high+medium,slowing,1,0,1,0,2026-02-19,False,False
+GID0090750,OpenELIS Global,high,active,1,1,0,0,2026-10-29,False,False
+GID0090750,OpenELIS Global,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0090767,Energy Access Explorer,high+medium,active,9,3,0,6,2026-10-23,False,False
+GID0090794,Interfacer,high,active,1,1,0,0,2026-10-08,False,False
+GID0090794,Interfacer,high+medium,active,1,1,0,0,2026-10-08,False,False
+GID0090802,CREDEBL,high+medium,active,14,8,1,5,2026-10-20,False,False
+GID0090848,The Turing Way,high,active,1,1,0,0,2026-10-14,False,False
+GID0090848,The Turing Way,high+medium,active,1,1,0,0,2026-10-14,False,False
+GID0090946,Bebbo Parenting App,high,active,2,2,0,0,2026-10-28,False,False
+GID0090946,Bebbo Parenting App,high+medium,active,2,2,0,0,2026-10-28,False,False
+GID0090949,Dalgo,high+medium,dormant,3,0,0,3,,False,False
+GID0090953,Avni,high+medium,dormant,11,0,0,11,,False,False
+GID0090990,IVTToken,high,dormant,1,0,0,1,2023-04-10,False,False
+GID0090990,IVTToken,high+medium,dormant,1,0,0,1,2023-04-10,False,False
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),high+medium,dormant,2,0,0,2,,False,False
+GID0091020,magasin,high,dormant,1,0,0,1,2025-10-14,False,False
+GID0091020,magasin,high+medium,dormant,1,0,0,1,2025-10-14,False,False
+GID0091036,Ersilia Model Hub,high,slowing,1,0,1,0,2026-10-29,False,False
+GID0091036,Ersilia Model Hub,high+medium,slowing,1,0,1,0,2026-10-29,False,False
+GID0091039,Mautic,high,active,1,1,0,0,2026-10-29,False,False
+GID0091039,Mautic,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091042,Sunbird Saral,high,dormant,1,0,0,1,2024-04-08,False,False
+GID0091042,Sunbird Saral,high+medium,dormant,1,0,0,1,2024-04-08,False,False
+GID0091075,QField,high,active,1,1,0,0,2026-10-28,False,False
+GID0091075,QField,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0091139,CodiTeach,high,dormant,1,0,0,1,,False,False
+GID0091139,CodiTeach,high+medium,dormant,1,0,0,1,,False,False
+GID0091140,Chamilo,high,active,1,1,0,0,2026-10-29,False,False
+GID0091140,Chamilo,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091161,HOPE,high,active,1,1,0,0,2026-10-28,False,False
+GID0091161,HOPE,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0091177,Syft,high,active,1,1,0,0,2026-10-29,False,False
+GID0091177,Syft,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091186,Open-Pryv.io,high,active,1,1,0,0,2026-07-21,False,False
+GID0091186,Open-Pryv.io,high+medium,active,1,1,0,0,2026-07-21,False,False
+GID0091291,Quantification Analytics Tool,high,active,1,1,0,0,2026-10-21,False,False
+GID0091291,Quantification Analytics Tool,high+medium,active,1,1,0,0,2026-10-21,False,False
+GID0091335,ClimWeb,high,active,1,1,0,0,2026-10-28,False,False
+GID0091335,ClimWeb,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0091358,Media Cloud,high,slowing,1,0,1,0,2026-05-20,False,False
+GID0091358,Media Cloud,high+medium,slowing,1,0,1,0,2026-05-20,False,False
+GID0091359,Go.Data,high,dormant,1,0,0,1,2024-04-17,False,False
+GID0091359,Go.Data,high+medium,dormant,1,0,0,1,2024-04-17,False,False
+GID0091369,Nextcloud Server,high,active,1,1,0,0,2026-10-29,False,False
+GID0091369,Nextcloud Server,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091385,Measuring Real Power Usage of Software Applications,high,dormant,1,0,0,1,,False,False
+GID0091385,Measuring Real Power Usage of Software Applications,high+medium,dormant,1,0,0,1,,False,False
+GID0091413,Creative Commons Legal Tools,high,active,1,1,0,0,2026-10-02,False,False
+GID0091413,Creative Commons Legal Tools,high+medium,active,1,1,0,0,2026-10-02,False,False
+GID0091444,epiCo,high,dormant,1,0,0,1,2025-04-29,False,False
+GID0091444,epiCo,high+medium,dormant,1,0,0,1,2025-04-29,False,False
+GID0091470,Uli,high,slowing,1,0,1,0,2026-10-28,False,False
+GID0091470,Uli,high+medium,slowing,1,0,1,0,2026-10-28,False,False
+GID0091478,GDevelop,high,active,1,1,0,0,2026-10-29,False,False
+GID0091478,GDevelop,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091509,Register for Organic Agriculture,high,dormant,1,0,0,1,,False,False
+GID0091509,Register for Organic Agriculture,high+medium,dormant,1,0,0,1,,False,False
+GID0091526,UrbanPy,high,active,1,1,0,0,2026-05-23,False,False
+GID0091526,UrbanPy,high+medium,active,1,1,0,0,2026-05-23,False,False
+GID0091530,SUSE Linux Enterprise Server ,high,active,1,1,0,0,2026-10-28,False,False
+GID0091530,SUSE Linux Enterprise Server ,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0091578,DKAN,high,active,1,1,0,0,2026-10-26,False,False
+GID0091578,DKAN,high+medium,active,1,1,0,0,2026-10-26,False,False
+GID0091581,Open Sustainable Technology,high,active,1,1,0,0,2026-10-17,False,False
+GID0091581,Open Sustainable Technology,high+medium,active,1,1,0,0,2026-10-17,False,False
+GID0091586,QGIS,high,active,1,1,0,0,2026-10-29,False,False
+GID0091586,QGIS,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091592,JemPI,high,dormant,1,0,0,1,2024-10-15,False,False
+GID0091592,JemPI,high+medium,dormant,1,0,0,1,2024-10-15,False,False
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,high,dormant,1,0,0,1,2025-05-26,False,True
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,high+medium,dormant,1,0,0,1,2025-05-26,False,True
+GID0091624,Open Supply Hub,high,active,1,1,0,0,2026-10-27,False,False
+GID0091624,Open Supply Hub,high+medium,active,1,1,0,0,2026-10-27,False,False
+GID0091629,Isomer,high,active,1,1,0,0,2026-10-28,False,False
+GID0091629,Isomer,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0091633,National Carbon Credit Registry,high,active,1,1,0,0,2026-09-21,False,False
+GID0091633,National Carbon Credit Registry,high+medium,active,1,1,0,0,2026-09-21,False,False
+GID0091644,caMicroscope,high,slowing,1,0,1,0,2026-08-19,False,False
+GID0091644,caMicroscope,high+medium,slowing,1,0,1,0,2026-08-19,False,False
+GID0091651,UPYOG,high,active,1,1,0,0,2026-10-29,False,False
+GID0091651,UPYOG,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091676,HOT Tasking Manager,high,active,1,1,0,0,2026-10-15,False,False
+GID0091676,HOT Tasking Manager,high+medium,active,1,1,0,0,2026-10-15,False,False
+GID0091682,LibreSign,high,active,1,1,0,0,2026-10-29,False,False
+GID0091682,LibreSign,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0091685,Health Claims Data Exchange,high,dormant,2,0,0,2,2024-10-28,False,False
+GID0091685,Health Claims Data Exchange,high+medium,dormant,2,0,0,2,2024-10-28,False,False
+GID0091706,Trade Trust,high,slowing,1,0,1,0,2026-10-20,False,False
+GID0091706,Trade Trust,high+medium,slowing,1,0,1,0,2026-10-20,False,False
+GID0091739,Food Fortification Quality Management System,high,dormant,1,0,0,1,2025-04-29,False,False
+GID0091739,Food Fortification Quality Management System,high+medium,dormant,1,0,0,1,2025-04-29,False,False
+GID0091778,TYPO3,high,active,1,1,0,0,2026-10-22,False,False
+GID0091778,TYPO3,high+medium,active,1,1,0,0,2026-10-22,False,False
+GID0091862,OpenEWS,high,slowing,1,0,1,0,2026-10-08,False,False
+GID0091862,OpenEWS,high+medium,slowing,1,0,1,0,2026-10-08,False,False
+GID0091917,Accessible Medical Records via Integrated Technologies,high,active,1,1,0,0,2026-08-10,False,False
+GID0091917,Accessible Medical Records via Integrated Technologies,high+medium,active,1,1,0,0,2026-08-10,False,False
+GID0092012,Pix,high,active,1,1,0,0,2026-10-29,False,False
+GID0092012,Pix,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092044,Marine Spatial Planning - SAHAV ,high,dormant,1,0,0,1,2025-05-28,False,False
+GID0092044,Marine Spatial Planning - SAHAV ,high+medium,dormant,1,0,0,1,2025-05-28,False,False
+GID0092066,Statbus,high,active,1,1,0,0,2026-10-28,False,False
+GID0092066,Statbus,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0092082,WSO2 Identity Server,high,active,1,1,0,0,2026-10-29,False,False
+GID0092082,WSO2 Identity Server,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092098,Docs - Collaborative Text Editing,high,active,1,1,0,0,2026-10-29,False,False
+GID0092098,Docs - Collaborative Text Editing,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092151,Pol.is,high,active,1,1,0,0,2026-10-29,False,False
+GID0092151,Pol.is,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092176,Mastodon,high,active,1,1,0,0,2026-10-29,False,False
+GID0092176,Mastodon,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092221,MyChild HelpLine,high,active,1,1,0,0,2026-08-25,False,False
+GID0092221,MyChild HelpLine,high+medium,active,1,1,0,0,2026-08-25,False,False
+GID0092260,Designsystemet,high,active,1,1,0,0,2026-10-29,False,False
+GID0092260,Designsystemet,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092292,Joomla CMS,high,active,1,1,0,0,2026-10-28,False,False
+GID0092292,Joomla CMS,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0092379,Rafiki,high,slowing,1,0,1,0,2026-10-29,False,False
+GID0092379,Rafiki,high+medium,slowing,1,0,1,0,2026-10-29,False,False
+GID0092384,La Suite Drive,high,active,1,1,0,0,2026-10-28,False,False
+GID0092384,La Suite Drive,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0092393,La Suite Meet,high,active,1,1,0,0,2026-10-26,False,False
+GID0092393,La Suite Meet,high+medium,active,1,1,0,0,2026-10-26,False,False
+GID0092407,OpenCHS,high,slowing,1,0,1,0,2026-07-23,False,False
+GID0092407,OpenCHS,high+medium,slowing,1,0,1,0,2026-07-23,False,False
+GID0092457,Open Data Editor,high,slowing,1,0,1,0,2026-09-17,False,False
+GID0092457,Open Data Editor,high+medium,slowing,1,0,1,0,2026-09-17,False,False
+GID0092472,PeerTube,high,active,1,1,0,0,2026-10-28,False,False
+GID0092472,PeerTube,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0092599,Compar:IA,high,active,1,1,0,0,2026-10-28,False,False
+GID0092599,Compar:IA,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0092718,Rural Environmental Registry Registration Module,high,active,1,1,0,0,2026-10-23,False,False
+GID0092718,Rural Environmental Registry Registration Module,high+medium,active,1,1,0,0,2026-10-23,False,False
+GID0092823,Ghost,high,active,1,1,0,0,2026-10-29,False,False
+GID0092823,Ghost,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092885,Penpot,high,active,1,1,0,0,2026-10-29,False,False
+GID0092885,Penpot,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0092888,CodeCarbon,high,active,1,1,0,0,2026-10-26,False,False
+GID0092888,CodeCarbon,high+medium,active,1,1,0,0,2026-10-26,False,False
+GID0092909,AgriOS,high,slowing,1,0,1,0,2026-06-01,False,False
+GID0092909,AgriOS,high+medium,slowing,1,0,1,0,2026-06-01,False,False
+GID0093041,SimpleAudit,high,active,1,1,0,0,2026-10-28,False,False
+GID0093041,SimpleAudit,high+medium,active,1,1,0,0,2026-10-28,False,False
+GID0093103,neotree,high,dormant,1,0,0,1,2022-10-03,False,False
+GID0093103,neotree,high+medium,dormant,1,0,0,1,2022-10-03,False,False
+GID0093129,SMILE,high,active,1,1,0,0,2026-09-25,False,False
+GID0093129,SMILE,high+medium,active,1,1,0,0,2026-09-25,False,False
+GID0093201,The Climate Action Data Trust,high,active,1,1,0,0,2026-10-13,False,False
+GID0093201,The Climate Action Data Trust,high+medium,active,1,1,0,0,2026-10-13,False,False
+GID0093552,Element,high,active,1,1,0,0,2026-10-29,False,False
+GID0093552,Element,high+medium,active,1,1,0,0,2026-10-29,False,False
+GID0093688,FireForm,high,active,1,1,0,0,2026-10-27,False,False
+GID0093688,FireForm,high+medium,active,1,1,0,0,2026-10-27,False,False
+GID0094184,Eurosky Identity Platform,high,active,1,1,0,0,2026-10-28,False,False
+GID0094184,Eurosky Identity Platform,high+medium,active,1,1,0,0,2026-10-28,False,False

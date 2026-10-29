@@ -1,0 +1,257 @@
+dpgid,name,stage,website,n_listed_repositories
+GID0090024,DIGIT,DPG,https://www.digit.org/,1
+GID0090077,OpenCRVS,DPG,https://www.opencrvs.org/,1
+GID0090283,Product Catalog Management Tool,DPG,http://productcatalog.io,1
+GID0090284,Everwell Hub,DPG,https://www.everwell.org/,1
+GID0090285,iHRIS,DPG,https://www.ihris.org/,1
+GID0090666,LocalGov Drupal,DPG,https://localgovdrupal.org/,1
+GID0090010,Bisa Health,DPG,https://bisaapp.com,1
+GID0090692,Doptor Open Data,DPG, http://dpgdata.doptor.gov.bd/  ,1
+GID0090708,Jellow AAC Communicator,DPG,https://jellow.org/jellow-basic.php,1
+GID0090764,Indonesian Phoneme Recognizer,DPG,"https://github.com/bookbot-hive/k2-indonesian-asr , https://bookbot-hive.github.io/k2-indonesian-asr/ , https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id , https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id",1
+GID0090767,Energy Access Explorer,DPG,energyaccessexplorer.org,1
+GID0090794,Interfacer,DPG,https://interfacer.dyne.org/,1
+GID0090011,Boxtribute,DPG,https://www.boxtribute.org/,1
+GID0090088,Productive Forests,DPG,https://www.bioverse.io/,1
+GID0090034,FarmStack,DPG,https://www.farmstack.co/,1
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",DPG,https://ontochain.ngi.eu/content/ps-sda,1
+GID0090904,Data to Policy Navigator,DPG,https://www.datatopolicy.org/,1
+GID0090209,Data Observation Toolkit,DPG,https://www.datakind.org/2022/11/17/building-confidence-in-community-health-systems-datakinds-data-observation-toolkit-dot/,1
+GID0090672,CIEL terminology,DPG,"https://www.CIELterminology.org, https://app.openconceptlab.org/#/orgs/CIEL/sources/CIEL/",1
+GID0090002,Accessible Kazakhstan,DPG,https://doskaz.kz/,1
+GID0090952,cfr,DPG,https://github.com/epiverse-trace/cfr,1
+GID0090106,Sunbird Lern,DPG,https://lern.sunbird.org,1
+GID0090979,HCW@Home,DPG,https://hcw-at-home.com/,1
+GID0090990,IVTToken,DPG,"https://ivttoken.vercel.app/, https://investtools.com.br",1
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),DPG,https://chats.cash/,1
+GID0090119,Uwazi,DPG,"https://huridocs.org/technology/uwazi/, https://uwazi.io",1
+GID0090073,Open Contracting Portal,DPG,https://devgateway.github.io/ocportal/,1
+GID0090005,Altinn,DPG,https://www.altinn.no,1
+GID0090040,Global Open Facility Registry,DPG,https://www.facilitymatch.net/,1
+GID0091018,PotLock,DPG,https://potlock.org ,1
+GID0091020,magasin,DPG,https://unicef.github.io/magasin,1
+GID0090020,cQube,DPG,https://cqube.sunbird.org,1
+GID0090009,Bahmni,DPG,https://www.bahmni.org,1
+GID0091036,Ersilia Model Hub,DPG,https://ersilia.io,1
+GID0091038,Open Concept Lab,DPG,https://openconceptlab.org,1
+GID0091042,Sunbird Saral,DPG,https://saral.sunbird.org,1
+GID0090047,if me,DPG,https://www.if-me.org/,1
+GID0090085,OpenSRP,DPG,https://opensrp.io,1
+GID0090087,PRISM,DPG,https://innovation.wfp.org/project/prism,1
+GID0090257,OpenEyes,DPG,https://openeyes.apperta.org,1
+GID0090081,openIMIS,DPG,https://openimis.org,1
+GID0090346,Aid Management Platform,DPG,https://devgateway.github.io/amp/,1
+GID0090142,StoryWeaver,DPG, https://storyweaver.org.in,1
+GID0090121,VIPS,DPG,https://nibio.no/en/services/vips,1
+GID0090058,linelist,DPG,https://epiverse-trace.github.io/linelist/,1
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,DPG,https://www.avyantra.com,1
+GID0091139,CodiTeach,DPG,https://coditeach.kz,1
+GID0090089,Project AEDES,DPG,https://aedesproject.org,1
+GID0091156,Mifos Payment Hub-EE (PH-EE),DPG,https://payments.mifos.org,1
+GID0091161,HOPE,DPG,https://www.unicef.org/hope-hct,1
+GID0090369,OpenClinic GA,DPG,https://sourceforge.net/projects/open-clinic/ ,1
+GID0091167,Rocky Linux,DPG,https://rockylinux.org,1
+GID0091177,Syft,DPG,https://openmined.org,1
+GID0090321,CityLearn,DPG,www.citylearn.net,1
+GID0091186,Open-Pryv.io,DPG,https://www.pryv.com/open-pryv/,1
+GID0090101,Somleng,DPG,https://www.somleng.org,1
+GID0090110,Surveillance Outbreak Response Management and Analysis System,DPG,https://www.sormas.org,1
+GID0090191,PrepTime Analytics,DPG,https://preptimeanalytics.com/,1
+GID0090053,Kindly,DPG,https://kindly.unicef.io,1
+GID0090452,Safe YOU,DPG,https://safeyou.space/,1
+GID0090494,finalsize,DPG,https://epiverse-trace.github.io/finalsize/,1
+GID0090256,Deon,DPG,https://deon.drivendata.org/,1
+GID0090128,Zamba,DPG,https://zamba.drivendata.org/,1
+GID0090111,Synthea,DPG,https://synthetichealth.github.io/synthea/,1
+GID0091320,QuarkID,DPG,www.quarkid.org,1
+GID0090492,ekShop Marketplace,DPG,https://dpg.ekshop.gov.bd,1
+GID0091335,ClimWeb,DPG,https://climtech.africa/climweb/,1
+GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,DPG,https://fuss.bz.it,1
+GID0090120,VaccineLedger,DPG,https://vaccineledger.com/,1
+GID0091358,Media Cloud,DPG,https://www.mediacloud.org/,1
+GID0090124,WaPOR,DPG,https://wapor.apps.fao.org/home/WAPOR_2/1,1
+GID0091359,Go.Data,DPG,https://www.who.int/tools/godata,1
+GID0090027,Eco-Index Biodiversity Dashboards,DPG,https://eco-index.nz/,1
+GID0091369,Nextcloud Server,DPG,https://nextcloud.com,1
+GID0091385,Measuring Real Power Usage of Software Applications,DPG,https://github.com/hsbc/mrpusa,1
+GID0091388,FAOLEX,DPG,https://www.fao.org/faolex/en/,1
+GID0090367,Connect For Life,DPG,www.connect-for-life.org,1
+GID0091412,Tazama,DPG,www.tazama.org,1
+GID0091415,Wikirate Data,DPG,https://wikirate.org,1
+GID0091430,Digital Impact Exchange,DPG,https://exchange.dial.global/,1
+GID0090293,Decidim,DPG,https://decidim.org/,1
+GID0091444,epiCo,DPG,https://epiverse-trace.github.io/epiCo,1
+GID0090116,TruBudget,DPG,https://trubudget.net,1
+GID0090023,DiCRA,DPG,https://dicra.nabard.org/,1
+GID0090118,The Ushahidi Platform,DPG,https://www.ushahidi.com/,1
+GID0090017,Community Health Toolkit,DPG,https://communityhealthtoolkit.org/,1
+GID0091470,Uli,DPG,https://uli.tattle.co.in/,1
+GID0091478,GDevelop,DPG,https://gdevelop.io,1
+GID0090144,Oobee,DPG,https://go.gov.sg/oobee,1
+GID0090695,Advocacy Training for Community Health Workers,DPG,"https://digitalmedic.stanford.edu/advocacy-training-community-health-workers, https://joinchic.org/resources/chw-advocates/",1
+GID0090618,OpenRIMS-PV,DPG,https://openrims.org,1
+GID0090802,CREDEBL,DPG,https://credebl.id,1
+GID0091509,Register for Organic Agriculture,DPG,https://organika-ks.org/en/the-register-for-organic-agriculture/,1
+GID0091516,Open Food Facts,DPG,https://openfoodfacts.org,1
+GID0090586,Orthanc,DPG,https://www.orthanc-server.com/,1
+GID0090741,NiSE3 Skills and Certification,DPG, https://dpg.nise.gov.bd/ ,1
+GID0091526,UrbanPy,DPG,https://code.iadb.org/en/tools/urbanpy,1
+GID0091530,SUSE Linux Enterprise Server ,DPG,https://www.suse.com/products/server/,1
+GID0090051,iVerify,DPG,https://www.undp.org/digital/iverify,1
+GID0090192,Code Your Future,DPG,https://curriculum.codeyourfuture.io/,1
+GID0090589,Sunbird SERVE,DPG,https://serve.evean.net/,1
+GID0091548,Prospect,DPG,https://prospect.energy/,1
+GID0090048,Immunization Calculation Engine,DPG,https://cdsframework.atlassian.net/wiki/spaces/ICE/overview,1
+GID0090743,MEDPlat,DPG,https://www.medplat.co.in/,1
+GID0090675,SPICE,DPG,https://www.medtroniclabs.org/technology-platform/,1
+GID0090001,Aam Digital,DPG,https://www.aam-digital.com,1
+GID0090502,Grievance Redress  System (GRS),DPG,https://dpg.grs.gov.bd,1
+GID0090196,OpenTeleRehab,DPG,https://www.opentelerehab.com,1
+GID0091566,AGRIS Open Data Set,DPG,http://www.fao.org/agris/agris-ods,1
+GID0090223,Vxnaid,DPG,https://github.com/johnsonandjohnson/vxnaid/wiki,1
+GID0090070,NotesMaster,DPG,https://notesmaster.com/,1
+GID0091578,DKAN,DPG,https://getdkan.org/,1
+GID0091586,QGIS,DPG,https://qgis.org,1
+GID0090623,Feluda,DPG,https://tattle.co.in/products/feluda,1
+GID0091592,JemPI,DPG,https://jembi.gitbook.io/jempi,1
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,DPG,https://t18d.github.io/attested-conjectures/,1
+GID0090230,IASO,DPG,https://www.openiaso.com/,1
+GID0090186,Android FHIR SDK,DPG,https://developers.google.com/open-health-stack/android-fhir,1
+GID0090526,OpenStreetMap,DPG,https://www.openstreetmap.org,1
+GID0091624,Open Supply Hub,DPG,https://opensupplyhub.org/,1
+GID0090228,GeoPrism Registry,DPG,https://geoprismregistry.com/,1
+GID0091629,Isomer,DPG,https://isomer.gov.sg,1
+GID0091644,caMicroscope,DPG,https://camicroscope.org/,1
+GID0090086,Primero,DPG,https://www.primero.org,1
+GID0090072,Oky,DPG,https://okyapp.info/,1
+GID0090060,MET Norway Weather API,DPG,https://developer.yr.no/ ,1
+GID0091651,UPYOG,DPG,https://niua.in/cdg/UPYOG,1
+GID0091671,LEI,DPG,www.gleif.org,1
+GID0090079,OpenFn,DPG,https://www.openfn.org/,1
+GID0090035,Fedora Linux,DPG,https://fedoraproject.org/,1
+GID0091676,HOT Tasking Manager,DPG,https://tasks.hotosm.org/,1
+GID0090151,Cider,DPG,https://global-policy-lab.github.io/cider-documentation/intro.html,1
+GID0091682,LibreSign,DPG,https://libresign.coop,1
+GID0091685,Health Claims Data Exchange,DPG,https://swasthalliance.org/health-claims-exchange.html,1
+GID0090038,Glific,DPG,https://glific.org/,1
+GID0090946,Bebbo Parenting App,DPG,https://bebbo.app,1
+GID0090071,ODK,DPG,https://getodk.org,1
+GID0090068,Mozilla Common Voice,DPG,https://commonvoice.mozilla.org/en,1
+GID0090217,E-Heza,DPG,https://tip-global-health.github.io/eheza-documentation/,1
+GID0090065,Modular Open Source Identity Platform,DPG,https://mosip.io/,1
+GID0090109,Sunbird,DPG,https://www.sunbird.org,1
+GID0090385,LibreOffice,DPG,https://www.libreoffice.org,1
+GID0090906,Crosscut,DPG,https://crosscut.io,1
+GID0091739,Food Fortification Quality Management System,DPG,https://food.fortification.in/,1
+GID0090939,AGROVOC Multilingual Thesaurus,DPG," https://www.fao.org/agrovoc, https://agrovoc.fao.org",1
+GID0090194,OpenHexa,DPG,https://www.bluesquarehub.com/openhexa/,1
+GID0090129,DHIS2,DPG,https://www.dhis2.org/,1
+GID0090896,OpenMandriva Lx,DPG,https://openmandriva.org/,1
+GID0090012,Cboard,DPG,https://www.cboard.io/,1
+GID0090195,OpenSPP,DPG,http://openspp.org/,1
+GID0090750,OpenELIS Global,DPG,https://openelis-global.org/,1
+GID0090594,Querido Diário,DPG,https://queridodiario.ok.org.br/,1
+GID0090185,Torkel Opsahl Academic EPublisher,DPG,https://toaep.org/,1
+GID0090056,Lexsitus,DPG,https://cilrap-lexsitus.org/,1
+GID0090259,TrueNAS,DPG,https://www.truenas.com,1
+GID0090320,Open Health Stack,DPG,https://developers.google.com/open-health-stack,1
+GID0090045,Harmony,DPG,https://www.zenysis.com/solution/platform/,1
+GID0090084,OpenMRS,DPG,https://openmrs.org,1
+GID0090091,RapidPro,DPG,https://rapidpro.io,1
+GID0091039,Mautic,DPG,https://www.mautic.org,1
+GID0090949,Dalgo,DPG,https://dalgo.in/,1
+GID0091778,TYPO3,DPG,"https://typo3.com, https://typo3.org",1
+GID0091790,Food Price Monitoring and Analysis Tool,DPG,https://fpma.fao.org/,1
+GID0091826,The Land Portal,DPG,https://landportal.org/,1
+GID0090006,Apache Fineract,DPG,https://fineract.apache.org,1
+GID0090229,Consul Democracy,DPG,https://consuldemocracy.org,1
+GID0090318,UNIDO Industrial Analytics Platform,DPG,https://iap.unido.org,1
+GID0090061,Mifos X,DPG,https://mifos.org,1
+GID0090039,Global Healthsites Mapping Project,DPG,https://healthsites.io/,1
+GID0090953,Avni,DPG,https://avniproject.org,1
+GID0090552,FormSG,DPG,https://form.gov.sg ,1
+GID0090967,Agrontology,DPG,https://aims.fao.org/agrontology,1
+GID0090019,Care,DPG,https://ohc.network/,1
+GID0090100,Simple,DPG,https://simple.org,1
+GID0090107,Sunbird RC,DPG,https://sunbird.org/,1
+GID0090042,GNU Health,DPG,https://www.gnuhealth.org/,1
+GID0090440,Drupal,DPG,https://www.drupal.org,1
+GID0090413,Janssen Project,DPG,https://docs.jans.io,1
+GID0090016,CommCare,DPG,https://www.dimagi.com/commcare,1
+GID0090705,Open Terms Archive,DPG,https://opentermsarchive.org,1
+GID0090193,OpenRIMS,DPG,https://openrims.org,1
+GID0091848,Wikipedia,DPG,https://www.wikipedia.org/,1
+GID0090066,Mojaloop,DPG,https://mojaloop.io/,1
+GID0090095,SanteSuite,DPG,https://santesuite.com,1
+GID0090277,OpenFisca,DPG,https://openfisca.org,1
+GID0091856,Tor Browser,DPG,https://torproject.org,1
+GID0090848,The Turing Way,DPG,https://the-turing-way.netlify.app/index.html,1
+GID0091862,OpenEWS,DPG,https://open-ews.org/,1
+GID0091863,AgriTech Observatory,DPG,https://agritechobservatory.fao.org/,1
+GID0091140,Chamilo,DPG,https://chamilo.org,1
+GID0090263,OpenG2P,DPG,https://www.openg2p.org,1
+GID0091909,Ozone,DPG,https://www.ozone-his.com,1
+GID0091917,Accessible Medical Records via Integrated Technologies,DPG,https://amrit.piramalswasthya.org,1
+GID0090527,CKAN,DPG,https://ckan.org,1
+GID0091075,QField,DPG,https://qfield.org,1
+GID0090054,Kolibri,DPG,https://learningequality.org/kolibri/,1
+GID0091996,Data Norge,DPG,https://data.norge.no,1
+GID0092012,Pix,DPG,https://pix.org,1
+GID0090003,AccessMod,DPG,https://www.accessmod.org,1
+GID0092040,IATI Data,DPG,https://iatistandard.org,1
+GID0090033,farmOS,DPG,https://farmOS.org,1
+GID0092044,Marine Spatial Planning - SAHAV ,DPG,https://marinespatialplanning.in/puducherrygeo,1
+GID0092066,Statbus,DPG,https://statbus.org,1
+GID0092078,GAUL 2024,DPG,https://data.apps.fao.org/?lang=en,1
+GID0092082,WSO2 Identity Server,DPG,https://wso2.com/identity-server,1
+GID0090145,Global Human Settlement Layer,DPG,https://human-settlement.emergency.copernicus.eu/index.php,1
+GID0091291,Quantification Analytics Tool,DPG,https://www.ghsupplychain.org/quantificationanalyticstool,1
+GID0090044,Hand-in-Hand Geospatial Platform,DPG,https://www.fao.org/hih-geospatial-platform/en/,1
+GID0092151,Pol.is,DPG,https://pol.is,1
+GID0090029,FAO Digital Services Portfolio,DPG,https://digital.apps.fao.org,1
+GID0092221,MyChild HelpLine,DPG,https://www.mychildhelpline.org/mychild_helpline.html,1
+GID0092223,SYSPIN,DPG,https://syspin.iisc.ac.in/,1
+GID0090340,Rights Tracker,DPG,https://rightstracker.org,1
+GID0092260,Designsystemet,DPG,http://www.designsystemet.no,1
+GID0091413,Creative Commons Legal Tools,DPG,https://creativecommons.org/share-your-work/cclicenses/,1
+GID0092292,Joomla CMS,DPG,https://www.joomla.org/,1
+GID0090099,Sentinel-2 10m Land Use/Land Cover Time Series,DPG,https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d,1
+GID0090090,Rahat,DPG,https://rahat.io/,1
+GID0090043,Govdirectory,DPG,https://govdirectory.org,1
+GID0090125,X-Road®,DPG,https://x-road.global/,1
+GID0092379,Rafiki,DPG,https://rafiki.dev,1
+GID0092384,La Suite Drive,DPG,https://fichiers.numerique.gouv.fr/,1
+GID0092393,La Suite Meet,DPG,https://visio.numerique.gouv.fr/,1
+GID0092407,OpenCHS,DPG,https://openchs.com/,1
+GID0092457,Open Data Editor,DPG,https://okfn.org/en/projects/open-data-editor/,1
+GID0092472,PeerTube,DPG,https://joinpeertube.org,1
+GID0092599,Compar:IA,DPG,https://comparia.beta.gouv.fr,1
+GID0092635,MapBiomas Brazil,DPG,https://brasil.mapbiomas.org,1
+GID0092690,Green Roads Toolkit,DPG,https://data.adb.org/dataset/green-roads-toolkit,1
+GID0092714,Wikidata,DPG,https://www.wikidata.org,1
+GID0092718,Rural Environmental Registry Registration Module,DPG,https://rer.dataprev.gov.br ,1
+GID0092823,Ghost,DPG,https://ghost.org,1
+GID0090130,KoboToolbox,DPG,https://www.kobotoolbox.org,1
+GID0090041,GLOBALEAKS,DPG,https://www.globaleaks.org,1
+GID0092885,Penpot,DPG,https://penpot.app,1
+GID0092888,CodeCarbon,DPG,https://codecarbon.io/,1
+GID0092892,Biomass Prediction Model,DPG,"https://felt.com/embed/map/Goa-Biomass-DL-Estimation-P9AL0V5AwRD9BDpHIijjlO3C?loc=15.3875,74.0447,10.24z",1
+GID0092900,Software Heritage Archive,DPG,https://www.softwareheritage.org,1
+GID0092909,AgriOS,DPG,https://www.agrios.org/,1
+GID0090137,African Storybook,DPG,https://www.africanstorybook.org/,1
+GID0091633,National Carbon Credit Registry,DPG,https://www.demo.carbreg.org/,1
+GID0093036,OSHWA Open Source Hardware Certification Data,DPG,https://certification.oshwa.org/list.html,1
+GID0093041,SimpleAudit,DPG,https://github.com/kelkalot/simpleaudit/blob/main/README.md,1
+GID0091581,Open Sustainable Technology,DPG,https://opensustain.tech/,1
+GID0093103,neotree,DPG,https://neotree.org/,1
+GID0093129,SMILE,DPG,https://elearning.smile-indonesia.id/en/home/,1
+GID0093201,The Climate Action Data Trust,DPG,https://climateactiondata.org/,1
+GID0093220,Compar:IA Datatsets,DPG,https://comparia.beta.gouv.fr/datasets,1
+GID0091175,FAO Agricultural Stress Index System,DPG,https://www.fao.org/giews/earthobservation/,1
+GID0092176,Mastodon,DPG, https://joinmastodon.org,1
+GID0091706,Trade Trust,DPG,https://www.tradetrust.io/,1
+GID0092098,Docs - Collaborative Text Editing,DPG,https://docs.numerique.gouv.fr,1
+GID0093552,Element,DPG,https://element.io,1
+GID0093688,FireForm,DPG,https://fireform-core.github.io/FireForm/,1
+GID0093698,SYNTH,DPG,https://pleias.fr/blog/blogsynth-the-new-data-frontier,1
+GID0094184,Eurosky Identity Platform,DPG,https://eurosky.tech/,1

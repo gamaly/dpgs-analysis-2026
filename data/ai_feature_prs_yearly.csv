@@ -1,0 +1,15 @@
+confidence,year,merged_prs,ai_feature_prs,ai_feature_prs_title,dpgs,dpgs_with_ai_feature_pr
+high,2020,30794,47,14,79,8
+high,2021,31361,50,24,93,13
+high,2022,34249,24,19,114,8
+high,2023,42581,39,15,123,16
+high,2024,42862,101,62,130,18
+high,2025,43860,281,166,122,37
+high,2026,50631,578,218,117,51
+medium,2020,211,0,0,2,0
+medium,2021,149,0,0,2,0
+medium,2022,300,0,0,2,0
+medium,2023,873,0,0,3,0
+medium,2024,726,0,0,4,0
+medium,2025,877,1,0,3,1
+medium,2026,616,2,0,3,1

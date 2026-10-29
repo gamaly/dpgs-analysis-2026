@@ -1,0 +1,257 @@
+dpgid,dpg,owner_name,owner_confidence,exposure_score,exposed,exposure_score_sens,exposed_sens,n_fa_prime,n_fa_subaward,n_other_federal,fa_usd_window_unprorated,n_fa_prime_sens,n_fa_subaward_sens,fa_usd_window_unprorated_sens,evidence,check_purchase_order_only,attribution_basis,zero_reason,in_primary
+GID0090024,DIGIT,eGovernments Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090077,OpenCRVS,Plan International,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090283,Product Catalog Management Tool,VillageReach,high,3,1,3,1,1.0,2.0,0.0,22874136.0,1.0,2.0,22874136.0,VillageReach:prime:72065618CA00001; VillageReach:subaward:7200AA18C00074; VillageReach:subaward:7200AA20CA00009,False,direct,,True
+GID0090284,Everwell Hub,Everwell Health Solutions Pvt Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090285,iHRIS,IntraHealth International,high,0,0,3,1,0.0,0.0,0.0,0.0,9.0,5.0,289260631.0,IntraHealth International:prime:AID617A1700002; IntraHealth International:prime:72066821C00001; IntraHealth International:prime:72069618CA00005,False,parent,,True
+GID0090666,LocalGov Drupal,Open Digital Cooperative,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090010,Bisa Health,Bisa Health,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090692,Doptor Open Data,"a2i (Aspire to Innovate), Government of Bangladesh",high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090708,Jellow AAC Communicator,NINAAD Digital Technology Private Limited,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090764,Indonesian Phoneme Recognizer,PT Bookbot Indonesia,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090767,Energy Access Explorer,World Resources Institute,high,0,0,3,1,0.0,0.0,0.0,0.0,12.0,4.0,67597648.0,World Resources Institute:prime:7200AA20CA00014; World Resources Institute:prime:7200AA23CA00027; World Resources Institute:prime:7200AA21CA00035,False,parent,,True
+GID0090794,Interfacer,Dyne.org Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090011,Boxtribute,Boxtribute,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090088,Productive Forests,Bioverse Labs,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090034,FarmStack,Digital Green,high,3,1,3,1,1.0,1.0,0.0,1106509.0,1.0,1.0,1106509.0,Digital Green:prime:7200AA24FA00030; Digital Green:subaward:72062020C00001,False,partial,,True
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",iGrant.io (LCubed AB),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090904,Data to Policy Navigator,UNDP,high,0,0,3,1,0.0,0.0,0.0,0.0,28.0,4.0,178365379.0,UNDP:prime:SNEAAC23GR0002; UNDP:prime:AID391IO1700001; UNDP:prime:AIDPPLG1200001,False,parent,,True
+GID0090209,Data Observation Toolkit,DataKind,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090672,CIEL terminology,Columbia University (Columbia International eHealth Laboratory),medium,0,0,3,1,0.0,0.0,0.0,0.0,27.0,13.0,249725659.0,Columbia University (Columbia International eHealth Laboratory):prime:NU2GGH001941; Columbia University (Columbia International eHealth Laboratory):prime:NU2GGH002156; Columbia University (Columbia International eHealth Laboratory):prime:72066318CA00005,False,parent,,True
+GID0090002,Accessible Kazakhstan,Tandau Foundation (public fund),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090952,cfr,Epiverse-TRACE,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090106,Sunbird Lern,EkStep Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090979,HCW@Home,Iabsis SARL,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090990,IVTToken,Investtools,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),Convexity,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090119,Uwazi,HURIDOCS,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090073,Open Contracting Portal,Development Gateway,high,2,1,2,1,0.0,4.0,1.0,953893.0,0.0,4.0,953893.0,Development Gateway:subaward:72027823CA00002; Development Gateway:subaward:72029422CA00008; Development Gateway:subaward:72011718CA00002,False,partial,,True
+GID0090005,Altinn,Norwegian Digitalisation Agency (Digdir),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090040,Global Open Facility Registry,IntraHealth International,high,0,0,3,1,0.0,0.0,0.0,0.0,9.0,5.0,289260631.0,IntraHealth International:prime:AID617A1700002; IntraHealth International:prime:72066821C00001; IntraHealth International:prime:72069618CA00005,False,parent,,True
+GID0091018,PotLock,"PotLuck Foundation DAO, LLC",medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091020,magasin,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0090020,cQube,EkStep Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090009,Bahmni,OpenMRS Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0091036,Ersilia Model Hub,Ersilia Open Source Initiative,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091038,Open Concept Lab,Open Concept Lab LLC,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091042,Sunbird Saral,EkStep Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090047,if me,if me (volunteer community),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090085,OpenSRP,Ona Systems,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090087,PRISM,World Food Programme,high,0,0,3,1,0.0,0.0,0.0,0.0,41.0,0.0,1452712962.0,World Food Programme:prime:720BHA23IO00022; World Food Programme:prime:720BHA22GR00072; World Food Programme:prime:720BHA21GR00024,False,parent,,True
+GID0090257,OpenEyes,Apperta Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090081,openIMIS,GIZ (openIMIS Initiative),medium,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,108500.0,GIZ (openIMIS Initiative):prime:720BFS19GR00001,False,parent,,True
+GID0090346,Aid Management Platform,Development Gateway,high,2,1,2,1,0.0,4.0,1.0,953893.0,0.0,4.0,953893.0,Development Gateway:subaward:72027823CA00002; Development Gateway:subaward:72029422CA00008; Development Gateway:subaward:72011718CA00002,False,partial,,True
+GID0090142,StoryWeaver,Pratham Books,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090121,VIPS,NIBIO (Norwegian Institute of Bioeconomy Research),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090058,linelist,data.org,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,Avyantra Health Technologies Pvt Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091139,CodiTeach,CodiPlay,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090089,Project AEDES,CirroLytix Research Services,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091156,Mifos Payment Hub-EE (PH-EE),Mifos Initiative,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091161,HOPE,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0090369,OpenClinic GA,[individual] / Post-Factum BV,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0091167,Rocky Linux,Rocky Enterprise Software Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091177,Syft,OpenMined Foundation,high,1,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,False,direct,,True
+GID0090321,CityLearn,University of Texas at Austin (Intelligent Environments Lab),medium,0,0,3,1,0.0,0.0,0.0,0.0,13.0,8.0,7767389.0,University of Texas at Austin (Intelligent Environments Lab):prime:NU84DD000009; University of Texas at Austin (Intelligent Environments Lab):prime:75D30122C15411; University of Texas at Austin (Intelligent Environments Lab):prime:75D30122C14776,False,parent,,True
+GID0091186,Open-Pryv.io,Pryv SA,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090101,Somleng,Chatterbox Solutions,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090110,Surveillance Outbreak Response Management and Analysis System,SORMAS Foundation,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,108500.0,GIZ:prime:720BFS19GR00001,False,implementer,,True
+GID0090191,PrepTime Analytics,Scribble Works,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090053,Kindly,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0090452,Safe YOU,Impact Innovations Institute LLC,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090494,finalsize,Epiverse-TRACE,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090256,Deon,DrivenData Inc,high,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,direct,,True
+GID0090128,Zamba,DrivenData Inc,high,0,0,1,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,direct,,True
+GID0090111,Synthea,MITRE Corporation,high,0,0,3,1,0.0,0.0,0.0,0.0,31.0,0.0,134062192.0,MITRE Corporation:prime:19AQMM22C0168; MITRE Corporation:prime:75D30120F08697; MITRE Corporation:prime:75D30120F09743,False,parent,,True
+GID0091320,QuarkID,Government of the City of Buenos Aires,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090492,ekShop Marketplace,"a2i (Aspire to Innovate), Government of Bangladesh",high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091335,ClimWeb,WMO Regional Office for Africa,high,0,0,3,1,0.0,0.0,0.0,0.0,52.0,10.0,299887475.0,Norwegian Refugee Council (NORCAP):prime:720BHA24GR00230; Norwegian Refugee Council (NORCAP):prime:720BHA21CA00003; Norwegian Refugee Council (NORCAP):prime:720BHA22GR00193,False,implementer|parent,,True
+GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,Autonomous Province of Bolzano,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090120,VaccineLedger,StaTwig,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091358,Media Cloud,Media Ecosystems Analysis Group Inc.,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090124,WaPOR,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0091359,Go.Data,World Health Organization,high,0,0,3,1,0.0,0.0,0.0,0.0,18.0,0.0,1203353134.0,World Health Organization:prime:AIDGHAG000900003; World Health Organization:prime:NU2GGH002145; World Health Organization:prime:NU2GGH002225,False,parent,,True
+GID0090027,Eco-Index Biodiversity Dashboards,Eco-index Limited,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091369,Nextcloud Server,Nextcloud GmbH,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091385,Measuring Real Power Usage of Software Applications,HSBC,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091388,FAOLEX,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0090367,Connect For Life,Janssen Pharmaceutica NV,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091412,Tazama,LF Charities (Linux Foundation),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091415,Wikirate Data,Wikirate International e.V.,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091430,Digital Impact Exchange,United Nations Foundation (host of Digital Impact Alliance),medium,0,0,3,1,0.0,0.0,0.0,0.0,9.0,0.0,20047473.0,United Nations Foundation (host of Digital Impact Alliance):prime:7200AA22CA00030; United Nations Foundation (host of Digital Impact Alliance):prime:NU2GGH002101; United Nations Foundation (host of Digital Impact Alliance):prime:SAQMIP23CA0308,False,host,,True
+GID0090293,Decidim,Decidim Free Software Association,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091444,epiCo,Epiverse-TRACE,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090116,TruBudget,KfW Development Bank,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090023,DiCRA,UNDP,medium,0,0,3,1,0.0,0.0,0.0,0.0,28.0,4.0,178365379.0,UNDP:prime:SNEAAC23GR0002; UNDP:prime:AID391IO1700001; UNDP:prime:AIDPPLG1200001,False,parent,,True
+GID0090118,The Ushahidi Platform,Ushahidi,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090017,Community Health Toolkit,Medic (Medic Mobile Inc),high,2,1,2,1,0.0,2.0,4.0,79680.0,0.0,2.0,79680.0,Medic (Medic Mobile Inc):subaward:NU2GGH002157; Medic (Medic Mobile Inc):subaward:NU2GGH002116,False,direct,,True
+GID0091470,Uli,Tattle Civic Technologies,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091478,GDevelop,GDevelop Ltd,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090144,Oobee,GovTech Singapore,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090695,Advocacy Training for Community Health Workers,Stanford University (Digital Medic),high,0,0,3,1,0.0,0.0,0.0,0.0,3.0,5.0,7953225.0,Stanford University (Digital Medic):prime:U18DP006423; Stanford University (Digital Medic):prime:SSJTIP21CA3033; Stanford University (Digital Medic):subaward:75D30122C14944,False,parent,,True
+GID0090618,OpenRIMS-PV,Management Sciences for Health,high,0,0,3,1,0.0,0.0,0.0,0.0,22.0,2.0,761735260.0,Management Sciences for Health:prime:7200AA18C00074; Management Sciences for Health:prime:72068718CA00003; Management Sciences for Health:prime:AID612C1700001,False,parent,,True
+GID0090802,CREDEBL,Blockster Labs Private Limited,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091509,Register for Organic Agriculture,Organika Association,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091516,Open Food Facts,Open Food Facts,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090586,Orthanc,UCLouvain,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090741,NiSE3 Skills and Certification,"a2i (Aspire to Innovate), Government of Bangladesh",high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091526,UrbanPy,Inter-American Development Bank,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,6905500.0,Inter-American Development Bank:prime:SAQMIP24GR5012,False,parent,,True
+GID0091530,SUSE Linux Enterprise Server ,SUSE,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090051,iVerify,UNDP,high,0,0,3,1,0.0,0.0,0.0,0.0,28.0,4.0,178365379.0,UNDP:prime:SNEAAC23GR0002; UNDP:prime:AID391IO1700001; UNDP:prime:AIDPPLG1200001,False,parent,,True
+GID0090192,Code Your Future,CodeYourFuture,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090589,Sunbird SERVE,eVean Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091548,Prospect,Access to Energy Institute (A2EI),medium,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,108500.0,GIZ:prime:720BFS19GR00001,False,implementer,,True
+GID0090048,Immunization Calculation Engine,HLN Consulting LLC,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090743,MEDPlat,Argusoft India Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090675,SPICE,Medtronic LABS,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090001,Aam Digital,Aam Digital GmbH,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090502,Grievance Redress  System (GRS),"a2i (Aspire to Innovate), Government of Bangladesh",high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090196,OpenTeleRehab,Humanity & Inclusion,high,0,0,3,1,0.0,0.0,0.0,0.0,29.0,39.0,177414021.0,HI US:prime:SPMWRA24GR0039; HI US:prime:AID440A1500008; HI US:prime:SPMWRA22GR0026,False,implementer|parent,,True
+GID0091566,AGRIS Open Data Set,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0090223,Vxnaid,Johnson & Johnson,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090070,NotesMaster,Notesmaster Caribbean,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0091578,DKAN,CivicActions Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091586,QGIS,QGIS.ORG Association,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090623,Feluda,Tattle Civic Technologies,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091592,JemPI,Jembi Health Systems NPC,high,2,1,2,1,0.0,2.0,0.0,261744.0,0.0,2.0,261744.0,Jembi Health Systems NPC:subaward:95332423C0041; Jembi Health Systems NPC:subaward:72062424F00002,False,direct,,True
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,Tonkünstler-on-the-Bund,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090230,IASO,Bluesquare,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090186,Android FHIR SDK,Google,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,11655.0,Google:prime:19C02024P1826,False,parent,,True
+GID0090526,OpenStreetMap,OpenStreetMap Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091624,Open Supply Hub,Open Supply Hub,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090228,GeoPrism Registry,TerraFrame Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091629,Isomer,Open Government Products (GovTech Singapore),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091644,caMicroscope,Emory University,high,0,0,3,1,0.0,0.0,0.0,0.0,49.0,30.0,60298036.0,Emory University:prime:NU38CK000481; Emory University:prime:NU14GH001238; Emory University:prime:75D30120C07672,False,parent,,True
+GID0090086,Primero,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0090072,Oky,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0090060,MET Norway Weather API,Norwegian Meteorological Institute,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091651,UPYOG,National Institute of Urban Affairs (NIUA),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091671,LEI,GLEIF,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090079,OpenFn,Open Function Group,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090035,Fedora Linux,Red Hat,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0091676,HOT Tasking Manager,Humanitarian OpenStreetMap Team,high,2,1,2,1,0.0,2.0,0.0,399532.0,0.0,2.0,399532.0,Humanitarian OpenStreetMap Team:subaward:72066923F00001; Humanitarian OpenStreetMap Team:subaward:7200AA20CA00032,False,direct,,True
+GID0090151,Cider,UC Berkeley (Global Policy Lab),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091682,LibreSign,LibreCode (cooperative),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091685,Health Claims Data Exchange,Swasth Digital Health Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090038,Glific,Project Tech4Dev (Chintu Gudiya Foundation),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090946,Bebbo Parenting App,UNICEF (Europe & Central Asia Regional Office),high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF (Europe & Central Asia Regional Office):prime:NU2GGH002001; UNICEF (Europe & Central Asia Regional Office):prime:72065618IO00001; UNICEF (Europe & Central Asia Regional Office):prime:72016721IO00004,False,parent,,True
+GID0090071,ODK,Get ODK Inc,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090068,Mozilla Common Voice,Mozilla Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090217,E-Heza,TIP Global Health,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090065,Modular Open Source Identity Platform,IIIT Bangalore (MOSIP),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090109,Sunbird,EkStep Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090385,LibreOffice,The Document Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090906,Crosscut,Crosscut,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0091739,Food Fortification Quality Management System,PATH,high,0,0,3,1,0.0,0.0,0.0,0.0,16.0,15.0,603813472.0,PATH:prime:7200AA23C00111; PATH:prime:AIDOAAA1600084; PATH:prime:AID660A1700001,False,parent,,True
+GID0090939,AGROVOC Multilingual Thesaurus,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0090194,OpenHexa,Bluesquare,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090129,DHIS2,University of Oslo (HISP Centre),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090896,OpenMandriva Lx,OpenMandriva Association,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090012,Cboard,OTTAA Project,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090195,OpenSPP,OpenSPP (project),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090750,OpenELIS Global,University of Washington (I-TECH / DIGI),high,0,0,3,1,0.0,0.0,0.0,0.0,27.0,24.0,278878602.0,University of Washington (I-TECH / DIGI):prime:NU2GGH002157; University of Washington (I-TECH / DIGI):prime:NU2GGH002116; University of Washington (I-TECH / DIGI):prime:NU2GGH002038,False,parent,,True
+GID0090594,Querido Diário,Open Knowledge Brasil,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090185,Torkel Opsahl Academic EPublisher,CILRAP (Centre for International Law Research and Policy),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090056,Lexsitus,CILRAP (Centre for International Law Research and Policy),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090259,TrueNAS,iXsystems Inc,high,3,1,3,1,1.0,0.0,13.0,9436.0,1.0,0.0,9436.0,iXsystems Inc:prime:75D30123P17661,True,direct,,True
+GID0090320,Open Health Stack,Google,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,11655.0,Google:prime:19C02024P1826,False,parent,,True
+GID0090045,Harmony,Zenysis Technologies,high,2,1,2,1,0.0,3.0,0.0,813898.0,0.0,3.0,813898.0,Zenysis Technologies:subaward:72069623CA00004; Zenysis Technologies:subaward:72069623CA00004; Zenysis Technologies:subaward:72069623CA00004,False,direct,,True
+GID0090084,OpenMRS,OpenMRS Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090091,RapidPro,UNICEF,high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF:prime:NU2GGH002001; UNICEF:prime:72065618IO00001; UNICEF:prime:72016721IO00004,False,parent,,True
+GID0091039,Mautic,Open Source Collective,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090949,Dalgo,Project Tech4Dev (Chintu Gudiya Foundation),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091778,TYPO3,TYPO3 Association,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091790,Food Price Monitoring and Analysis Tool,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0091826,The Land Portal,Land Portal Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090006,Apache Fineract,Apache Software Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090229,Consul Democracy,Consul Democracy Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090318,UNIDO Industrial Analytics Platform,UNIDO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,1400000.0,UNIDO:prime:AIDEGEEG1600003,False,parent,,True
+GID0090061,Mifos X,Mifos Initiative,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090039,Global Healthsites Mapping Project,Open Healthsite Consulting,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090953,Avni,Samanvay Research and Development Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090552,FormSG,Open Government Products (GovTech Singapore),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090967,Agrontology,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0090019,Care,Open Healthcare Network Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090100,Simple,Resolve to Save Lives,high,0,0,2,1,0.0,0.0,0.0,0.0,0.0,2.0,540082.0,Vital Strategies:subaward:72049723CA00004; Vital Strategies:subaward:72064122F00005,False,implementer,,True
+GID0090107,Sunbird RC,EkStep Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090042,GNU Health,GNU Solidario,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090440,Drupal,Drupal Association,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090413,Janssen Project,Linux Foundation (Janssen Project),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090016,CommCare,Dimagi Inc,high,3,1,3,1,2.0,19.0,6.0,9274108.0,2.0,19.0,9274108.0,Dimagi Inc:prime:7200AA20FA00023; Dimagi Inc:subaward:72064122C00001; Dimagi Inc:subaward:720BHA21CA00033,False,direct,,True
+GID0090705,Open Terms Archive,Open Terms Archive Collective,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090193,OpenRIMS,Management Sciences for Health,high,0,0,3,1,0.0,0.0,0.0,0.0,22.0,2.0,761735260.0,Management Sciences for Health:prime:7200AA18C00074; Management Sciences for Health:prime:72068718CA00003; Management Sciences for Health:prime:AID612C1700001,False,parent,,True
+GID0091848,Wikipedia,Wikimedia Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090066,Mojaloop,Mojaloop Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090095,SanteSuite,SanteSuite Inc,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090277,OpenFisca,OpenFisca Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091856,Tor Browser,The Tor Project,high,3,1,3,1,1.0,0.0,0.0,1000000.0,1.0,0.0,1000000.0,The Tor Project:prime:SAQMIP22GR0102,False,direct,,True
+GID0090848,The Turing Way,The Alan Turing Institute,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091862,OpenEWS,Chatterbox Solutions,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091863,AgriTech Observatory,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0091140,Chamilo,Chamilo Association,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090263,OpenG2P,International Institute of Information Technology Bangalore,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091909,Ozone,Mekom Solutions Pte Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091917,Accessible Medical Records via Integrated Technologies,Piramal Swasthya Management and Research Institute,high,3,1,3,1,1.0,1.0,0.0,13092757.0,1.0,1.0,13092757.0,Piramal Swasthya Management and Research Institute:prime:72038621CA00003; Piramal Swasthya Management and Research Institute:subaward:72038621CA00005,False,direct,,True
+GID0090527,CKAN,Open Knowledge Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0091075,QField,OPENGIS.ch GmbH,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090054,Kolibri,Learning Equality,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091996,Data Norge,Norwegian Digitalisation Agency (Digdir),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092012,Pix,Pix (GIP),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090003,AccessMod,University of Geneva (GeoHealth),medium,0,0,3,1,0.0,0.0,0.0,0.0,18.0,0.0,1203353134.0,World Health Organization:prime:AIDGHAG000900003; World Health Organization:prime:NU2GGH002145; World Health Organization:prime:NU2GGH002225,False,parent,,True
+GID0092040,IATI Data,IATI Secretariat,medium,0,0,3,1,0.0,0.0,0.0,0.0,28.0,4.0,178365379.0,UNDP:prime:SNEAAC23GR0002; UNDP:prime:AID391IO1700001; UNDP:prime:AIDPPLG1200001,False,parent,,True
+GID0090033,farmOS,farmOS (community),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0092044,Marine Spatial Planning - SAHAV ,National Centre for Coastal Research (Ministry of Earth Sciences),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092066,Statbus,Statistics Norway,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092078,GAUL 2024,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0092082,WSO2 Identity Server,WSO2 LLC,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0090145,Global Human Settlement Layer,European Commission Joint Research Centre,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091291,Quantification Analytics Tool,Chemonics International,high,0,0,3,1,0.0,0.0,0.0,0.0,146.0,3.0,14378232936.0,Chemonics International:prime:AIDOAATO1500007; Chemonics International:prime:AIDOAATO1500009; Chemonics International:prime:AIDOAATO1500010,False,parent,,True
+GID0090044,Hand-in-Hand Geospatial Platform,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0092151,Pol.is,The Computational Democracy Project,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090029,FAO Digital Services Portfolio,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0092221,MyChild HelpLine,UNICEF (Eastern Caribbean Area Office),high,0,0,3,1,0.0,0.0,0.0,0.0,17.0,0.0,58163290.0,UNICEF (Eastern Caribbean Area Office):prime:NU2GGH002001; UNICEF (Eastern Caribbean Area Office):prime:72065618IO00001; UNICEF (Eastern Caribbean Area Office):prime:72016721IO00004,False,parent,,True
+GID0092223,SYSPIN,Indian Institute of Science (IISc),high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,0.0,108500.0,GIZ:prime:720BFS19GR00001,False,implementer,,True
+GID0090340,Rights Tracker,Human Rights Measurement Initiative,high,0,0,3,1,0.0,0.0,0.0,0.0,2.0,0.0,55000.0,Human Rights Measurement Initiative:prime:SNZ95022GR0039; Human Rights Measurement Initiative:prime:SSZ35024GR0060,False,direct,,True
+GID0092260,Designsystemet,Norwegian Digitalisation Agency (Digdir),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091413,Creative Commons Legal Tools,Creative Commons,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0092292,Joomla CMS,Open Source Matters Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090099,Sentinel-2 10m Land Use/Land Cover Time Series,Impact Observatory Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090090,Rahat,Rumsan,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090043,Govdirectory,Govdirectory (community),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090125,X-Road®,Nordic Institute for Interoperability Solutions (NIIS),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0092379,Rafiki,Interledger Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092384,La Suite Drive,DINUM (French interministerial digital directorate),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092393,La Suite Meet,DINUM (French interministerial digital directorate),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092407,OpenCHS,BITZ IT Consulting Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092457,Open Data Editor,Open Knowledge Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0092472,PeerTube,Framasoft,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092599,Compar:IA,Ministry of Culture (France),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092635,MapBiomas Brazil,MapBiomas,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0092690,Green Roads Toolkit,Asian Development Bank,high,0,0,3,1,0.0,0.0,0.0,0.0,3.0,0.0,3722655.0,Asian Development Bank:prime:SLMAQM19GR2376; Asian Development Bank:prime:SAQMIP24GR5356; Asian Development Bank:prime:SLMAQM21GR3310,False,parent,,True
+GID0092714,Wikidata,Wikimedia Foundation,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0092718,Rural Environmental Registry Registration Module,Government of Brazil (Rural Environmental Registry / SFB),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092823,Ghost,Ghost Foundation,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090130,KoboToolbox,Kobo Inc,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0090041,GLOBALEAKS,Whistleblowing Solutions Impresa Sociale S.r.l.,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092885,Penpot,Kaleidos (Penpot),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092888,CodeCarbon,CodeCarbon (community),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0092892,Biomass Prediction Model,Vertify.earth,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0092900,Software Heritage Archive,Inria (Software Heritage),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092909,AgriOS,Advance Insight,low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0090137,African Storybook,Saide (South African Institute for Distance Education),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091633,National Carbon Credit Registry,UNDP,high,0,0,3,1,0.0,0.0,0.0,0.0,28.0,4.0,178365379.0,UNDP:prime:SNEAAC23GR0002; UNDP:prime:AID391IO1700001; UNDP:prime:AIDPPLG1200001,False,parent,,True
+GID0093036,OSHWA Open Source Hardware Certification Data,Open Source Hardware Association,high,1,0,1,0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,,False,direct,,True
+GID0093041,SimpleAudit,SimulaMet,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091581,Open Sustainable Technology,protontypes (community),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0093103,neotree,Neotree,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0093129,SMILE,UNDP Indonesia,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0093201,The Climate Action Data Trust,Climate Action Data Trust,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,"recipient matched, nothing active in window",True
+GID0093220,Compar:IA Datatsets,Ministry of Culture (France),medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091175,FAO Agricultural Stress Index System,FAO,high,0,0,3,1,0.0,0.0,0.0,0.0,1.0,1.0,466241392.0,FAO:prime:AIDGHAG000600001; FAO:subaward:7200AA21CA00035,False,parent,,True
+GID0092176,Mastodon,Mastodon gGmbH,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0091706,Trade Trust,Infocomm Media Development Authority (IMDA),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0092098,Docs - Collaborative Text Editing,DINUM (French interministerial digital directorate),high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0093552,Element,Element Creations Ltd,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0093688,FireForm,FireForm (community),low,,,,,,,,,,,,,,,owner low confidence: no score (B1),False
+GID0093698,SYNTH,Pleias,high,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True
+GID0094184,Eurosky Identity Platform,Stichting Modal / Eurosky,medium,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,False,,no recipient in the map (no federal award found),True

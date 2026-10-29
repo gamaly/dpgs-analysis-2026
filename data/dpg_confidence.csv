@@ -1,0 +1,203 @@
+dpgid,dpg,n_repos,n_high,n_medium,n_low,org_only,dpg_confidence,n_listed_lost
+GID0090024,DIGIT,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090077,OpenCRVS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090283,Product Catalog Management Tool,,,,,,no_usable_repo,
+GID0090284,Everwell Hub,,,,,,no_usable_repo,
+GID0090285,iHRIS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090010,Bisa Health,,,,,,no_usable_repo,
+GID0090708,Jellow AAC Communicator,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090767,Energy Access Explorer,10.0,0.0,10.0,0.0,True,medium,0.0
+GID0090794,Interfacer,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090011,Boxtribute,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090088,Productive Forests,1.0,1.0,0.0,0.0,False,medium,2.0
+GID0090034,FarmStack,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",4.0,4.0,0.0,0.0,False,high,0.0
+GID0090209,Data Observation Toolkit,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090002,Accessible Kazakhstan,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090106,Sunbird Lern,22.0,4.0,18.0,0.0,True,medium,0.0
+GID0090979,HCW@Home,10.0,0.0,10.0,0.0,True,medium,0.0
+GID0090990,IVTToken,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),10.0,0.0,10.0,0.0,True,medium,0.0
+GID0090119,Uwazi,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090073,Open Contracting Portal,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090005,Altinn,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090040,Global Open Facility Registry,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091018,PotLock,80.0,0.0,80.0,0.0,True,medium,0.0
+GID0091020,magasin,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090020,cQube,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090009,Bahmni,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091036,Ersilia Model Hub,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091038,Open Concept Lab,28.0,0.0,28.0,0.0,True,medium,0.0
+GID0091042,Sunbird Saral,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090047,if me,1.0,1.0,0.0,0.0,False,medium,1.0
+GID0090085,OpenSRP,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090087,PRISM,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090257,OpenEyes,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090081,openIMIS,148.0,0.0,148.0,0.0,True,medium,0.0
+GID0090346,Aid Management Platform,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090121,VIPS,,,,,,no_usable_repo,
+GID0090058,linelist,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091139,CodiTeach,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090089,Project AEDES,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091161,HOPE,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091177,Syft,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090321,CityLearn,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091186,Open-Pryv.io,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090101,Somleng,19.0,0.0,19.0,0.0,True,medium,0.0
+GID0090110,Surveillance Outbreak Response Management and Analysis System,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090191,PrepTime Analytics,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090053,Kindly,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090452,Safe YOU,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090494,finalsize,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090256,Deon,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090128,Zamba,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090111,Synthea,2.0,2.0,0.0,0.0,False,high,0.0
+GID0091320,QuarkID,12.0,0.0,12.0,0.0,True,medium,0.0
+GID0090492,ekShop Marketplace,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091335,ClimWeb,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,,,,,,no_usable_repo,
+GID0090120,VaccineLedger,,,,,,no_usable_repo,
+GID0091358,Media Cloud,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091359,Go.Data,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090027,Eco-Index Biodiversity Dashboards,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091369,Nextcloud Server,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091385,Measuring Real Power Usage of Software Applications,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090367,Connect For Life,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091412,Tazama,63.0,0.0,63.0,0.0,True,medium,0.0
+GID0091430,Digital Impact Exchange,,,,,,no_usable_repo,
+GID0090293,Decidim,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091444,epiCo,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090116,TruBudget,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090023,DiCRA,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090118,The Ushahidi Platform,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090017,Community Health Toolkit,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091470,Uli,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091478,GDevelop,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090144,Oobee,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090618,OpenRIMS-PV,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090802,CREDEBL,15.0,0.0,15.0,0.0,True,medium,0.0
+GID0091509,Register for Organic Agriculture,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091516,Open Food Facts,56.0,0.0,56.0,0.0,True,medium,0.0
+GID0090741,NiSE3 Skills and Certification,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091526,UrbanPy,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091530,SUSE Linux Enterprise Server ,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090051,iVerify,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090192,Code Your Future,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090589,Sunbird SERVE,6.0,6.0,0.0,0.0,False,high,0.0
+GID0091548,Prospect,,,,,,no_usable_repo,
+GID0090048,Immunization Calculation Engine,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090743,MEDPlat,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090675,SPICE,14.0,0.0,14.0,0.0,True,medium,0.0
+GID0090001,Aam Digital,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090502,Grievance Redress  System (GRS),2.0,2.0,0.0,0.0,False,high,0.0
+GID0090196,OpenTeleRehab,3.0,3.0,0.0,0.0,False,high,0.0
+GID0090223,Vxnaid,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091578,DKAN,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091586,QGIS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090623,Feluda,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091592,JemPI,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090230,IASO,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090186,Android FHIR SDK,1.0,0.0,0.0,1.0,False,low,0.0
+GID0091624,Open Supply Hub,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090228,GeoPrism Registry,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091629,Isomer,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091644,caMicroscope,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090086,Primero,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090072,Oky,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091651,UPYOG,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090079,OpenFn,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091676,HOT Tasking Manager,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090151,Cider,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091682,LibreSign,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091685,Health Claims Data Exchange,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090038,Glific,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090946,Bebbo Parenting App,2.0,2.0,0.0,0.0,False,high,0.0
+GID0090071,ODK,45.0,0.0,45.0,0.0,True,medium,0.0
+GID0090217,E-Heza,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090065,Modular Open Source Identity Platform,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090109,Sunbird,52.0,0.0,52.0,0.0,True,medium,0.0
+GID0091739,Food Fortification Quality Management System,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090194,OpenHexa,6.0,6.0,0.0,0.0,False,high,0.0
+GID0090129,DHIS2,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090896,OpenMandriva Lx,15.0,0.0,15.0,0.0,True,medium,0.0
+GID0090012,Cboard,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090195,OpenSPP,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090750,OpenELIS Global,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090594,Querido Diário,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090259,TrueNAS,,,,,,no_usable_repo,
+GID0090320,Open Health Stack,3.0,2.0,0.0,1.0,False,low,0.0
+GID0090045,Harmony,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090084,OpenMRS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090091,RapidPro,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091039,Mautic,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090949,Dalgo,19.0,0.0,19.0,0.0,True,medium,0.0
+GID0091778,TYPO3,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090006,Apache Fineract,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090229,Consul Democracy,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090061,Mifos X,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090039,Global Healthsites Mapping Project,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090953,Avni,34.0,0.0,34.0,0.0,True,medium,0.0
+GID0090552,FormSG,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090019,Care,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090100,Simple,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090107,Sunbird RC,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090413,Janssen Project,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090016,CommCare,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090193,OpenRIMS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090066,Mojaloop,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090095,SanteSuite,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090277,OpenFisca,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091856,Tor Browser,,,,,,no_usable_repo,
+GID0090848,The Turing Way,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091862,OpenEWS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091140,Chamilo,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090263,OpenG2P,,,,,,no_usable_repo,
+GID0091909,Ozone,25.0,0.0,25.0,0.0,True,medium,0.0
+GID0091917,Accessible Medical Records via Integrated Technologies,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090527,CKAN,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091075,QField,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090054,Kolibri,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091996,Data Norge,1.0,0.0,1.0,0.0,True,medium,0.0
+GID0092012,Pix,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090003,AccessMod,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090033,farmOS,25.0,0.0,25.0,0.0,True,medium,0.0
+GID0092044,Marine Spatial Planning - SAHAV ,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092066,Statbus,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092082,WSO2 Identity Server,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091291,Quantification Analytics Tool,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092151,Pol.is,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092221,MyChild HelpLine,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092260,Designsystemet,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091413,Creative Commons Legal Tools,2.0,2.0,0.0,0.0,False,high,0.0
+GID0092292,Joomla CMS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090090,Rahat,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090125,X-Road®,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092379,Rafiki,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092384,La Suite Drive,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092393,La Suite Meet,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092407,OpenCHS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092457,Open Data Editor,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092472,PeerTube,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092599,Compar:IA,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092718,Rural Environmental Registry Registration Module,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092823,Ghost,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090130,KoboToolbox,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090041,GLOBALEAKS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092885,Penpot,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092888,CodeCarbon,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092909,AgriOS,1.0,1.0,0.0,0.0,False,high,0.0
+GID0090137,African Storybook,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091633,National Carbon Credit Registry,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093041,SimpleAudit,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091581,Open Sustainable Technology,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093103,neotree,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093129,SMILE,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093201,The Climate Action Data Trust,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092176,Mastodon,1.0,1.0,0.0,0.0,False,high,0.0
+GID0091706,Trade Trust,1.0,1.0,0.0,0.0,False,high,0.0
+GID0092098,Docs - Collaborative Text Editing,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093552,Element,1.0,1.0,0.0,0.0,False,high,0.0
+GID0093688,FireForm,1.0,1.0,0.0,0.0,False,high,0.0
+GID0094184,Eurosky Identity Platform,1.0,1.0,0.0,0.0,False,high,0.0

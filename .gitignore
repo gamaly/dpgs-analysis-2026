@@ -1,0 +1,9 @@
+# secrets and scratch folders created by notebook 00 (demo / full modes)
+.env
+_demo_output/
+_full_run/
+# Python / Jupyter noise
+__pycache__/
+.ipynb_checkpoints/
+# per-run claim files written by extras/verify_numbers.py
+extras/_claims/
