@@ -19,7 +19,7 @@ rows, md = [], ["# Exposed DPGs (primary definition: score 2 or 3)", "",
     "Exposure = a US foreign-aid award (USAID, State, MCC, CDC) to the DPG's owner active between 2022-10-01 and 2025-01-19. "
     "Score 3 = a direct (prime) award; score 2 = a subaward passed through another organisation. "
     "Dollar figures are the full face value of each award, **not prorated to the window**. US federal money only: non-US donors are not included here. "
-    "Owner and recipient matches are provisional until QC rechecks the rebuilt rows. A DPG with no award found is scored 0, which can also mean an unreported subaward.", ""]
+    "Owner and recipient matches are provisional until the independent check rechecks the rebuilt rows. A DPG with no award found is scored 0, which can also mean an unreported subaward.", ""]
 for r in x.itertuples():
     a = ev[ev.dpgid == r.dpgid].head(3)
     awards = []

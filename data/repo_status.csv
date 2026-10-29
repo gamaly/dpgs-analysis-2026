@@ -1,5 +1,5 @@
 full_name,status,status_incl_prerelease,events_last12,events_prior12,last_event_date,dormant_since,human_commits_12m,dep_bot_merges_12m,bot_only_flag,archived,renamed,pushed_at,release_method
-1024pix/pix,active,active,3132,2611,2026-10-29,,7438,1223,False,False,False,2026-10-29,releases
+1024pix/pix,active,active,3132,2608,2026-10-29,,7438,1223,False,False,False,2026-10-29,releases
 4ian/GDevelop,active,active,921,497,2026-10-29,,1002,129,False,False,False,2026-10-29,releases
 a2i-dpg/ekShop,dormant,dormant,0,0,2022-07-14,2023-07-14,0,0,False,False,False,2024-05-24,tags
 a2i-dpg/skills-and-certification,dormant,dormant,0,0,2022-03-29,2023-03-29,0,0,False,False,False,2024-08-08,tags
@@ -40,7 +40,7 @@ Chia-Network/cadt,active,active,196,67,2026-10-13,,749,52,False,False,False,2026
 Chocobozzz/PeerTube,active,active,97,51,2026-10-28,,1981,0,False,False,False,2026-10-28,releases
 Cirrolytix/aedes_dpg,dormant,dormant,0,0,2023-01-19,2024-01-19,0,0,False,False,False,2023-01-25,tags
 citylearn-project/CityLearn,active,active,7,14,2026-09-09,,73,0,False,False,False,2026-09-22,releases
-ckan/ckan,active,active,268,273,2026-10-28,,1009,23,False,False,False,2026-10-28,releases
+ckan/ckan,active,active,207,192,2026-10-28,,1009,84,False,False,False,2026-10-28,releases
 CodeYourFuture/curriculum,active,active,269,329,2026-10-26,,301,0,False,False,False,2026-10-26,tags
 CodeYourFuture/immersive-go-course,dormant,dormant,0,2,2025-07-24,2026-07-24,0,0,False,False,False,2025-07-24,tags
 codiplaykz/coditeach,dormant,dormant,0,0,,,0,0,False,False,False,2026-10-06,tags
@@ -87,7 +87,7 @@ ecaunicef/mychildhelpline-app,active,active,1,0,2026-08-25,,15,0,False,False,Fal
 eco-index/ecoindex-stack,dormant,dormant,0,0,2022-04-13,2023-04-13,0,0,False,False,False,2022-09-29,tags
 egovernments/DIGIT-OSS,dormant,dormant,0,0,2024-01-24,2025-01-24,0,0,False,True,False,2026-02-02,releases
 EL-BID/urbanpy,active,active,1,3,2026-05-23,,6,0,False,False,False,2026-08-10,releases
-element-hq/element-web,active,active,1650,1044,2026-10-29,,2313,737,False,False,False,2026-10-29,releases
+element-hq/element-web,active,active,1399,797,2026-10-29,,1863,988,False,False,False,2026-10-29,releases
 energyaccessexplorer/admin,active,active,5,0,2026-09-30,,46,0,False,False,False,2026-10-12,tags
 energyaccessexplorer/database,dormant,dormant,0,0,,,2,0,False,False,False,2026-10-12,tags
 energyaccessexplorer/departer,dormant,dormant,0,0,,,10,0,False,False,False,2026-10-12,tags
@@ -165,14 +165,14 @@ interfacerproject/interfacer-gui,active,active,84,7,2026-10-08,,73,0,False,False
 interledger/rafiki,slowing,slowing,108,238,2026-10-29,,84,29,False,False,False,2026-10-29,releases
 intrahealth/gofr,dormant,dormant,0,0,2023-12-22,2024-12-22,0,0,False,False,False,2024-02-11,releases
 investtools/ivttoken,dormant,dormant,0,0,2023-04-10,2024-04-10,0,0,False,False,False,2024-01-25,tags
-JanssenProject/jans,active,active,1053,889,2026-10-29,,997,281,False,False,False,2026-10-29,releases
+JanssenProject/jans,active,active,921,875,2026-10-29,,867,415,False,False,False,2026-10-29,releases
 jellow-aac/jellow-communicator-android,active,active,15,2,2026-08-20,,56,0,False,False,False,2026-08-20,releases
 jembi/JeMPI,dormant,dormant,0,0,2024-10-15,2025-10-15,0,0,False,False,False,2025-04-16,releases
 johnsonandjohnson/openmrs-distro-cfl,dormant,dormant,0,0,2024-05-21,2025-05-21,0,0,False,True,False,2024-09-09,releases
 joomla/joomla-cms,active,active,857,959,2026-10-28,,1106,77,False,False,False,2026-10-28,releases
 kobotoolbox/kpi,active,active,1189,1061,2026-10-29,,1591,61,False,False,False,2026-10-29,releases
 kvklrao/PreSco,dormant,dormant,0,0,,,0,0,False,False,False,2023-02-08,tags
-learningequality/kolibri,active,active,721,413,2026-10-28,,3103,168,False,False,False,2026-10-28,releases
+learningequality/kolibri,active,active,481,413,2026-10-28,,2216,408,False,False,False,2026-10-28,releases
 LibreSign/libresign,active,active,1388,659,2026-10-29,,10447,1766,False,False,False,2026-10-29,releases
 mastodon/mastodon,active,active,2407,1608,2026-10-29,,2167,961,False,False,False,2026-10-29,releases
 mautic/mautic,active,active,1261,697,2026-10-29,,6157,146,False,False,False,2026-10-29,releases
@@ -228,7 +228,7 @@ shoqata-organika/register-for-organic-agriculture,dormant,dormant,0,0,,,0,0,Fals
 simpledotorg/simple-server,active,active,99,186,2026-10-29,,134,0,False,False,False,2026-10-29,tags
 SimulaMet/SimpleAudit,active,active,113,0,2026-10-28,,484,0,False,False,False,2026-10-28,releases
 smile-health/smile,active,active,7,0,2026-09-25,,69,0,False,False,False,2026-09-25,tags
-SORMAS-Foundation/SORMAS-Project,active,active,265,134,2026-10-27,,1176,0,False,False,False,2026-10-29,releases
+SORMAS-Foundation/SORMAS-Project,active,active,259,134,2026-10-27,,1094,6,False,False,False,2026-10-29,releases
 statisticsnorway/statbus,active,active,19,11,2026-10-28,,6016,2,False,False,False,2026-10-28,releases
 suitenumerique/docs,active,active,547,437,2026-10-29,,1119,84,False,False,False,2026-10-29,releases
 suitenumerique/drive,active,active,291,176,2026-10-28,,919,20,False,False,False,2026-10-29,releases
@@ -275,5 +275,5 @@ ushahidi/platform,slowing,slowing,5,26,2026-10-22,,3,0,False,False,False,2026-10
 WFP-VAM/prism-app,active,active,228,108,2026-10-27,,182,61,False,False,False,2026-10-27,tags
 wmo-raf/climweb,active,active,218,71,2026-10-28,,184,23,False,False,False,2026-10-29,releases
 WorldHealthOrganization/godata,dormant,dormant,0,0,2024-04-17,2025-04-17,11,0,False,False,False,2026-06-03,tags
-wso2/product-is,active,active,884,1405,2026-10-29,,1835,46,False,False,False,2026-10-29,releases
+wso2/product-is,active,active,611,1091,2026-10-29,,1593,319,False,False,False,2026-10-29,releases
 Zenysis/Harmony,dormant,dormant,0,1,2025-01-06,2026-01-06,0,0,False,False,False,2025-11-13,tags

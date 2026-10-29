@@ -1,5 +1,5 @@
-"""N2 join : fill terminated_award in data/donor_flags.csv.
-Joins FIN's per-DPG award evidence (data/funding_flags_awards.csv) to data/usg_terminations.csv (ITPC list, 6 Mar 2025) on
+"""N2 join (this part of the study): fill terminated_award in data/donor_flags.csv.
+Joins the funding analysis's per-DPG award evidence (data/funding_flags_awards.csv) to data/usg_terminations.csv (ITPC list, 6 Mar 2025) on
 the prime award ID (a subaward is terminated when its prime is). Exact match after upper-casing/stripping only.
 Values: 'yes: <ids>' = >=1 evidence award on the terminated list; 'on list, active: <ids>' = only on the active list;
 'no match' = evidence awards but none on the list (list is USAID/State only and a March snapshot); '' = no awards.

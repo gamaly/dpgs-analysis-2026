@@ -1,8 +1,8 @@
-"""N1  step 1: collect IATI activities that name a DPG owner / related implementer as participating org.
+"""N1 (this part of the study) step 1: collect IATI activities that name a DPG owner / related implementer as participating org.
 
 Search names come from data/dpg_owner_map.csv (owner_name, related_orgs; read-only). One phrase query per name
 against the IATI Datastore (key in .env as IATI_API_KEY, never printed). US-government reporters (US-*) are
-excluded server side: they belong to the USAspending part of the analysis (DESIGN B). Raw responses are cached under cache/iati/
+excluded server side: they belong to the USAspending part (DESIGN B). Raw responses are cached under cache/iati/
 before any matching (DESIGN E). Matching and the window test are step 2 (11_iati_match.py).
 
 Stage 1 counts hits per name; stage 2 fetches documents for names with <= MAX_DOCS hits. Names above that are large

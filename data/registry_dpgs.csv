@@ -1,257 +1,257 @@
-dpgid,name,stage,website,n_listed_repositories
-GID0090024,DIGIT,DPG,https://www.digit.org/,1
-GID0090077,OpenCRVS,DPG,https://www.opencrvs.org/,1
-GID0090283,Product Catalog Management Tool,DPG,http://productcatalog.io,1
-GID0090284,Everwell Hub,DPG,https://www.everwell.org/,1
-GID0090285,iHRIS,DPG,https://www.ihris.org/,1
-GID0090666,LocalGov Drupal,DPG,https://localgovdrupal.org/,1
-GID0090010,Bisa Health,DPG,https://bisaapp.com,1
-GID0090692,Doptor Open Data,DPG, http://dpgdata.doptor.gov.bd/  ,1
-GID0090708,Jellow AAC Communicator,DPG,https://jellow.org/jellow-basic.php,1
-GID0090764,Indonesian Phoneme Recognizer,DPG,"https://github.com/bookbot-hive/k2-indonesian-asr , https://bookbot-hive.github.io/k2-indonesian-asr/ , https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id , https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id",1
-GID0090767,Energy Access Explorer,DPG,energyaccessexplorer.org,1
-GID0090794,Interfacer,DPG,https://interfacer.dyne.org/,1
-GID0090011,Boxtribute,DPG,https://www.boxtribute.org/,1
-GID0090088,Productive Forests,DPG,https://www.bioverse.io/,1
-GID0090034,FarmStack,DPG,https://www.farmstack.co/,1
-GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",DPG,https://ontochain.ngi.eu/content/ps-sda,1
-GID0090904,Data to Policy Navigator,DPG,https://www.datatopolicy.org/,1
-GID0090209,Data Observation Toolkit,DPG,https://www.datakind.org/2022/11/17/building-confidence-in-community-health-systems-datakinds-data-observation-toolkit-dot/,1
-GID0090672,CIEL terminology,DPG,"https://www.CIELterminology.org, https://app.openconceptlab.org/#/orgs/CIEL/sources/CIEL/",1
-GID0090002,Accessible Kazakhstan,DPG,https://doskaz.kz/,1
-GID0090952,cfr,DPG,https://github.com/epiverse-trace/cfr,1
-GID0090106,Sunbird Lern,DPG,https://lern.sunbird.org,1
-GID0090979,HCW@Home,DPG,https://hcw-at-home.com/,1
-GID0090990,IVTToken,DPG,"https://ivttoken.vercel.app/, https://investtools.com.br",1
-GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),DPG,https://chats.cash/,1
-GID0090119,Uwazi,DPG,"https://huridocs.org/technology/uwazi/, https://uwazi.io",1
-GID0090073,Open Contracting Portal,DPG,https://devgateway.github.io/ocportal/,1
-GID0090005,Altinn,DPG,https://www.altinn.no,1
-GID0090040,Global Open Facility Registry,DPG,https://www.facilitymatch.net/,1
-GID0091018,PotLock,DPG,https://potlock.org ,1
-GID0091020,magasin,DPG,https://unicef.github.io/magasin,1
-GID0090020,cQube,DPG,https://cqube.sunbird.org,1
-GID0090009,Bahmni,DPG,https://www.bahmni.org,1
-GID0091036,Ersilia Model Hub,DPG,https://ersilia.io,1
-GID0091038,Open Concept Lab,DPG,https://openconceptlab.org,1
-GID0091042,Sunbird Saral,DPG,https://saral.sunbird.org,1
-GID0090047,if me,DPG,https://www.if-me.org/,1
-GID0090085,OpenSRP,DPG,https://opensrp.io,1
-GID0090087,PRISM,DPG,https://innovation.wfp.org/project/prism,1
-GID0090257,OpenEyes,DPG,https://openeyes.apperta.org,1
-GID0090081,openIMIS,DPG,https://openimis.org,1
-GID0090346,Aid Management Platform,DPG,https://devgateway.github.io/amp/,1
-GID0090142,StoryWeaver,DPG, https://storyweaver.org.in,1
-GID0090121,VIPS,DPG,https://nibio.no/en/services/vips,1
-GID0090058,linelist,DPG,https://epiverse-trace.github.io/linelist/,1
-GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,DPG,https://www.avyantra.com,1
-GID0091139,CodiTeach,DPG,https://coditeach.kz,1
-GID0090089,Project AEDES,DPG,https://aedesproject.org,1
-GID0091156,Mifos Payment Hub-EE (PH-EE),DPG,https://payments.mifos.org,1
-GID0091161,HOPE,DPG,https://www.unicef.org/hope-hct,1
-GID0090369,OpenClinic GA,DPG,https://sourceforge.net/projects/open-clinic/ ,1
-GID0091167,Rocky Linux,DPG,https://rockylinux.org,1
-GID0091177,Syft,DPG,https://openmined.org,1
-GID0090321,CityLearn,DPG,www.citylearn.net,1
-GID0091186,Open-Pryv.io,DPG,https://www.pryv.com/open-pryv/,1
-GID0090101,Somleng,DPG,https://www.somleng.org,1
-GID0090110,Surveillance Outbreak Response Management and Analysis System,DPG,https://www.sormas.org,1
-GID0090191,PrepTime Analytics,DPG,https://preptimeanalytics.com/,1
-GID0090053,Kindly,DPG,https://kindly.unicef.io,1
-GID0090452,Safe YOU,DPG,https://safeyou.space/,1
-GID0090494,finalsize,DPG,https://epiverse-trace.github.io/finalsize/,1
-GID0090256,Deon,DPG,https://deon.drivendata.org/,1
-GID0090128,Zamba,DPG,https://zamba.drivendata.org/,1
-GID0090111,Synthea,DPG,https://synthetichealth.github.io/synthea/,1
-GID0091320,QuarkID,DPG,www.quarkid.org,1
-GID0090492,ekShop Marketplace,DPG,https://dpg.ekshop.gov.bd,1
-GID0091335,ClimWeb,DPG,https://climtech.africa/climweb/,1
-GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,DPG,https://fuss.bz.it,1
-GID0090120,VaccineLedger,DPG,https://vaccineledger.com/,1
-GID0091358,Media Cloud,DPG,https://www.mediacloud.org/,1
-GID0090124,WaPOR,DPG,https://wapor.apps.fao.org/home/WAPOR_2/1,1
-GID0091359,Go.Data,DPG,https://www.who.int/tools/godata,1
-GID0090027,Eco-Index Biodiversity Dashboards,DPG,https://eco-index.nz/,1
-GID0091369,Nextcloud Server,DPG,https://nextcloud.com,1
-GID0091385,Measuring Real Power Usage of Software Applications,DPG,https://github.com/hsbc/mrpusa,1
-GID0091388,FAOLEX,DPG,https://www.fao.org/faolex/en/,1
-GID0090367,Connect For Life,DPG,www.connect-for-life.org,1
-GID0091412,Tazama,DPG,www.tazama.org,1
-GID0091415,Wikirate Data,DPG,https://wikirate.org,1
-GID0091430,Digital Impact Exchange,DPG,https://exchange.dial.global/,1
-GID0090293,Decidim,DPG,https://decidim.org/,1
-GID0091444,epiCo,DPG,https://epiverse-trace.github.io/epiCo,1
-GID0090116,TruBudget,DPG,https://trubudget.net,1
-GID0090023,DiCRA,DPG,https://dicra.nabard.org/,1
-GID0090118,The Ushahidi Platform,DPG,https://www.ushahidi.com/,1
-GID0090017,Community Health Toolkit,DPG,https://communityhealthtoolkit.org/,1
-GID0091470,Uli,DPG,https://uli.tattle.co.in/,1
-GID0091478,GDevelop,DPG,https://gdevelop.io,1
-GID0090144,Oobee,DPG,https://go.gov.sg/oobee,1
-GID0090695,Advocacy Training for Community Health Workers,DPG,"https://digitalmedic.stanford.edu/advocacy-training-community-health-workers, https://joinchic.org/resources/chw-advocates/",1
-GID0090618,OpenRIMS-PV,DPG,https://openrims.org,1
-GID0090802,CREDEBL,DPG,https://credebl.id,1
-GID0091509,Register for Organic Agriculture,DPG,https://organika-ks.org/en/the-register-for-organic-agriculture/,1
-GID0091516,Open Food Facts,DPG,https://openfoodfacts.org,1
-GID0090586,Orthanc,DPG,https://www.orthanc-server.com/,1
-GID0090741,NiSE3 Skills and Certification,DPG, https://dpg.nise.gov.bd/ ,1
-GID0091526,UrbanPy,DPG,https://code.iadb.org/en/tools/urbanpy,1
-GID0091530,SUSE Linux Enterprise Server ,DPG,https://www.suse.com/products/server/,1
-GID0090051,iVerify,DPG,https://www.undp.org/digital/iverify,1
-GID0090192,Code Your Future,DPG,https://curriculum.codeyourfuture.io/,1
-GID0090589,Sunbird SERVE,DPG,https://serve.evean.net/,1
-GID0091548,Prospect,DPG,https://prospect.energy/,1
-GID0090048,Immunization Calculation Engine,DPG,https://cdsframework.atlassian.net/wiki/spaces/ICE/overview,1
-GID0090743,MEDPlat,DPG,https://www.medplat.co.in/,1
-GID0090675,SPICE,DPG,https://www.medtroniclabs.org/technology-platform/,1
-GID0090001,Aam Digital,DPG,https://www.aam-digital.com,1
-GID0090502,Grievance Redress  System (GRS),DPG,https://dpg.grs.gov.bd,1
-GID0090196,OpenTeleRehab,DPG,https://www.opentelerehab.com,1
-GID0091566,AGRIS Open Data Set,DPG,http://www.fao.org/agris/agris-ods,1
-GID0090223,Vxnaid,DPG,https://github.com/johnsonandjohnson/vxnaid/wiki,1
-GID0090070,NotesMaster,DPG,https://notesmaster.com/,1
-GID0091578,DKAN,DPG,https://getdkan.org/,1
-GID0091586,QGIS,DPG,https://qgis.org,1
-GID0090623,Feluda,DPG,https://tattle.co.in/products/feluda,1
-GID0091592,JemPI,DPG,https://jembi.gitbook.io/jempi,1
-GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,DPG,https://t18d.github.io/attested-conjectures/,1
-GID0090230,IASO,DPG,https://www.openiaso.com/,1
-GID0090186,Android FHIR SDK,DPG,https://developers.google.com/open-health-stack/android-fhir,1
-GID0090526,OpenStreetMap,DPG,https://www.openstreetmap.org,1
-GID0091624,Open Supply Hub,DPG,https://opensupplyhub.org/,1
-GID0090228,GeoPrism Registry,DPG,https://geoprismregistry.com/,1
-GID0091629,Isomer,DPG,https://isomer.gov.sg,1
-GID0091644,caMicroscope,DPG,https://camicroscope.org/,1
-GID0090086,Primero,DPG,https://www.primero.org,1
-GID0090072,Oky,DPG,https://okyapp.info/,1
-GID0090060,MET Norway Weather API,DPG,https://developer.yr.no/ ,1
-GID0091651,UPYOG,DPG,https://niua.in/cdg/UPYOG,1
-GID0091671,LEI,DPG,www.gleif.org,1
-GID0090079,OpenFn,DPG,https://www.openfn.org/,1
-GID0090035,Fedora Linux,DPG,https://fedoraproject.org/,1
-GID0091676,HOT Tasking Manager,DPG,https://tasks.hotosm.org/,1
-GID0090151,Cider,DPG,https://global-policy-lab.github.io/cider-documentation/intro.html,1
-GID0091682,LibreSign,DPG,https://libresign.coop,1
-GID0091685,Health Claims Data Exchange,DPG,https://swasthalliance.org/health-claims-exchange.html,1
-GID0090038,Glific,DPG,https://glific.org/,1
-GID0090946,Bebbo Parenting App,DPG,https://bebbo.app,1
-GID0090071,ODK,DPG,https://getodk.org,1
-GID0090068,Mozilla Common Voice,DPG,https://commonvoice.mozilla.org/en,1
-GID0090217,E-Heza,DPG,https://tip-global-health.github.io/eheza-documentation/,1
-GID0090065,Modular Open Source Identity Platform,DPG,https://mosip.io/,1
-GID0090109,Sunbird,DPG,https://www.sunbird.org,1
-GID0090385,LibreOffice,DPG,https://www.libreoffice.org,1
-GID0090906,Crosscut,DPG,https://crosscut.io,1
-GID0091739,Food Fortification Quality Management System,DPG,https://food.fortification.in/,1
-GID0090939,AGROVOC Multilingual Thesaurus,DPG," https://www.fao.org/agrovoc, https://agrovoc.fao.org",1
-GID0090194,OpenHexa,DPG,https://www.bluesquarehub.com/openhexa/,1
-GID0090129,DHIS2,DPG,https://www.dhis2.org/,1
-GID0090896,OpenMandriva Lx,DPG,https://openmandriva.org/,1
-GID0090012,Cboard,DPG,https://www.cboard.io/,1
-GID0090195,OpenSPP,DPG,http://openspp.org/,1
-GID0090750,OpenELIS Global,DPG,https://openelis-global.org/,1
-GID0090594,Querido Diário,DPG,https://queridodiario.ok.org.br/,1
-GID0090185,Torkel Opsahl Academic EPublisher,DPG,https://toaep.org/,1
-GID0090056,Lexsitus,DPG,https://cilrap-lexsitus.org/,1
-GID0090259,TrueNAS,DPG,https://www.truenas.com,1
-GID0090320,Open Health Stack,DPG,https://developers.google.com/open-health-stack,1
-GID0090045,Harmony,DPG,https://www.zenysis.com/solution/platform/,1
-GID0090084,OpenMRS,DPG,https://openmrs.org,1
-GID0090091,RapidPro,DPG,https://rapidpro.io,1
-GID0091039,Mautic,DPG,https://www.mautic.org,1
-GID0090949,Dalgo,DPG,https://dalgo.in/,1
-GID0091778,TYPO3,DPG,"https://typo3.com, https://typo3.org",1
-GID0091790,Food Price Monitoring and Analysis Tool,DPG,https://fpma.fao.org/,1
-GID0091826,The Land Portal,DPG,https://landportal.org/,1
-GID0090006,Apache Fineract,DPG,https://fineract.apache.org,1
-GID0090229,Consul Democracy,DPG,https://consuldemocracy.org,1
-GID0090318,UNIDO Industrial Analytics Platform,DPG,https://iap.unido.org,1
-GID0090061,Mifos X,DPG,https://mifos.org,1
-GID0090039,Global Healthsites Mapping Project,DPG,https://healthsites.io/,1
-GID0090953,Avni,DPG,https://avniproject.org,1
-GID0090552,FormSG,DPG,https://form.gov.sg ,1
-GID0090967,Agrontology,DPG,https://aims.fao.org/agrontology,1
-GID0090019,Care,DPG,https://ohc.network/,1
-GID0090100,Simple,DPG,https://simple.org,1
-GID0090107,Sunbird RC,DPG,https://sunbird.org/,1
-GID0090042,GNU Health,DPG,https://www.gnuhealth.org/,1
-GID0090440,Drupal,DPG,https://www.drupal.org,1
-GID0090413,Janssen Project,DPG,https://docs.jans.io,1
-GID0090016,CommCare,DPG,https://www.dimagi.com/commcare,1
-GID0090705,Open Terms Archive,DPG,https://opentermsarchive.org,1
-GID0090193,OpenRIMS,DPG,https://openrims.org,1
-GID0091848,Wikipedia,DPG,https://www.wikipedia.org/,1
-GID0090066,Mojaloop,DPG,https://mojaloop.io/,1
-GID0090095,SanteSuite,DPG,https://santesuite.com,1
-GID0090277,OpenFisca,DPG,https://openfisca.org,1
-GID0091856,Tor Browser,DPG,https://torproject.org,1
-GID0090848,The Turing Way,DPG,https://the-turing-way.netlify.app/index.html,1
-GID0091862,OpenEWS,DPG,https://open-ews.org/,1
-GID0091863,AgriTech Observatory,DPG,https://agritechobservatory.fao.org/,1
-GID0091140,Chamilo,DPG,https://chamilo.org,1
-GID0090263,OpenG2P,DPG,https://www.openg2p.org,1
-GID0091909,Ozone,DPG,https://www.ozone-his.com,1
-GID0091917,Accessible Medical Records via Integrated Technologies,DPG,https://amrit.piramalswasthya.org,1
-GID0090527,CKAN,DPG,https://ckan.org,1
-GID0091075,QField,DPG,https://qfield.org,1
-GID0090054,Kolibri,DPG,https://learningequality.org/kolibri/,1
-GID0091996,Data Norge,DPG,https://data.norge.no,1
-GID0092012,Pix,DPG,https://pix.org,1
-GID0090003,AccessMod,DPG,https://www.accessmod.org,1
-GID0092040,IATI Data,DPG,https://iatistandard.org,1
-GID0090033,farmOS,DPG,https://farmOS.org,1
-GID0092044,Marine Spatial Planning - SAHAV ,DPG,https://marinespatialplanning.in/puducherrygeo,1
-GID0092066,Statbus,DPG,https://statbus.org,1
-GID0092078,GAUL 2024,DPG,https://data.apps.fao.org/?lang=en,1
-GID0092082,WSO2 Identity Server,DPG,https://wso2.com/identity-server,1
-GID0090145,Global Human Settlement Layer,DPG,https://human-settlement.emergency.copernicus.eu/index.php,1
-GID0091291,Quantification Analytics Tool,DPG,https://www.ghsupplychain.org/quantificationanalyticstool,1
-GID0090044,Hand-in-Hand Geospatial Platform,DPG,https://www.fao.org/hih-geospatial-platform/en/,1
-GID0092151,Pol.is,DPG,https://pol.is,1
-GID0090029,FAO Digital Services Portfolio,DPG,https://digital.apps.fao.org,1
-GID0092221,MyChild HelpLine,DPG,https://www.mychildhelpline.org/mychild_helpline.html,1
-GID0092223,SYSPIN,DPG,https://syspin.iisc.ac.in/,1
-GID0090340,Rights Tracker,DPG,https://rightstracker.org,1
-GID0092260,Designsystemet,DPG,http://www.designsystemet.no,1
-GID0091413,Creative Commons Legal Tools,DPG,https://creativecommons.org/share-your-work/cclicenses/,1
-GID0092292,Joomla CMS,DPG,https://www.joomla.org/,1
-GID0090099,Sentinel-2 10m Land Use/Land Cover Time Series,DPG,https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d,1
-GID0090090,Rahat,DPG,https://rahat.io/,1
-GID0090043,Govdirectory,DPG,https://govdirectory.org,1
-GID0090125,X-Road®,DPG,https://x-road.global/,1
-GID0092379,Rafiki,DPG,https://rafiki.dev,1
-GID0092384,La Suite Drive,DPG,https://fichiers.numerique.gouv.fr/,1
-GID0092393,La Suite Meet,DPG,https://visio.numerique.gouv.fr/,1
-GID0092407,OpenCHS,DPG,https://openchs.com/,1
-GID0092457,Open Data Editor,DPG,https://okfn.org/en/projects/open-data-editor/,1
-GID0092472,PeerTube,DPG,https://joinpeertube.org,1
-GID0092599,Compar:IA,DPG,https://comparia.beta.gouv.fr,1
-GID0092635,MapBiomas Brazil,DPG,https://brasil.mapbiomas.org,1
-GID0092690,Green Roads Toolkit,DPG,https://data.adb.org/dataset/green-roads-toolkit,1
-GID0092714,Wikidata,DPG,https://www.wikidata.org,1
-GID0092718,Rural Environmental Registry Registration Module,DPG,https://rer.dataprev.gov.br ,1
-GID0092823,Ghost,DPG,https://ghost.org,1
-GID0090130,KoboToolbox,DPG,https://www.kobotoolbox.org,1
-GID0090041,GLOBALEAKS,DPG,https://www.globaleaks.org,1
-GID0092885,Penpot,DPG,https://penpot.app,1
-GID0092888,CodeCarbon,DPG,https://codecarbon.io/,1
-GID0092892,Biomass Prediction Model,DPG,"https://felt.com/embed/map/Goa-Biomass-DL-Estimation-P9AL0V5AwRD9BDpHIijjlO3C?loc=15.3875,74.0447,10.24z",1
-GID0092900,Software Heritage Archive,DPG,https://www.softwareheritage.org,1
-GID0092909,AgriOS,DPG,https://www.agrios.org/,1
-GID0090137,African Storybook,DPG,https://www.africanstorybook.org/,1
-GID0091633,National Carbon Credit Registry,DPG,https://www.demo.carbreg.org/,1
-GID0093036,OSHWA Open Source Hardware Certification Data,DPG,https://certification.oshwa.org/list.html,1
-GID0093041,SimpleAudit,DPG,https://github.com/kelkalot/simpleaudit/blob/main/README.md,1
-GID0091581,Open Sustainable Technology,DPG,https://opensustain.tech/,1
-GID0093103,neotree,DPG,https://neotree.org/,1
-GID0093129,SMILE,DPG,https://elearning.smile-indonesia.id/en/home/,1
-GID0093201,The Climate Action Data Trust,DPG,https://climateactiondata.org/,1
-GID0093220,Compar:IA Datatsets,DPG,https://comparia.beta.gouv.fr/datasets,1
-GID0091175,FAO Agricultural Stress Index System,DPG,https://www.fao.org/giews/earthobservation/,1
-GID0092176,Mastodon,DPG, https://joinmastodon.org,1
-GID0091706,Trade Trust,DPG,https://www.tradetrust.io/,1
-GID0092098,Docs - Collaborative Text Editing,DPG,https://docs.numerique.gouv.fr,1
-GID0093552,Element,DPG,https://element.io,1
-GID0093688,FireForm,DPG,https://fireform-core.github.io/FireForm/,1
-GID0093698,SYNTH,DPG,https://pleias.fr/blog/blogsynth-the-new-data-frontier,1
-GID0094184,Eurosky Identity Platform,DPG,https://eurosky.tech/,1
+dpgid,name,stage,website,description,n_listed_repositories
+GID0090024,DIGIT,DPG,https://www.digit.org/,"DIGIT is an open-source, configurable, extendable, modular, digital infrastructure that enables local governments to deliver municipal services to citizens in an efficient, inclusive, and transparent manner.",1
+GID0090077,OpenCRVS,DPG,https://www.opencrvs.org/,"OpenCRVS is an open-source software for civil registration, designed for low resource settings",1
+GID0090283,Product Catalog Management Tool,DPG,http://productcatalog.io,"The Product Catalog Management Tool aims to connect product catalogs in order to show a clear journey from manufacturer to patient. It establishes master data that includes GS1 identifiers, global categories, and mappings to local identifiers. This enables end-to-end visibility, allows shipments to flow between systems, and helps supply chains perform.",1
+GID0090284,Everwell Hub,DPG,https://www.everwell.org/,"The Everwell Hub is a best in-class patient management platform designed for high-burden public healthcare programs globally. The Everwell Hub supports the entire digital cascade of care from diagnosis through treatment support and completion, including fully integrated modules for diagnostics (both lab generated results and AI diagnostic solutions), digital adherence technologies, virtual care and patient engagement, and digital payments.",1
+GID0090285,iHRIS,DPG,https://www.ihris.org/,"iHRIS is a free and open-source software solution that has been used in over 30 countries to more easily collect, maintain, and analyze health workforce data and manage health workforce resources at a ministry of health (MOH), district health offices, and health care facilities. iHRIS helps countries around the world track and manage their health workforce data to improve access to services.",1
+GID0090666,LocalGov Drupal,DPG,https://localgovdrupal.org/,"LocalGov Drupal is an open source content management system, built on Drupal, optimised for use by public sector organisations for their public facing corporate websites.",1
+GID0090010,Bisa Health,DPG,https://bisaapp.com,Bisa is a health application that allows the public to receive health information and communicate with doctors.,1
+GID0090692,Doptor Open Data,DPG, http://dpgdata.doptor.gov.bd/  ,Doptor Open Data aims to bring all the eServices owned by the Government of Bangladesh in a single platform. Doptor Open Data works as a middleware to serve all the government officials and offices with authentication and the most secure way. The concept of one id for one government office & official to access all the eService is implemented by Doptor Open Data Platform. This platform has the integration process to share the core data with other eServices.,1
+GID0090708,Jellow AAC Communicator,DPG,https://jellow.org/jellow-basic.php,Jellow Basic Communicator is a freely downloadable friendly Augmentative and Alternative Communication (AAC) system that uses icons/images to enable aid communication in people learning to speak or with difficulty with speech and language.,1
+GID0090764,Indonesian Phoneme Recognizer,DPG,"https://github.com/bookbot-hive/k2-indonesian-asr , https://bookbot-hive.github.io/k2-indonesian-asr/ , https://huggingface.co/bookbot/pruned-transducer-stateless7-streaming-id , https://huggingface.co/bookbot/sherpa-ncnn-pruned-transducer-stateless7-streaming-id","Indonesian speech/phoneme recognizer powered by Kaldi 2.0 (lhotse, icefall, sherpa).",1
+GID0090767,Energy Access Explorer,DPG,energyaccessexplorer.org,"The first, open-source, online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions. EAE functions also as a dynamic information system, reducing software engineering and data transaction costs for both data providers and users and facilitating data management and governance.",1
+GID0090794,Interfacer,DPG,https://interfacer.dyne.org/,"Innovative federated open source platform that provides a digital product passport. With a focus to find and share open source hardware projects, collaborate with others, and discover new products and services. Import your projects to allow access to the community and grow your reputation.",1
+GID0090011,Boxtribute,DPG,https://www.boxtribute.org/,"An open-source digital system making it easy to rapidly and collaboratively source, store & distribute humanitarian aid to people in need in a fair and dignified way.",1
+GID0090088,Productive Forests,DPG,https://www.bioverse.io/,Satellite Imagery Processing for Machine Learning Based Image Classification. Produtive Forests creates a forest inventory to support the sustainable use of non-timber related forest products,1
+GID0090034,FarmStack,DPG,https://www.farmstack.co/,Open source product suite which enables the secure transfer of data across the agricultural ecosystem,1
+GID0090210,"Data exchange agreement protocol suit for auditable, privacy-preserving data transactions in dataspaces",DPG,https://ontochain.ngi.eu/content/ps-sda,"DEXA protocol is key for developing and deploying trustworthy, human-centric decentralised data applications (dApps) across domains using data intermediation services within dataspaces.",1
+GID0090904,Data to Policy Navigator,DPG,https://www.datatopolicy.org/,The Data to Policy Navigator is designed to assist government executives and policymakers in grasping the fundamentals of data-driven decision-making. It provides a step-by-step guide and a range of practical examples from across the globe on how to integrate data into policy.,1
+GID0090209,Data Observation Toolkit,DPG,https://www.datakind.org/2022/11/17/building-confidence-in-community-health-systems-datakinds-data-observation-toolkit-dot/,"DOT is a toolkit that can be used to monitor data as it's collected and enters a database to flag problems with data integrity, data quality, protocols, outliers and other scenarios that might need attention",1
+GID0090672,CIEL terminology,DPG,"https://www.CIELterminology.org, https://app.openconceptlab.org/#/orgs/CIEL/sources/CIEL/","CIEL terminology is an open source clinical interface terminology mapped to multiple standard code systems such as ICD, SNOMED CT, LOINC, RxNORM that ensures health information systems can collect, normalize and analyze/report high quality health information.",1
+GID0090002,Accessible Kazakhstan,DPG,https://doskaz.kz/,It is a model of an online map with information on accessibility of public facilities that enables people with limited mobility to navigate the public space.,1
+GID0090952,cfr,DPG,https://github.com/epiverse-trace/cfr,"R package to estimate disease severity and under-reporting in real-time, accounting for reporting delays in epidemic time-series",1
+GID0090106,Sunbird Lern,DPG,https://lern.sunbird.org,"Sunbird Lern is primarily a set of microservices along with some reference UX widgets that offer capabilities to enable tracking of a user’s learning journey as well as enable interactions and collaboration among users. These capabilities can be leveraged by any adopter with requirements for measurement of learning progress, creation and management of cohorts/ batches of learners, as well as enabling collaboration capabilities such as Groups or Discussion forums. The Lern services are also employed for creation and management of user accounts and organisations within a Sunbird instance.",1
+GID0090979,HCW@Home,DPG,https://hcw-at-home.com/,"HCW@Home is a scalable, institution-level secure teleconsultation system for typical telemedicine scenarios, achieved through close collaboration with healthcare professionals. It is fully open-source and offers integrated features for chat, audio, and video calls using WebRTC.",1
+GID0090990,IVTToken,DPG,"https://ivttoken.vercel.app/, https://investtools.com.br","This initiative connects underconnected schools to the internet through a blockchain model, rewarding ISPs and sponsors with connectivity tokens. Supported by UNICEF, it focuses on usability and scalability to enhance global educational access.",1
+GID0090995,Convexity Humanitarian Aid Transfer Solution (CHATS),DPG,https://chats.cash/,CHATS is geared towards aiding the transparent distribution of conditional and unconditional cash voucher assistance to vulnerable beneficiaries. The platform aims to fight against fraudulent practices and give the donors visibility and certainty of funds reaching the desired ta.,1
+GID0090119,Uwazi,DPG,"https://huridocs.org/technology/uwazi/, https://uwazi.io","Uwazi is an open-source web-based database application designed for human rights defenders to manage collections of information, including documents, evidence, cases and complaints.",1
+GID0090073,Open Contracting Portal,DPG,https://devgateway.github.io/ocportal/,"The Open Contracting Portal (OC Portal) is an open-source platform built to organize and archive procurement documents, improve data transparency and feedback by the public, and help publish procurement information in the Open Contracting Data Standard (OCDS)",1
+GID0090005,Altinn,DPG,https://www.altinn.no,"Altinn is a platform for digital dialogue between businesses, private individuals and public agencies. Altinn is also a platform that government bodies can use to develop and host digital services.",1
+GID0090040,Global Open Facility Registry,DPG,https://www.facilitymatch.net/,GOFR is an open source federated facility registry platform for reconciling multiple facility lists and managing a primary list,1
+GID0091018,PotLock,DPG,https://potlock.org ,"PotLock is the portal for public goods, non-profits, and communities to raise funds transparently through a global donor network built on blockchain.",1
+GID0091020,magasin,DPG,https://unicef.github.io/magasin,"Magasin is a cloud native open-source end-to-end data platform. Magasin enables organizations to perform automatic data ingestion, storage, analysis, ML/AI compute and visualization at scale.",1
+GID0090020,cQube,DPG,https://cqube.sunbird.org,"cQube is an open-source platform for data-based insights. It allows for aggregated data to be visualized in a simple fashion, leading to insights and action. It provides flexibility and ease of use in creating dashboards, enabling business user to derive insights.",1
+GID0090009,Bahmni,DPG,https://www.bahmni.org,"Open Source Comprehensive Electronic Medical Record and Information Management System built on top of OpenMRS, OpenELIS, Dcm4chee and Odoo for clinics and hospitals, designed for low resource environments.",1
+GID0091036,Ersilia Model Hub,DPG,https://ersilia.io,The Ersilia Model Hub is the only open-source platform serving ready-to-use AI models to accelerate the discovery of new treatments for infectious diseases which affect predominantly the Global South.,1
+GID0091038,Open Concept Lab,DPG,https://openconceptlab.org,"OCL is an open-source, FHIR-enabled terminology management system for the global community",1
+GID0091042,Sunbird Saral,DPG,https://saral.sunbird.org,Sunbird Saral has been conceptualized to enable users to create structured digital information from a physical form. Saral works as a solution that can phygitize data on physical printed sheets and upload the data onto a back end in a structured format via a scan.,1
+GID0090047,if me,DPG,https://www.if-me.org/,"Free, open source mental health communication web app to share experiences with loved ones",1
+GID0090085,OpenSRP,DPG,https://opensrp.io,Open source mobile health platform that allows frontline health workers to electronically register and track the health of their entire client population.,1
+GID0090087,PRISM,DPG,https://innovation.wfp.org/project/prism,"PRISM is a climate risk monitoring system that integrates geospatial data on hazards such as droughts, floods, tropical storms, and earthquakes, along with information on socioeconomic vulnerability, to inform disaster risk reduction and social assistance programmes.",1
+GID0090257,OpenEyes,DPG,https://openeyes.apperta.org,"OpenEyes is the leading open source electronic patient record (EPR) for ophthalmology. It has been designed by clinicians to be fast in delivering content, fast to navigate and easy (and fun) to use.",1
+GID0090081,openIMIS,DPG,https://openimis.org,"openIMIS is a versatile open source software which supports the administration of health financing and social protection schemes. It is specially designed to manage the complex, high-volume data flows which are required to operate such schemes by seamlessly integrating beneficiary, provider and payer data in a single platform.",1
+GID0090346,Aid Management Platform,DPG,https://devgateway.github.io/amp/,"AMP helps governments and development partners gather, access, and monitor information on development activities, with the goal of increasing aid effectiveness.",1
+GID0090142,StoryWeaver,DPG, https://storyweaver.org.in,"StoryWeaver is a digital platform that addresses the global book gap by providing open & free access to quality children's storybooks in multiple languages. Available in multiple formats, the books overcome the issue of digital access and can be read online & online.",1
+GID0090121,VIPS,DPG,https://nibio.no/en/services/vips,"Open platform for automatic pest prediction in agriculture created by NIBIO, Norway",1
+GID0090058,linelist,DPG,https://epiverse-trace.github.io/linelist/,An R package for handling case line list data,1
+GID0090008,PreSco: Neonatal Predictive Scoring Application and Platform,DPG,https://www.avyantra.com,Helping the diagnosis of infants affected by neonatal sepsis using machine learning,1
+GID0091139,CodiTeach,DPG,https://coditeach.kz,"CodiTeach is an innovative web platform for teachers that streamlines account management for schools, classes, and students. Platform provides a royalty-free alternative to costly educational platforms for underfunded schools in impoverished developing countries.",1
+GID0090089,Project AEDES,DPG,https://aedesproject.org,"Project AEDES, by CirroLytix is a tool that correlates dengue cases and deaths with real-time data from climate, google searches, and remote sensing, to predict potential dengue hotspot locations.",1
+GID0091156,Mifos Payment Hub-EE (PH-EE),DPG,https://payments.mifos.org,Modern orchestation engine for digital & real-time Payments enabling DFSPs to connect to and participate in instant inclusive payment systems and for governments to disburse payments in bulk to functional wallet accounts.,1
+GID0091161,HOPE,DPG,https://www.unicef.org/hope-hct,"HOPE is UNICEF’s humanitarian cash transfer management information system. HOPE allows to register and target beneficaries, track approval of payment list send them to payment providers, process reconciliation and payment verification and facilitate grievances and feedbacks.",1
+GID0090369,OpenClinic GA,DPG,https://sourceforge.net/projects/open-clinic/ ,"OpenClinic GA is an open source integrated hospital information management system covering management of administrative, financial, clinical, lab, x-ray, pharmacy, meals distribution and other data. Extensive statistical and reporting capabilities.",1
+GID0091167,Rocky Linux,DPG,https://rockylinux.org,"Rocky Linux is a community-driven, enterprise-grade, free and open source operating system compatible with established Enterprise Linux standards.",1
+GID0091177,Syft,DPG,https://openmined.org,"Syft allows external researchers to securely conduct remote data science while protecting privacy, security, and intellectual property.",1
+GID0090321,CityLearn,DPG,www.citylearn.net,"CityLearn is an open source OpenAI Gym environment for the implementation of advanced control systems, e.g., MPC, and Multi-Agent Reinforcement Learning (RL) for building energy coordination and demand response in several buildings. CityLearn allows easy implementation agents in a multi-agent setting to reshape their aggregated curve of electrical demand.",1
+GID0091186,Open-Pryv.io,DPG,https://www.pryv.com/open-pryv/,"Personal Data & Privacy Management Software A ready-to-use solution for personal data and consent management. Pryv.io is a solid foundation on which you build your own digital health solution, so you can collect, store, share and rightfully use personal data.",1
+GID0090101,Somleng,DPG,https://www.somleng.org,Low-cost interactive voice response system for communities with low literacy levels,1
+GID0090110,Surveillance Outbreak Response Management and Analysis System,DPG,https://www.sormas.org,"SORMAS is an open source mobile and web-based eHealth software for organizing and facilitating disease control, outbreak management procedures, disease surveillance, and epidemiological analysis for all administrative levels of the public health system. SORMAS aims to improve prevention, early detection and control of communicable diseases. SORMAS adheres to the highest data protection standards, good scientific practice, and open access policy.",1
+GID0090191,PrepTime Analytics,DPG,https://preptimeanalytics.com/,PrepTime Analytics is a form builder tool that runs data analysis on test scores and measures learning outcomes.,1
+GID0090053,Kindly,DPG,https://kindly.unicef.io,Kindly is – an open-source API that detects abusive and cyberbullying intent in messages and provides instant feedback for users to reconsider their message.,1
+GID0090452,Safe YOU,DPG,https://safeyou.space/,Safe YOU is an innovative technological solution created to reduce gender-based violence through a mobile application and multifunctional web platform which work to streamline prevention programmes and ensure safety and access to resources for all women and girls.,1
+GID0090494,finalsize,DPG,https://epiverse-trace.github.io/finalsize/,"finalsize is an R package that provides estimates for the total proportion of a population infected over the course of an epidemic, and can account for a demographic distribution, demography-specific contact patterns,and heterogeneous susceptibility to infection between groups.",1
+GID0090256,Deon,DPG,https://deon.drivendata.org/,"Deon is a command line tool that allows you to easily add an ethics checklist to your data science projects. We support creating a new, standalone checklist file or appending a checklist to an existing analysis in many common formats.",1
+GID0090128,Zamba,DPG,https://zamba.drivendata.org/,AI tools for wildlife monitoring with camera trap videos. Zamba is a command-line tool built in Python to automatically identify the species seen in camera trap videos from sites in central Africa. The tool makes predictions for 24 common species in these videos.,1
+GID0090111,Synthea,DPG,https://synthetichealth.github.io/synthea/,"Synthea is an open-source synthetic patient generator that models the medical history of synthetic patients and produces synthetic health data free from cost, privacy, and security restrictions.",1
+GID0091320,QuarkID,DPG,www.quarkid.org,"QuarkID is the digital trust framework developed by the Government of the City of Buenos Aires that creates a new digital identity system and gives people control over their information, with a security anchor through blockchain.",1
+GID0090492,ekShop Marketplace,DPG,https://dpg.ekshop.gov.bd,"ekShop marketplace is a robust and adaptable eCommerce platform that is free and open-source. It is designed to cater to the needs of any potential entrepreneur who wants to set up an online store quickly and efficiently. With its customizable and configurable features, ekShop can be tailored to suit your specific requirements.",1
+GID0091335,ClimWeb,DPG,https://climtech.africa/climweb/,"Open-source platform enabling climate & environmental institutions to deliver services. Features state-of-the-art data visualizations, satellite imagery, user engagement, CAP alerts, digital marketing. Deployed across 30 countries, supporting SDG 13.",1
+GID0090514,FUSS - Free Upgrade for a digitally Sustainable School,DPG,https://fuss.bz.it,"FUSS is a complete GNU/Linux solution based on Debian and around 200 educational software packages for schools. It is a project that allows students and teachers to use at home the same tools installed at school, freely and without any cost to families.",1
+GID0090120,VaccineLedger,DPG,https://vaccineledger.com/,"VaccineLedger is a decentralized supply chain management platform that leverages blockchain technology, Internet of Things (IoT), Artificial Technology to capture data for every vaccine and other medical products in the supply chains from manufacturer to the beneficiary.",1
+GID0091358,Media Cloud,DPG,https://www.mediacloud.org/,Media Cloud is a database of digital news from around the world and a set of open-source tools to analyze and visualize the published content.,1
+GID0090124,WaPOR,DPG,https://wapor.apps.fao.org/home/WAPOR_2/1,The FAO portal to monitor water productivity through open access of remotely sensed derived data.,1
+GID0091359,Go.Data,DPG,https://www.who.int/tools/godata,Go.Data is an open-source platform for outbreak response and contact tracing developed by WHO in collaboration with GOARN partners. It streamlines all aspects of outbreak response and is highly versatile with customizable configurations for different scenarios.,1
+GID0090027,Eco-Index Biodiversity Dashboards,DPG,https://eco-index.nz/,Digital dashboards and related tools help users to monitor and set goals around biodiversity levels.,1
+GID0091369,Nextcloud Server,DPG,https://nextcloud.com,"Nextcloud is a fully open-source and on premise content collaboration platform. Teams access, share and edit their documents, chat and participate in video calls and manage their mail, calendar and projects across mobile, desktop and web interfaces.",1
+GID0091385,Measuring Real Power Usage of Software Applications,DPG,https://github.com/hsbc/mrpusa,"This initiative, a system and method for measuring the real power draw and carbon emissions of software applications, allows businesses and consumers to accurately assess emissions at an individual software level providing a greater level of granularity in reporting.",1
+GID0091388,FAOLEX,DPG,https://www.fao.org/faolex/en/,"FAOLEX is a comprehensive and up-to-date legislative and policy database of national and regional laws, regulations and policies on food, agriculture and natural resources management.",1
+GID0090367,Connect For Life,DPG,www.connect-for-life.org,"Connect for Life is a communication platform built on OpenMRS. The platform engages with patients remotely and provides continuity of care with proven implementation feasibility in HIV, TB, and COVID-19 case surveillance and vaccination programs.",1
+GID0091412,Tazama,DPG,www.tazama.org,"Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection. Tazama provides anti-fraud capabilities to Mojaloop, MIFOS, and other payment systems.",1
+GID0091415,Wikirate Data,DPG,https://wikirate.org,"Wikirate is an open data platform powered by a global community that collects, analyzes and shares data on company commitments, actions and impacts on people and the planet.",1
+GID0091430,Digital Impact Exchange,DPG,https://exchange.dial.global/,"This is an interactive, multitenant online platform designed to simplify the discovery and evaluation of digital options. It serves as a comprehensive resource for people working to tracking their digital footprint by providing a catalog, a marketplace, and a resource library.",1
+GID0090293,Decidim,DPG,https://decidim.org/,Decidim is a digital platform for citizen participation,1
+GID0091444,epiCo,DPG,https://epiverse-trace.github.io/epiCo,R package for statistical and spatiotemporal modeling of epidemiological data for vector-borne diseases,1
+GID0090116,TruBudget,DPG,https://trubudget.net,A blockchain-based workflow tool for efficient and transparent project management.,1
+GID0090023,DiCRA,DPG,https://dicra.nabard.org/,Data in Climate Resilient Agriculture (DiCRA) is a collaborative geospatial platform which provides open access to key geospatial datasets pertinent to climate resilient agriculture. These datasets are curated and validated through collaborative efforts of a large community of data scientists and citizen scientists across the world. The pattern detection and data insights emerging from DiCRA are aimed towards strengthening evidence-driven policy making for climate resilient food systems.,1
+GID0090118,The Ushahidi Platform,DPG,https://www.ushahidi.com/,"The Ushahidi Platform is an integrated data crowdsourcing and mapping tool that allows people to rapidly collect, manage and analyze crowdsourced information from their communities. Empowering communities to thrive as a result of accessible data and technology.",1
+GID0090017,Community Health Toolkit,DPG,https://communityhealthtoolkit.org/,"The CHT is a license-free, open-source digital health platform that includes a collection of software frameworks and applications, open-access resources, and a dynamic community of practice to help partners design, own, and scale electronic community health information systems.",1
+GID0091470,Uli,DPG,https://uli.tattle.co.in/,Uli is a browser plugin that provides tools for relief collective response to online gendered abuse. It is backed by open datasets of slurs and an ML model for redaction of gendered abuse in Indian languages.,1
+GID0091478,GDevelop,DPG,https://gdevelop.io,"GDevelop is an open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",1
+GID0090144,Oobee,DPG,https://go.gov.sg/oobee,"Oobee (formerly known as Purple A11y) is a customisable, automated accessibility testing tool that allows software development teams to find and fix accessibility problems, to improve access to digital services for the elderly and Persons with Disabilities (PWDs).",1
+GID0090695,Advocacy Training for Community Health Workers,DPG,"https://digitalmedic.stanford.edu/advocacy-training-community-health-workers, https://joinchic.org/resources/chw-advocates/",A free digital training that equips Community Health Workers (CHWs) with the skills to effectively share their personal stories and promote the health issues most important to their communities.,1
+GID0090618,OpenRIMS-PV,DPG,https://openrims.org,"OpenRIMS-PV is a web-based application used by clinicians, regulatory bodies, and implementing partners to actively monitor the safety of medicines. It is part of the OpenRIMS suite (openrims.org).",1
+GID0090802,CREDEBL,DPG,https://credebl.id,"The CREDEBL platform helps Governments and private entities implement a digital, foundational identity issuance and verification solution in a cost effective way by leveraging W3C Standards.",1
+GID0091509,Register for Organic Agriculture,DPG,https://organika-ks.org/en/the-register-for-organic-agriculture/,"ROA is an innovative software tool designed to simplify the record-keeping process for farmers and agribusinesses, ensuring compliance with organic standards and EU Regulation 2018/848 for organic agriculture.",1
+GID0091516,Open Food Facts,DPG,https://openfoodfacts.org,"Open Food Facts is a collaborative, open database of 3M food products from 180 countries. It provides data on ingredients, nutrition, and environmental impact, empowering consumers, producers, researchers, and governments to make informed decisions for healthier and sustainable food.",1
+GID0090586,Orthanc,DPG,https://www.orthanc-server.com/,"Orthanc is a free and open-source PACS server. It is designed to improve the DICOM workflows in hospitals, and to support research and education about medical imaging. The Orthanc ecosystem also features the Stone Web viewer as an effective teleradiology environment.",1
+GID0090741,NiSE3 Skills and Certification,DPG, https://dpg.nise.gov.bd/ ,"The Skills And Certification platform is a virtual management environment designed to cater to the needs of both students and trainers. It seamlessly complements interactive physical learning at educational institutions, enhancing the overall learning experience. This comprehensive solution offers a wide range of services, including the creation and management of institutions, & certification, and detailed course offerings. By leveraging advanced technology, the platform aims to streamline the learning process and empower both learners and educators in their pursuit of knowledge and skill development",1
+GID0091526,UrbanPy,DPG,https://code.iadb.org/en/tools/urbanpy,"A library to download, process and visualize high resolution urban data in an easy and fast way. It also estimates and visualizes urban service accessibility, i.e. how long it takes to reach a bank, grocery store, public park, hospital, etc., from every location in a city.",1
+GID0091530,SUSE Linux Enterprise Server ,DPG,https://www.suse.com/products/server/,"SUSE Linux Enterprise Server is an open Linux operating system that is secure and adaptable for long-term support and innovation-ready infrastructure running business-critical workloads on-premises, in the cloud, and at the edge.",1
+GID0090051,iVerify,DPG,https://www.undp.org/digital/iverify,AI-powered information platform to combat misinformation and hate speech,1
+GID0090192,Code Your Future,DPG,https://curriculum.codeyourfuture.io/,"A free collaboratively developed open source software development programme, with courses in programming, software engineering, systems engineering, and specialised vocational tracks",1
+GID0090589,Sunbird SERVE,DPG,https://serve.evean.net/,"Sunbird SERVE building block can enable efficient volunteer interactions that add significant value to society and overall human development. It enables relevant actors to crowdsource volunteers for their needs and participate in interactions like nominate, approve, promote, acknowledge, recognition, toward the realisation of the value",1
+GID0091548,Prospect,DPG,https://prospect.energy/,"Prospect is the only open-source based platform that automatically collects, harmonises, aggregates, analyses, and displays data from any modern, sustainable energy solution that contributes to energy access.",1
+GID0090048,Immunization Calculation Engine,DPG,https://cdsframework.atlassian.net/wiki/spaces/ICE/overview,ICE is an open source immunization evaluation and forecasting clinical decision support system,1
+GID0090743,MEDPlat,DPG,https://www.medplat.co.in/,"MEDPlat is an mobile first, offline enabled, scalable, low-code CPHC platform for public healthcare. It is extensible & customizable and has tools to supports the monitoring and improvement of SDG3 goals though interfaces right for the community health workers onwards to the policy makers. It Includes preconfigured workflows that can be further customized for Reproductive, Maternal, Child health, Adolescent, Nutrition and many more health verticals.",1
+GID0090675,SPICE,DPG,https://www.medtroniclabs.org/technology-platform/,"SPICE is an open-source digital platform designed with and for health systems, patients, and communities. SPICE is focused on data-driven, outcomes-focused care at both the community and primary care levels.",1
+GID0090001,Aam Digital,DPG,https://www.aam-digital.com,Easy-to-use case management software for the social sector that improves the effectiveness and transparency of work with beneficiaries. The offline-first web app is tailored to be used by NGOs anywhere in the world.,1
+GID0090502,Grievance Redress  System (GRS),DPG,https://dpg.grs.gov.bd,"Grievance Redress System (GRS) is recognized worldwide as one of the enabling factors for organizations to be efficient, effective, and people-oriented. A functional platform for receiving people’s complaints or grievances facilitates administrators to improve their service delivery systems, thereby improving governance in general.",1
+GID0090196,OpenTeleRehab,DPG,https://www.opentelerehab.com,"Open Source, Multidisciplinary, Telerehabilitation Software",1
+GID0091566,AGRIS Open Data Set,DPG,http://www.fao.org/agris/agris-ods,"The AGRIS Open Data Set is the Open Data serialization of a big subset of the AGRIS database, one of the most comprehensive catalogs of food and agricultural scientific literature providing free access to more than 13,000,000 bibliographic records in more than 100 languages.",1
+GID0090223,Vxnaid,DPG,https://github.com/johnsonandjohnson/vxnaid/wiki,"Vxnaid is a digital platform that supports correct vaccine administration & efficient vaccination campaigns. Enable broad adoption of Vxnaid especially in RLS countries to ensure correct administration of vaccines, identification of vaccinees, follow-up/recall of vaccinated persons and understanding of vaccination campaign effectiveness.",1
+GID0090070,NotesMaster,DPG,https://notesmaster.com/,"NoteMaster provides training and support to use the NotesMaster elearning platform, which is preconfigured with local curricula, so the trained teachers can create digital lessons online in Notesmaster, for students to then access. The lessons can be accessed and remixed by teachers from any other country to suit their local curricula. These lessons are then submitted to a peer review system which leads to a sustainable multiplier effect in the development of new digital lessons.",1
+GID0091578,DKAN,DPG,https://getdkan.org/,"DKAN is a powerful, community-driven open data platform. As a Drupal module, DKAN leverages Drupal's robust features to create modern, standards-focused, and API-first open data catalogs for a variety of specific use cases.",1
+GID0091586,QGIS,DPG,https://qgis.org,"QGIS is a full-featured, user-friendly, free-and-open-source (FOSS) geographical information system (GIS) that runs on Unix platforms, Windows, and MacOS.",1
+GID0090623,Feluda,DPG,https://tattle.co.in/products/feluda,"Feluda is a configurable engine for analysing multilingual and multimodal content. While flexible, it is built to analyse data collected from social media—images, text, and video. It is configurable to allow for different use cases, such as finding trends and narratives in social media across languages and surfacing fact-checked content corresponding to images and videos.",1
+GID0091592,JemPI,DPG,https://jembi.gitbook.io/jempi,JeMPI is an entity matching (commonly used for patient matching) and linking technology that supports batch and transactional matching via advanced techniques though a combination of deterministic and probabilistic matching.,1
+GID0091597,Database of Greek and Latin Conjectural Emendations Attested in MSS,DPG,https://t18d.github.io/attested-conjectures/,"An open-source, collaborative database of all the known, independent conjectural emendations for Ancient Greek and Latin texts that were subsequently also discovered in a manuscript.",1
+GID0090230,IASO,DPG,https://www.openiaso.com/,"IASO is an innovative, open-source, bilingual (EN/FR) data collection platform with advanced geospatial features to plan, monitor and evaluate health, environmental or social programmes. Main features: geo-enabled data collection, georegistry, microplanning, entities & workflows.",1
+GID0090186,Android FHIR SDK,DPG,https://developers.google.com/open-health-stack/android-fhir,"The Android FHIR SDK is a set of Kotlin libraries for building offline-capable, mobile-first healthcare applications using the HL7® FHIR® standard on Android.",1
+GID0090526,OpenStreetMap,DPG,https://www.openstreetmap.org,"OpenStreetMap is an initiative to create and provide free geographic data, such as street maps, to anyone. The OpenStreetMap Foundation (OSMF) is dedicated to encouraging the growth, development, and distribution of free geospatial data and to providing geospatial data for anyone to use and share.",1
+GID0091624,Open Supply Hub,DPG,https://opensupplyhub.org/,"Open Supply Hub is a non-profit powering the transition to safe and sustainable production with the world’s most complete, open and accessible global supply chain map.",1
+GID0090228,GeoPrism Registry,DPG,https://geoprismregistry.com/,"GeoPrism Registry facilitates cross-sectoral collaboration of geospatial data for the geographic objects core to sustainable development including public health, education, agriculture, infrastructure, climate and disaster resiliency, and other public and private services.",1
+GID0091629,Isomer,DPG,https://isomer.gov.sg,Isomer is a website builder that allows government agencies to launch static websites easily and for free. It aims to empower the government to easily and effectively communicate with citizens while enabling citizens to easily find the information they are looking for.,1
+GID0091644,caMicroscope,DPG,https://camicroscope.org/,An Open-Source Platform for Biomedical Image and Data Analysis,1
+GID0090086,Primero,DPG,https://www.primero.org,"A web app for confidential case management and incident monitoring in social welfare, child protection, and gender-based violence.",1
+GID0090072,Oky,DPG,https://okyapp.info/,Oky is the world's first mobile phone period tracker app designed for and with adolescent girls.,1
+GID0090060,MET Norway Weather API,DPG,https://developer.yr.no/ ,"Free digital access to high-quality, reliable and user-friendly 10-day weather forecast data for any geolocation in the world. Provides an open interface to a world weather data produced by MET Norway.",1
+GID0091651,UPYOG,DPG,https://niua.in/cdg/UPYOG,"The Urban Platform for DeliverY of Online Governance (UPYOG) is a set of Open APIs, services, and reference implementations, setup as a public good, to allow government entities, businesses, startups, and civil society to use a unique digital Infrastructure and build solutions at a large scale. Developed under the National Urban Digital Mission, MoHUA to facilitate the digital delivery of G2G, G2C, G2B services focussing on citizen centricity, UPYOG is available with customizable 14 reference modules.",1
+GID0091671,LEI,DPG,www.gleif.org,"LEI (Legal Entity Identifier) is a unique identifier for legal entities, enhancing trust and transparency across industries through global regulator recognition. vLEI is a platform agnostic, digitally verifiable identifier, offering temper-resistant entity identification through verifiable credentials.",1
+GID0090079,OpenFn,DPG,https://www.openfn.org/,"OpenFn is a workflow automation platform that's used to automate & integrate critical business processes and systems. From last-mile services to national-level reporting, it boosts efficiency & effectiveness while enabling secure, stable, scalable interoperability at all levels.",1
+GID0090035,Fedora Linux,DPG,https://fedoraproject.org/,"A complete free and open source operating system for laptops, desktops, servers, devices, clouds, and containers",1
+GID0091676,HOT Tasking Manager,DPG,https://tasks.hotosm.org/,"The HOT Tasking Manager is a specialized platform developed by the Humanitarian OpenStreetMap Team (HOT) for coordinating volunteers and facilitating collaborative mapping efforts to support disaster response, humanitarian aid, and development projects worldwide.",1
+GID0090151,Cider,DPG,https://global-policy-lab.github.io/cider-documentation/intro.html,"Cider is a set of software tools for estimating the poverty status of individuals and households using mobile phone data, for use in the targeting and delivery of humanitarian aid.",1
+GID0091682,LibreSign,DPG,https://libresign.coop,"LibreSign is an open-source digital and electronic signature platform that ensures secure, legally compliant document signing, tailored for businesses and institutions with full control over their data.",1
+GID0091685,Health Claims Data Exchange,DPG,https://swasthalliance.org/health-claims-exchange.html,"The HCX Platform by Swasth Alliance enables seamless health claims data exchange with tools like SDKs, management apps, and an exchange switch—boosting collaboration and interoperability across the health ecosystem.",1
+GID0090038,Glific,DPG,https://glific.org/,ENABLING IMPACT AT SCALE - Our WhatsApp chatbot enables you to reach the right person at the right time with the right information.,1
+GID0090946,Bebbo Parenting App,DPG,https://bebbo.app,"Bebbo is an open-source mobile parenting app that empowers parents of 0-6 year-olds with interactive tools to track child development, provides evidence-based insights, stimulating learning activities, and self-care guidance.",1
+GID0090071,ODK,DPG,https://getodk.org,"ODK lets you build powerful forms to collect the data you need wherever it is. Join the leading researchers, field teams, and other professionals using ODK to collect data that matters.",1
+GID0090068,Mozilla Common Voice,DPG,https://commonvoice.mozilla.org/en,"Common Voice is the most linguistically diverse crowdsourced open voice dataset in the world. We want to mobilise under-represented languages & demographic communities everywhere to share their voice & help mitigate bias in AI, by democratising speech tech for everyone.",1
+GID0090217,E-Heza,DPG,https://tip-global-health.github.io/eheza-documentation/,E-Heza Data Solutions is a digital health platform designed by and for frontline health workers that serves the entire primary care ecosystem of health centers and CHWs in East Africa.,1
+GID0090065,Modular Open Source Identity Platform,DPG,https://mosip.io/,"The Modular Open Source Identity Platform (MOSIP) helps Governments and other user organizations implement a digital, foundational identity system in an inclusive and interoperable way.",1
+GID0090109,Sunbird,DPG,https://www.sunbird.org,"Sunbird is an open-source, configurable, extendable, modular, digital infrastructure for learning and human development that is designed for massive scale implementations.",1
+GID0090385,LibreOffice,DPG,https://www.libreoffice.org,"LibreOffice is a free open source office suite available in 120 language versions, which can be used by billions of people using their native language (instead of learning a foreign language to access the user interface)",1
+GID0090906,Crosscut,DPG,https://crosscut.io,"The Crosscut App lets users access open data including catchment area maps, microplan tables that estimate population, and supply plan tables that can be used to plan Global Health campaigns.",1
+GID0091739,Food Fortification Quality Management System,DPG,https://food.fortification.in/,"FFQMS is an end-to-end digital solution that ensures quality assurance (QA), quality control (QC), and traceability starting from the procurement of raw material followed by manufacturing of fortified commodities and its storage as well as further distribution across geographies.",1
+GID0090939,AGROVOC Multilingual Thesaurus,DPG," https://www.fao.org/agrovoc, https://agrovoc.fao.org","AGROVOC is a thesaurus of 41,000+ agricultural concepts and relationships in up to 42 languages, available for public use to facilitate access and interoperability of data across institutions and languages. It is maintained by several institutions coordinated by FAO.",1
+GID0090194,OpenHexa,DPG,https://www.bluesquarehub.com/openhexa/,An open-source data integration platform for public health projects.,1
+GID0090129,DHIS2,DPG,https://www.dhis2.org/,"DHIS2 is a free, open-source, fully customizable platform for collecting, analyzing, visualizing, and sharing aggregate and individual-data for district-level, national, regional, and international system and program management in health, education, and other domains.",1
+GID0090896,OpenMandriva Lx,DPG,https://openmandriva.org/,"A user-friendly, free, fully open and spyware free, operating system focusing on desktop/laptop computers.",1
+GID0090012,Cboard,DPG,https://www.cboard.io/,"Cboard is an Augmentative and Alternative Communication (AAC) web app for children and adults with speech and language impairments, aiding communication with symbols and text-to-speech.",1
+GID0090195,OpenSPP,DPG,http://openspp.org/,OpenSPP is an integrated and digital social protection information system that enables governments and humanitarian agencies to streamline the creation and management of assistance programs.,1
+GID0090750,OpenELIS Global,DPG,https://openelis-global.org/,"OpenELIS Global is open enterprise-level laboratory information system software tailored for public health laboratories. OpenELIS is used at a national scale in a variety of settings, from small general hospital labs, all the way up to national reference labs, and all sizes in between.",1
+GID0090594,Querido Diário,DPG,https://queridodiario.ok.org.br/,"Querido Diário is an open source toolkit that allows the centralization and analysis of official data extracted from the journals published by cities. It also makes this data accessible to everyone through a platform search interface, data download options, and a public API.",1
+GID0090185,Torkel Opsahl Academic EPublisher,DPG,https://toaep.org/,TOAEP is the first open access academic international law publisher.,1
+GID0090056,Lexsitus,DPG,https://cilrap-lexsitus.org/,"Lexsitus is the most comprehensive online legal-information platform for international criminal law, supporting retrieval, analysis and learning work-processes.",1
+GID0090259,TrueNAS,DPG,https://www.truenas.com,"TrueNAS is the world's most deployed storage software with millions of users, including the majority of F500 companies, delivering resilient and fully-capable unified storage for even the most mission-critical data.",1
+GID0090320,Open Health Stack,DPG,https://developers.google.com/open-health-stack,"Open Health Stack provides building blocks for creating next-gen digital health apps. These open source components save time and make it easier to adopt modern healthcare standards, leading to secure, offline-capable, data-driven solutions for healthcare workers in low-resource settings.",1
+GID0090045,Harmony,DPG,https://www.zenysis.com/solution/platform/,"Harmony is an open-source, end-to end data integration and advanced analytics platform for integrating, harmonizing, analyzing, and visualizing any number of structured data sources from different sectors (e.g. health, education, agriculture, sustainable development, climate change adaptation), ranging from routinely collected individual level data to operational research and survey data.",1
+GID0090084,OpenMRS,DPG,https://openmrs.org,"OpenMRS is a collaborative open-source Medical Record System project to develop software to support the delivery of health care in developing countries. OpenMRS is founded on the principles of openness and sharing of ideas, software and strategies for deployment and use.",1
+GID0090091,RapidPro,DPG,https://rapidpro.io,Open Source platform that allows anyone to build interactive messaging systems using an easy visual interface,1
+GID0091039,Mautic,DPG,https://www.mautic.org,Mautic is the world's first open source marketing automation product.,1
+GID0090949,Dalgo,DPG,https://dalgo.in/,Dalgo is an open-source data platform for the social sector which enables organisations to learn from and represent their impact effectively by automating data flow and data management processes.,1
+GID0091778,TYPO3,DPG,"https://typo3.com, https://typo3.org","TYPO3 is a powerful, open-source CMS backed by a vibrant professional community and commercial ecosystem. Built for enterprise, it fulfills the security and service needs of a modern business, while its feature-rich core delivers across sectors, industries, and organizations.",1
+GID0091790,Food Price Monitoring and Analysis Tool,DPG,https://fpma.fao.org/,"The FPMA is a web-based platform developed to facilitate the monitoring, analysis, and dissemination of food price data. As of December 2024, the database includes over 2700 monthly domestic price series covering 130 countries and 87 international price series.",1
+GID0091826,The Land Portal,DPG,https://landportal.org/,"A digital portal making land information open, accessible, and inclusive. As a global hub for land governance knowledge, we empower communities by unlocking hidden data and amplifying unheard voices.",1
+GID0090006,Apache Fineract,DPG,https://fineract.apache.org,"Fineract provides a reliable, robust, and affordable solution for entrepreneurs, financial institutions, and service providers to offer financial services to the world’s 3 billion underbanked and unbanked. Fineract is the backend to the branded Mifos solution.",1
+GID0090229,Consul Democracy,DPG,https://consuldemocracy.org,"Consul Democracy is a complete citizen participation tool for an open, transparent, and democratic government. This tool is free, secure, open-source, and easy to use, reflecting public values at its core so that all governments can take the first steps toward digital citizen participation.",1
+GID0090318,UNIDO Industrial Analytics Platform,DPG,https://iap.unido.org,"UNIDO's IAP is a data-driven knowledge platform that advances evidence-based policy dialogue, fosters thought leadership and connects global communities to share knowledge and practice in the field of industrial development.",1
+GID0090061,Mifos X,DPG,https://mifos.org,"Core banking platform to deliver digital financial services such as savings & credit-led financial inclusion, wallet accounts, G2P payments & IIPS integration. It includes the platform & open APIs, web/mobile UI for staff, reporting plugin & client mobile banking & wallet apps.",1
+GID0090039,Global Healthsites Mapping Project,DPG,https://healthsites.io/,healthsites.io is building a baseline of health facility data by making OpenStreetMap useful to the medical community and humanitarian sector.,1
+GID0090953,Avni,DPG,https://avniproject.org,"Community service and data collection platform on any domain - Health, Education, Sanitation, Water, Waste, Agriculture, Social Security",1
+GID0090552,FormSG,DPG,https://form.gov.sg ,"FormSG is a form builder tool that enables public officers to instantly create customisable forms with zero code or cost, to safely collect classified and sensitive data.",1
+GID0090967,Agrontology,DPG,https://aims.fao.org/agrontology,Agrontology is a description vocabulary defined in the Web Ontology Language (OWL) providing a set of domain-specific properties for agri-food concepts. It is used for instance in the AGROVOC thesaurus to express domain-specific relations between concepts.,1
+GID0090019,Care,DPG,https://ohc.network/,"CARE is a transformative healthcare management system, centralizing patient and capacity management across hospitals. Empowering administrators and healthcare professionals with real-time data for better decision-making, CARE is reshaping healthcare delivery.",1
+GID0090100,Simple,DPG,https://simple.org,Free software to manage large-scale hypertension and diabetes control programs.,1
+GID0090107,Sunbird RC,DPG,https://sunbird.org/,“Sunbird Registry and Credential” or simply “Sunbird RC” is an open source software to rapidly build and deploy next generation electronic registries and verifiable credentials including attestation and verification flows.,1
+GID0090042,GNU Health,DPG,https://www.gnuhealth.org/,"GNU Health is a free/libre ecosystem for Health practitioners, Hospitals and nationwide Health systems. The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine.",1
+GID0090440,Drupal,DPG,https://www.drupal.org,"Drupal is an open source content management system powering ambitious digital experiences across government, higher-ed, non-profit, and other sectors for more than 20 years.",1
+GID0090413,Janssen Project,DPG,https://docs.jans.io,"An enterprise identity and access management platform-- Janssen is a distribution of standards-based, developer friendly, components that are engineered to work together in any cloud.",1
+GID0090016,CommCare,DPG,https://www.dimagi.com/commcare,"CommCare is the digital platform for impactful frontline work everywhere. The most widely-deployed and evidence-based platform for enabling Frontline Workers, CommCare empowers organizations to build their own digital solutions to better deliver services and collect data.",1
+GID0090705,Open Terms Archive,DPG,https://opentermsarchive.org,Open Terms Archive publicly records every version of the terms of digital services to enable democratic oversight.,1
+GID0090193,OpenRIMS,DPG,https://openrims.org,OpenRIMS is a web-based tool that helps NMRAs streamline and automate their regulatory workflow processes aligned with WHO GBT Modules to ensure that they have the most updated medicines and devices available and lists of registered pharmacies and approved clinical trials.,1
+GID0091848,Wikipedia,DPG,https://www.wikipedia.org/,"Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",1
+GID0090066,Mojaloop,DPG,https://mojaloop.io/,Open source software for creating payment platforms that will help unbanked people access digital financial services.,1
+GID0090095,SanteSuite,DPG,https://santesuite.com,"SanteSuite (SanteIMS & SanteMPI) is an essential suite of products for national digital health infrastructure components that leverages a unique identity to facilitate data consolidation, harmonization, sharing, and building health information exchanges (e.g., OpenHIE) to establish interoperability across multiple software solutions. SanteIMS - is an immunization management system and EIR platform that supports the management of any type and scale of vaccination program including pandemic response, such as COVID-19 vaccination. SanteMPI - Master Patient Index/Client Registry (MPI/CR) platform designed to overcome barriers to leveraging person-centered data as a catalyst for transforming health systems.",1
+GID0090277,OpenFisca,DPG,https://openfisca.org,"OpenFisca is a Rules as Code engine: it enables collaboratively making laws and regulations computable over APIs for developers, datascientists and researchers. This allows building software to help citizens and businesses understand how laws apply to them, designing better rules and public policies, debating potential reforms, and scaling economic micro-simulation.",1
+GID0091856,Tor Browser,DPG,https://torproject.org,Tor advances human rights and protects users' privacy on the internet by hiding the connection between their internet address and the services they use.,1
+GID0090848,The Turing Way,DPG,https://the-turing-way.netlify.app/index.html,"The Turing Way is an open source, open collaboration and community-driven guide on data science. We involve an internal open science community in creating and sharing best practices for open, reproducible, ethical and collaborative data science.",1
+GID0091862,OpenEWS,DPG,https://open-ews.org/,OpenEWS is the world's first open source early warning system dissemination platform.,1
+GID0091863,AgriTech Observatory,DPG,https://agritechobservatory.fao.org/,"The AgriTech Observatory is a virtual knowledge hub established by the FAO Regional Office for Europe and Central Asia, offering practitioners, policymakers, and researchers a comprehensive resource to explore, analyze, and monitor digital agriculture initiatives across region",1
+GID0091140,Chamilo,DPG,https://chamilo.org,"Chamilo is an Open Source Learning Management System that vows to help improve the availability of quality education around the world. Its main focus is to be easy to use, as we believe this solves the most complicated part of providing education through a computers.",1
+GID0090263,OpenG2P,DPG,https://www.openg2p.org,"OpenG2P is an open-source platform that enables governments and humanitarian organizations to deliver critical social benefits directly to those who need them. It facilitates the building of secure, inclusive registries and digital cash transfer systems for social protection.",1
+GID0091909,Ozone,DPG,https://www.ozone-his.com,"Ozone is a growing ecosystem of digital health apps (EMR, billing, pharmacy, lab, imaging, etc.) exchanging FHIR-based data to instantly build secure health information systems—with real-time analytics for actionable insights.",1
+GID0091917,Accessible Medical Records via Integrated Technologies,DPG,https://amrit.piramalswasthya.org,"AMRIT is an open-source platform enhancing primary healthcare by equipping frontline workers with digital tools for data-driven decisions and seamless EHR access through ABDM-compliant, interoperable systems.",1
+GID0090527,CKAN,DPG,https://ckan.org,"CKAN is an Open Source Data Management System to build Data Portals. Trusted by hundreds of portals across the world and supported by an active community, it focuses on extensibility and integration with other tools.",1
+GID0091075,QField,DPG,https://qfield.org,Survey and digitize data in the field with seamless synchronization QField focuses on efficiently getting GIS fieldwork done and exchanging data between the field and the office in a comfortable and user-friendly way.,1
+GID0090054,Kolibri,DPG,https://learningequality.org/kolibri/,The offline-first platform for teaching and learning with technology without requiring the Internet.,1
+GID0091996,Data Norge,DPG,https://data.norge.no,"Data.norge.no provides a comprehensive overview of datasets, concepts, APIs, information models, services, and events in the public sector, including protected data. It helps you discover, assess, and make use of data.",1
+GID0092012,Pix,DPG,https://pix.org,"Pix is a free, open-source public service for assessing and certifying digital skills. With over 15M users in 43 countries, it empowers students and professionals to develop their digital competencies, promoting lifelong learning for all.",1
+GID0090003,AccessMod,DPG,https://www.accessmod.org,"AccessMod is a free, open-source, standalone software to model physically accessibility to health services, to account for shortage of capacity in these services (human or equipment), to measure referral times and distances between health services, and to increase population coverage through scaling up analyses.",1
+GID0092040,IATI Data,DPG,https://iatistandard.org,"IATI Data is a dataset that describes international aid finances and results, ensuring transparency and collaboration. All data is published to the IATI Standard, under open licenses. Data is available from over 1700 publishers, covering 1 million activities and around 2/3 of ODA",1
+GID0090033,farmOS,DPG,https://farmOS.org,"farmOS is a web-based application for farm management, planning, and record keeping.",1
+GID0092044,Marine Spatial Planning - SAHAV ,DPG,https://marinespatialplanning.in/puducherrygeo,"MSP-SAHAV is an open software used for planning sea spaces that can help visualize and communicate complex spatial information, supporting informed decision-making and the process of organizing and managing human activities in marine areas across space and time.",1
+GID0092066,Statbus,DPG,https://statbus.org,"Statbus is a web application for statistical offices, assisting and enabling them to build and maintain a business register that is the backbone for national accounts and economic statistics.",1
+GID0092078,GAUL 2024,DPG,https://data.apps.fao.org/?lang=en,"GAUL 2024 compiles the most recent information on sub-national administrative boundaries worldwide. It is a critical dataset to facilitate data integration and analysis, enabling the visualization of statistics, monitoring trends and informed policy development at various levels.",1
+GID0092082,WSO2 Identity Server,DPG,https://wso2.com/identity-server,"WSO2 Identity Server is an open-source Identity and Access Management (IAM) solution supporting secure authentication, identity federation, and user management via open standards such as OAuth2, OpenID Connect, SAML, SCIM 2.0, and FIDO2.",1
+GID0090145,Global Human Settlement Layer,DPG,https://human-settlement.emergency.copernicus.eu/index.php,"GHSL provides analysis ready, global, geospatial data reporting about the presence of population and human settlements.",1
+GID0091291,Quantification Analytics Tool,DPG,https://www.ghsupplychain.org/quantificationanalyticstool,"QAT is a modular web-based country led forecasting and supply planning product designed to enable users to easily build and compare forecast, optimize commodity procurement and delivery schedules, monitory stock status of products and share data with stakeholders.",1
+GID0090044,Hand-in-Hand Geospatial Platform,DPG,https://www.fao.org/hih-geospatial-platform/en/,"The Platform is a supporting tool for the Hand-in-Hand (HiH) Initiative to accelerate the SDGs, using advanced geo-spatial modeling and analytics to identify the biggest opportunities to raise the incomes and reduce the inequities and vulnerabilities of rural populations.",1
+GID0092151,Pol.is,DPG,https://pol.is,"Polis is a real-time system for gathering, analyzing, and understanding what large groups of people think in their own words, enabled by advanced statistics and machine learning. Polis has been used all over the world by governments, academics, independent media, and citizens.",1
+GID0090029,FAO Digital Services Portfolio,DPG,https://digital.apps.fao.org,"FAO Digital Services Portfolio offers access to useful data, information, maps, and statistics on food and agriculture to achieve food security. AgriMarketplace - gives farmers the opportunity to know the approximate prices of each product in the surrounding markets, as well as the routes to reach them. E-Nutrifood - provides users with information on farm production and conservation techniques, as well as on their value and nutritional value. Livestock - provides real-time information on the control of animal diseases and epidemics and gives advice on how to optimize livestock feed. Weather and Crop Calendar - offers reliable weather forecasts, combined with an alert system that allows users to adjust their schedule and production activities based on meteorological data.",1
+GID0092221,MyChild HelpLine,DPG,https://www.mychildhelpline.org/mychild_helpline.html,"The MyChild Helpline app connects children and caregivers to vital child protection and emergency services. Offering real-time support and resources, it ensures every child has access to the care and protection they deserve. #ChildProtection #MyChildHelpline",1
+GID0092223,SYSPIN,DPG,https://syspin.iisc.ac.in/,"SYSPIN is an open-sourced data specifically for text-to-speech application development in nine Indian languages, namely, Hindi, Bengali, Marathi, Telugu, Kannada, Bhojpuri, Maithili, Magahi, and Chhattisgarhi",1
+GID0090340,Rights Tracker,DPG,https://rightstracker.org,A freely available tool robustly tracking the human rights performance of countries.,1
+GID0092260,Designsystemet,DPG,http://www.designsystemet.no,"Designsystemet is a publicly maintained open-source design system, owned and coordinated by the Norwegian Digitalisation Agency. It helps create accessible, user-friendly digital services across the public and private sectors.",1
+GID0091413,Creative Commons Legal Tools,DPG,https://creativecommons.org/share-your-work/cclicenses/,"CC legal tools enable the sharing and use of DPGs via standard, international open copyright licenses. CC stewards its open licenses and public domain tools to give every person and organization in the world a free, simple way to share their work in the commons.",1
+GID0092292,Joomla CMS,DPG,https://www.joomla.org/,"Joomla is a free, open‑source content management system (CMS) for building and running websites and web applications. It includes robust access control, content workflows, multilingual support, an extensible API, and built‑in privacy and security tooling.",1
+GID0090099,Sentinel-2 10m Land Use/Land Cover Time Series,DPG,https://www.arcgis.com/home/item.html?id=cfcb7609de5f478eb7666240902d4d3d,Sentinel-2 10m Land Cover Time Series provides public access to global land use and land cover data of the world from 2017-2024 with 10 meter resolution.,1
+GID0090090,Rahat,DPG,https://rahat.io/,"Rahat is a collection of open-source, blockchain-powered projects for cash and aid distribution and management. It enables the efficient and transparent coordination of resources and relief efforts. By leveraging token-based transfers, Rahat supports anticipatory cash and voucher",1
+GID0090043,Govdirectory,DPG,https://govdirectory.org,A crowdsourced and fact-checked directory of official governmental online accounts and services. The easiest way to contact your government.,1
+GID0090125,X-Road®,DPG,https://x-road.global/,X-Road® is open-source software that provides unified and secure data exchange between organisations in a collaborative ecosystem.,1
+GID0092379,Rafiki,DPG,https://rafiki.dev,"Rafiki is an open source gateway that lets licensed Account Servicing Entities connect to the Interledger Network and send secure, atomic transfers via the Interledger Protocol and Open Payments APIs, enabling fast and reliable cross-network payment clearing.",1
+GID0092384,La Suite Drive,DPG,https://fichiers.numerique.gouv.fr/,"Drive empowers teams to securely store, share, and collaborate on files while maintaining full control over their data through a user-friendly, open-source platform.",1
+GID0092393,La Suite Meet,DPG,https://visio.numerique.gouv.fr/,"Powered by LiveKit, La Suite Meet is a video conference software that offers Zoom-level performance with high-quality video and audio. No installation required—simply join calls directly from your browser.",1
+GID0092407,OpenCHS,DPG,https://openchs.com/,"OpenCHS is an open-source, multilingual helpline & case management platform that supports governments and NGOs to deliver 24/7 protection, counseling, and referral services, with AI-powered insights for child protection and social services.",1
+GID0092457,Open Data Editor,DPG,https://okfn.org/en/projects/open-data-editor/,"Open Data Editor (ODE) is a free, open-source desktop app designed to help nonprofits, data journalists, activists, and public servants detect errors in their datasets. It is designed for people working with tabular data (Excel, Google Sheets, CSV) who don't know how to code.",1
+GID0092472,PeerTube,DPG,https://joinpeertube.org,"PeerTube is a tool for hosting, managing, and sharing videos or live streams",1
+GID0092599,Compar:IA,DPG,https://comparia.beta.gouv.fr,"Compar:IA is a conversational AI arena where users can explore and compare over 30 different models. Its mission is to promote awareness of model pluralism, bias, and environmental impact, while simultaneously building one of the world’s largest non-english alignment datasets.",1
+GID0092635,MapBiomas Brazil,DPG,https://brasil.mapbiomas.org,MapBiomas is a collaborative initiative that serves as a crucial open data platform providing detailed annual maps of land-cover and land-use changes of biomes to support and advance sustainable management and conservation of natural resources in different countries.,1
+GID0092690,Green Roads Toolkit,DPG,https://data.adb.org/dataset/green-roads-toolkit,"Collection of resources designed to guide the planning and preparation of future road project investments, this toolkit incorporates a comprehensive array of exemplary green roads case studies, which can be applied by practitioners to guide decisions towards aligning road sub-sector investments.",1
+GID0092714,Wikidata,DPG,https://www.wikidata.org,"Wikidata is Wikimedia's open community-curated knowledge graph. It acts as central storage for the structured data of its Wikimedia sister projects, including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.",1
+GID0092718,Rural Environmental Registry Registration Module,DPG,https://rer.dataprev.gov.br ,"The Rural Environmental Registry (RER) is a solution for managing declared geospatial environmental information on rural properties to serve as a database for control, monitoring, environmental and economic planning.",1
+GID0092823,Ghost,DPG,https://ghost.org,"A free, modern, open platform for independent publishing and journalism.",1
+GID0090130,KoboToolbox,DPG,https://www.kobotoolbox.org,"KoboToolbox is an open source platform for the collection, management, and visualization of data. As the most widely used primary data collection tool in the nonprofit sector, it is the tool of choice for over 32,000 social impact organizations worldwide.",1
+GID0090041,GLOBALEAKS,DPG,https://www.globaleaks.org,GlobaLeaks is a free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.,1
+GID0092885,Penpot,DPG,https://penpot.app,"Penpot is the first open-source design and prototyping platform that enables true collaboration between designers and developers. Built on web standards (SVG, CSS, HTML), it provides professional design tools without vendor lock-in, available as cloud service or self-hosted.",1
+GID0092888,CodeCarbon,DPG,https://codecarbon.io/,"At CodeCarbon, we believe, as Niels Bohr said, that ""Nothing exists until it is measured"". So we found a way to estimate how much carbon we produce while running our code. We did this by creating a Python package that estimates your hardware electricity power consumption.",1
+GID0092892,Biomass Prediction Model,DPG,"https://felt.com/embed/map/Goa-Biomass-DL-Estimation-P9AL0V5AwRD9BDpHIijjlO3C?loc=15.3875,74.0447,10.24z","The vertify Biomass Prediction Model uses multispectral satellite imagery to predict forest Above-Ground Biomass, providing accurate, verifiable carbon-stock data. It supports climate action, sustainable forest management, monitoring to detect land-use change and deforestation.",1
+GID0092900,Software Heritage Archive,DPG,https://www.softwareheritage.org,"Software Heritage collects, saves, and shares all public software source code, making sure it is preserved for a long time and everyone can access it.",1
+GID0092909,AgriOS,DPG,https://www.agrios.org/,"AgriOS is an open-source, subscription-free ERP designed for African agri-SMEs. It integrates business operations with traceability to improve efficiency, ensure compliance, and unlock access to finance.",1
+GID0090137,African Storybook,DPG,https://www.africanstorybook.org/,"Provides open access to picture storybooks in the languages of Africa for children’s literacy, enjoyment and imagination.",1
+GID0091633,National Carbon Credit Registry,DPG,https://www.demo.carbreg.org/,"The National Carbon Credit Registry is an open-source toolkit that helps countries securely issue, monitor, and trade carbon credits, ensuring data integrity.",1
+GID0093036,OSHWA Open Source Hardware Certification Data,DPG,https://certification.oshwa.org/list.html,A directory of hardware certified to comply with the OSHWA-maintained definition of open hardware.,1
+GID0093041,SimpleAudit,DPG,https://github.com/kelkalot/simpleaudit/blob/main/README.md,"Lightweight AI safety auditing framework for red-teaming AI systems through adversarial probing. Supports multilingual testing across safety, healthcare, and RAG scenarios. Works with cloud APIs or fully local models.",1
+GID0091581,Open Sustainable Technology,DPG,https://opensustain.tech/,"A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natural resources.",1
+GID0093103,neotree,DPG,https://neotree.org/,The Neotree is an open source platform for improving neonatal care in low-resource settings.,1
+GID0093129,SMILE,DPG,https://elearning.smile-indonesia.id/en/home/,SMILE is a Digital Public Health Platform to Strengthen National Health Supply Chain and Logistics Management,1
+GID0093201,The Climate Action Data Trust,DPG,https://climateactiondata.org/,"The CAD Trust is digital, decentralised public data infrastructure which helps harmonise and improve access to data on carbon credits issued by crediting programs, governments, and international mechanisms to support transparent accounting under the Paris Agreement.",1
+GID0093220,Compar:IA Datatsets,DPG,https://comparia.beta.gouv.fr/datasets,"compar:IA, the French government’s AI arena, continuously publishes three French-language datasets: conversations, reactions, and votes. They support LLM training, evaluation, and research in AI and social sciences, and are rare for languages other than English.",1
+GID0091175,FAO Agricultural Stress Index System,DPG,https://www.fao.org/giews/earthobservation/,"The Agricultural Stress Index System (ASIS) monitors agricultural areas with a high likelihood of water stress/drought at global, regional and country level, using satellite technology.",1
+GID0092176,Mastodon,DPG, https://joinmastodon.org,Mastodon is a free and open-source software platform for decentralized social networking.,1
+GID0091706,Trade Trust,DPG,https://www.tradetrust.io/,"TradeTrust is an open-source software that digitizes international trade documents, reducing paperwork, documentation costs, and the risks of fraud. TradeTrust enables industry to verify a document’s authenticity and create Electronic Transferable Records (ETRs).",1
+GID0092098,Docs - Collaborative Text Editing,DPG,https://docs.numerique.gouv.fr,Docs is a collaborative text editor designed to address common challenges in knowledge building and sharing.,1
+GID0093552,Element,DPG,https://element.io,"Element is a sovereign, interoperable and secure communications platform built on the Matrix standard. It enables organisations to control and manage messaging, voice and video with end-to-end encryption across mobile and desktop environments.",1
+GID0093688,FireForm,DPG,https://fireform-core.github.io/FireForm/,"FireForm is an open-source tool that saves first responders hours of administrative overhead. By using local AI to extract data from a single voice memo, it automatically populates required incident forms—ensuring total data privacy and zero redundant paperwork.",1
+GID0093698,SYNTH,DPG,https://pleias.fr/blog/blogsynth-the-new-data-frontier,"SYNTH is the first open generalist synthetic dataset for training small reasoning models end-to-end, jointly released by Pleias and the AI Alliance. SYNTH includes 79,648,272 individual text samples, comprising over 41 billion words.",1
+GID0094184,Eurosky Identity Platform,DPG,https://eurosky.tech/,"Sovereign, EU-hosted identity and data hosting for the AT Protocol: a Personal Data Server that holds each user's account and data, plus Portal, the account-creation and management interface. One account works across hundreds of apps and can move to any provider.",1

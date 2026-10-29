@@ -20,6 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This licence covers the code: the notebooks, verify_numbers.py and the scripts
-in pipeline/. The data in data/ and reference_outputs/ are under CC BY 4.0
-(see LICENSE-DATA).
+This licence covers the code: the notebooks and the scripts in the pipeline
+folder. The data files in data/ are under CC BY 4.0 (see LICENSE-DATA).

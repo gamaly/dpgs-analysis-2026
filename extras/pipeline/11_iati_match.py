@@ -1,4 +1,4 @@
-"""N1 step 2 : apply DESIGN E to cached IATI docs -> data/donor_awards_nonus.csv.
+"""N1 step 2 (this part of the study): apply DESIGN E to cached IATI docs -> data/donor_awards_nonus.csv.
 
 Per (search name, activity) candidate:
   window: start <= 2025-01-19 and (end is blank or end >= 2022-10-01). start = actual (type 2) else planned (1);
@@ -22,7 +22,7 @@ W0, W1 = "2022-10-01", "2025-01-19"
 ACTIVE = {"1", "2", "3"}
 # large for-profits (as in DESIGN B): their grants don't fund the DPG, so never candidate_high
 NOT_DPG_FUNDING = {"google", "johnson and johnson", "hsbc", "red hat"}
-US_REPORTERS = ("US-", "XI-IATI-US")  # US government publishers belong to the USAspending part of the analysis
+US_REPORTERS = ("US-", "XI-IATI-US")  # US government publishers belong to the USAspending part
 
 
 def norm(s):

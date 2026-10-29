@@ -1,4 +1,4 @@
-"""N2 : parse the ITPC list of USAID terminated/active awards (6 March 2025) -> data/usg_terminations.csv.
+"""N2 (this part of the study): parse the ITPC list of USAID terminated/active awards (6 March 2025) -> data/usg_terminations.csv.
 
 Source: ITPC, "Synthesis of USAID Terminated and Active Awards as of 6 March 2025", cleaned from a leaked memo to
 Congress (Zivahub / figshare article 28881605, file 54013763, md5 f52b28991c611c32ee0985f626668b85). Unofficial;

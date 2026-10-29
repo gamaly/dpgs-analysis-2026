@@ -1,4 +1,4 @@
-"""Q3 (D36): shipped status of AI-feature PRs + AI features in release notes. Reuses FEAT/DROP_LINE from 03f unchanged."""
+"""Q3 (AI features are measured from dependency manifests and from PR text): shipped status of AI-feature PRs + AI features in release notes. Reuses FEAT/DROP_LINE from 03f unchanged."""
 import json, re, importlib.util
 from pathlib import Path
 import pandas as pd

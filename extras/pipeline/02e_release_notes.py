@@ -1,4 +1,4 @@
-"""Q3 (D36): fetch release notes (name, description) since 2020 for high/medium repos of DPGs with AI-feature PRs.
+"""Q3 (AI features are measured from dependency manifests and from PR text): fetch release notes (name, description) since 2020 for high/medium repos of DPGs with AI-feature PRs.
   python -I scripts/02e_release_notes.py [--limit N]  -> cache/release_notes/<owner>__<repo>.json (skips cached)
 Token from .env GITHUB_TOKEN (never printed)."""
 import json, re, sys, time

@@ -1,7 +1,7 @@
-"""AI mentions in PR and commit text over time (METHODOLOGY D15).
+"""AI mentions in PR and commit text over time (AI mentions in PR and commit text are matched by keyword and reported as a rough lower bound).
 Reads cache/<owner>__<repo>.json (needs PR bodyText / commit messageBody from the updated 02 collector).
 Two separate signals, never merged:
-  author : text says AI helped write the change (Claude Code, Copilot, Cursor, ChatGPT, ...). Lower bound only (D6).
+  author : text says AI helped write the change (Claude Code, Copilot, Cursor, ChatGPT, ...). Lower bound only (dependency bots are kept out of headline counts and AI agent accounts are a class of their own).
   topic  : the change is about AI features (chatbot/LLM, classifier/ML). Says what DPGs build, not how they code.
 Outputs: data/pr_text_ai_repo_month.csv, data/pr_text_ai_monthly.csv (registry, by confidence tier),
          data/pr_text_ai_samples.csv (random matches per term for hand-checking precision).
@@ -13,16 +13,16 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE, DATA = ROOT / "cache", ROOT / "data"
-WINDOW_START = "2020-01-01"  # METHODOLOGY D2
-PER_REPO_CAP = 5  # max matches per repo in the hand-check sample, so one repo cannot dominate (D15b)
+WINDOW_START = "2020-01-01"  # the data window starts on 1 January 2020
+PER_REPO_CAP = 5  # max matches per repo in the hand-check sample, so one repo cannot dominate (term groups that failed the hand-checked precision test are not reported)
 
-# Term lists live here so they can change without refetching. Any change gets a line in METHODOLOGY D15.
+# Term lists live here so they can change without refetching. Any change gets a line in AI mentions in PR and commit text are matched by keyword and reported as a rough lower bound.
 AUTHOR_TERMS = {
     "claude": r"claude code|generated with \[?claude|co-authored-by:\s*claude|\bclaude\b",
     "copilot": r"co-authored-by:\s*copilot|github copilot|copilot (?:suggest|generated|wrote|agent)|(?:generated|written|authored|created) (?:by|with|using) copilot",
     "cursor": r"\bcursor (?:ai|ide|agent)\b|co-authored-by:\s*cursor|generated (?:by|with) cursor",
     "chatgpt_codex": r"chat\s?gpt|\bcodex\b|openai codex|written (?:by|with) gpt",
-    "other_tool": r"\bdevin\b|\baider\b|\bwindsurf\b|\bcline\b|\bjules\b|amazon q|\bcodewhisperer\b|\btabnine\b",  # gemini terms removed (D15b): review bot / tool install, 0/4 precision
+    "other_tool": r"\bdevin\b|\baider\b|\bwindsurf\b|\bcline\b|\bjules\b|amazon q|\bcodewhisperer\b|\btabnine\b",  # gemini terms removed (term groups that failed the hand-checked precision test are not reported): review bot / tool install, 0/4 precision
     "generic": r"ai[- ]generated|ai[- ]assisted|generated (?:by|with|using) (?:an )?(?:ai|llm)|written (?:by|with) (?:an )?(?:ai|llm)|\U0001F916 generated",
 }
 TOPIC_TERMS = {
@@ -55,7 +55,7 @@ def hits(rx_map, text):
 
 BOT_LOGINS = {"dependabot", "renovate", "github-actions", "pre-commit-ci", "snyk-bot", "greenkeeper", "weblate", "transifex-integration"}
 def author_class(a):
-    """human | bot | ai_agent. Copilot/Devin-style agents are their own class (D6), not dropped with dependency bots."""
+    """human | bot | ai_agent. Copilot/Devin-style agents are their own class (dependency bots are kept out of headline counts and AI agent accounts are a class of their own), not dropped with dependency bots."""
     if not a: return "human"  # deleted account ('ghost')
     login = (a.get("login") or "").lower().replace("[bot]", "")
     if login in {"copilot", "copilot-swe-agent", "devin-ai-integration", "cursor", "codegen-sh", "claude"}: return "ai_agent"
@@ -97,7 +97,7 @@ flag_cols = [c for c in df.columns if c.startswith(("ai_", "a_", "t_"))]
 repo_month = df.groupby(["full_name", "tier", "kind", "author_class", "month"], as_index=False)[["n"] + flag_cols].sum()
 repo_month.to_csv(DATA / "pr_text_ai_repo_month.csv", index=False)
 
-# Registry level: human + ai_agent PRs separately from bots (D6). Tiers: primary = high, sensitivity = high+medium (D14).
+# Registry level: human + ai_agent PRs separately from bots (dependency bots are kept out of headline counts and AI agent accounts are a class of their own). Tiers: primary = high, sensitivity = high+medium (only high-confidence repositories and DPGs feed the main results).
 reg = []
 for label, tiers in (("high", ["high"]), ("high+medium", ["high", "medium"])):
     sub = repo_month[repo_month.tier.isin(tiers)]

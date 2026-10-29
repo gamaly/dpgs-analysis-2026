@@ -1,8 +1,0 @@
-year,repos,dpgs_active,merged_human_prs,human_with_signal,share_human_signal,median_dpg_share_dpgs_ge20_prs,n_dpgs_ge20_prs,merged_ai_agent_prs,share_ai_agent_of_human_plus_agent,dpgs_with_disclosed_ai_pr,dpgs_with_ai_agent_pr,top6_repo_share_of_signal,partial_period
-2020,83,79,30733,0,0.0,0.0,61,0,0.0,0,0,,False
-2021,101,95,31507,1,3e-05,0.0,78,0,0.0,1,0,1.0,False
-2022,124,114,34424,0,0.0,0.0,82,0,0.0,0,0,,False
-2023,141,122,42818,1,2e-05,0.0,96,0,0.0,1,0,1.0,False
-2024,150,131,42535,2,5e-05,0.0,99,0,0.0,2,0,1.0,False
-2025,139,123,43955,87,0.00198,0.0,88,73,0.001658,21,13,0.69,False
-2026,134,117,49694,4052,0.08154,0.01804,86,123,0.002469,69,20,0.547,True

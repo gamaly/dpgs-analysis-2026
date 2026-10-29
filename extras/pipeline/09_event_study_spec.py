@@ -1,12 +1,12 @@
-"""Pre-registered H2 specification (METHODOLOGY D18-D28). Written before any outcome data were looked at.
+"""Pre-registered H2 specification (the locked funding-test rules). Written before any outcome data were looked at.
 
   python -I scripts/09_event_study_spec.py --lock             freeze SPEC into data/prereg_lock.json
   python -I scripts/09_event_study_spec.py --selftest         check the estimator on simulated data (no project data read)
-  python -I scripts/09_event_study_spec.py --power            D23: minimum detectable effect from PRE-period data only
+  python -I scripts/09_event_study_spec.py --power            statistical power is computed from pre-period data before outcomes are read: minimum detectable effect from PRE-period data only
   python -I scripts/09_event_study_spec.py --run              event study on real data (needs lock + funding_flags + dpg_quarterly)
 
 --run and --power refuse to read outcome data unless the lock exists and still matches SPEC, so a changed
-specification cannot be used silently. Changes after locking are deviations: log them in METHODOLOGY first.
+specification cannot be used silently. Changes after locking are deviations: log them in the study rules first.
 """
 import argparse, hashlib, json, sys, datetime as dt
 from pathlib import Path
@@ -19,13 +19,13 @@ LOCK = ROOT / "data/prereg_lock.json"
 SPEC = {
     "hypothesis": "H2: exposed DPGs lost team members after the 2025 US funding freeze; output fell less than team size",
     "event_date": "2025-01-20",
-    "first_quarter": "2024Q1",              # D18; last quarter = last COMPLETE quarter (partial quarter dropped, D20)
+    "first_quarter": "2024Q1",              # the funding test is an event study of exposed against unexposed DPGs; last quarter = last COMPLETE quarter (partial quarter dropped, outputs are modelled in logs and pre-trends are always checked)
     "reference_quarter": "2024Q4",          # event-study coefficient omitted (last pre-shock quarter)
-    "unit": "DPG-quarter",                  # D21
+    "unit": "DPG-quarter",                  # rates use a fixed set of repositories created before 2024
     "sample": "analysis_sample.in_joint_test == True (B1-B3 and repo confidence high); sensitivity: in_joint_test_sens",
     "exposure": "funding_flags.exposed (score 2 or 3, DESIGN B); dose-response with funding_flags.exposure_score",
-    "outcomes": {                           # D19: team and output from different events
-        "team": "log1p(core_team_dpg)",     # D39: core contributors = active in >=2 of 3 months of the quarter, DPG level, de-duplicated, aliases merged
+    "outcomes": {                           # team size and output are never built from the same events: team and output from different events
+        "team": "log1p(core_team_dpg)",     # a core contributor is a person active in at least 2 of the 3 months of a quarter: core contributors = active in >=2 of 3 months of the quarter, DPG level, de-duplicated, aliases merged
         "team_secondary": ["log1p(dev_months_dpg)", "log1p(departures_dpg)"],  # developer-months; departures of established contributors
         "output": "log1p(release_minor + release_major + issues_closed)",
         "secondary": ["log1p(pr_merged_human)", "log1p(active_contributors_dpg)", "log1p(maintainers_dpg)"],
@@ -38,7 +38,7 @@ SPEC = {
     "robustness": ["winsorise outcomes at 1/99 pct", "DPG-level medians", "restrict controls to the same owner_type as exposed",
                    "sensitivity sample incl. medium confidence"],
     "exploratory_only": ["AI-text signals", "category/sector breakdowns", "PR size", "other team measures"],
-    "power": "D23: MDE ~= 2.8 * sd_between_dpg_change_in_pre_period * sqrt(1/n_exposed + 1/n_unexposed); computed from pre-period data only",
+    "power": "statistical power is computed from pre-period data before outcomes are read: MDE ~= 2.8 * sd_between_dpg_change_in_pre_period * sqrt(1/n_exposed + 1/n_unexposed); computed from pre-period data only",
 }
 
 
@@ -47,7 +47,7 @@ def spec_hash():
 
 
 def lock():
-    if LOCK.exists(): sys.exit(f"{LOCK.name} exists; to change the spec log a deviation in METHODOLOGY and delete it deliberately")
+    if LOCK.exists(): sys.exit(f"{LOCK.name} exists; to change the spec log a deviation in the study rules and delete it deliberately")
     LOCK.write_text(json.dumps({"locked_on": str(dt.date.today()), "sha256": spec_hash(), "spec": SPEC}, indent=2))
     print("locked", spec_hash()[:12])
 
@@ -55,7 +55,7 @@ def lock():
 def require_lock():
     if not LOCK.exists(): sys.exit("no data/prereg_lock.json: run --lock first (before any outcome data are read)")
     if json.loads(LOCK.read_text())["sha256"] != spec_hash():
-        sys.exit("SPEC differs from the locked version: that is a deviation. Log it in METHODOLOGY, then decide.")
+        sys.exit("SPEC differs from the locked version: that is a deviation. Log it in the study rules, then decide.")
 
 
 def qkey(q): return int(q[:4]) * 4 + int(q[-1]) - 1
@@ -122,7 +122,7 @@ def selftest():
 
 def load_panel(pre_only=False):
     """Real data. Refuses if inputs the spec relies on are missing."""
-    need = {"data/funding_flags.csv": "FIN task F6", "data/dpg_quarterly.csv": "GH task G3", "data/analysis_sample.csv": "07_analysis_sample.py"}
+    need = {"data/funding_flags.csv": "funding_flags.csv from 08b_funding_flags.py", "data/dpg_quarterly.csv": "03_aggregate.py", "data/analysis_sample.csv": "07_analysis_sample.py"}
     miss = [f"{p} ({w})" for p, w in need.items() if not (ROOT / p).exists()]
     if miss: sys.exit("missing inputs: " + "; ".join(miss))
     flags = pd.read_csv(ROOT / "data/funding_flags.csv"); smp = pd.read_csv(ROOT / "data/analysis_sample.csv")
@@ -130,12 +130,12 @@ def load_panel(pre_only=False):
         if c not in flags.columns: sys.exit(f"funding_flags.csv lacks column '{c}' (see message board)")
     q = pd.read_csv(ROOT / "data/dpg_quarterly.csv")
     for c in ("core_team_dpg", "dev_months_dpg", "departures_dpg"):
-        if c not in q.columns: sys.exit(f"dpg_quarterly.csv lacks '{c}': team must be de-duplicated across repos (D21, message M0002)")
+        if c not in q.columns: sys.exit(f"dpg_quarterly.csv lacks '{c}': team must be de-duplicated across repos (rates use a fixed set of repositories created before 2024, message ")
     keep = smp.loc[smp.in_joint_test, "dpgid"]
     p = q[q.dpgid.isin(keep)].merge(flags[["dpgid", "exposed", "exposure_score"]], on="dpgid")
     p["output"] = np.log1p(p.release_minor + p.release_major + p.issues_closed); p["team"] = np.log1p(p.core_team_dpg); p["dev_months"] = np.log1p(p.dev_months_dpg); p["departures"] = np.log1p(p.departures_dpg)
     last = last_complete_quarter()
-    if pre_only:  # power (D23): 2023 and 2024 only, nothing from 2025 on
+    if pre_only:  # power (statistical power is computed from pre-period data before outcomes are read): 2023 and 2024 only, nothing from 2025 on
         return p[(p.quarter.map(qkey) >= qkey("2023Q1")) & (p.quarter.map(qkey) < qkey("2025Q1"))], last
     p = p[(p.quarter.map(qkey) >= qkey(SPEC["first_quarter"])) & (p.quarter.map(qkey) <= qkey(last))]
     return p, last

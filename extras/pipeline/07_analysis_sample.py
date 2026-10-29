@@ -1,4 +1,4 @@
-"""Apply the inclusion rules in DESIGN.md to every DPG. Outputs:
+"""Apply the inclusion rules in the study design rules to every DPG. Outputs:
 data/analysis_sample.csv (one row per DPG: include flags for each analysis, primary and sensitivity),
 data/exclusions.csv (one row per DPG x rule that excluded it). Prints the sample flow.
 """
@@ -15,7 +15,7 @@ nyears = base.groupby("owner_name").tax_year.nunique()
 df = om.merge(em[["owner_name", "ein", "confidence", "attribution"]].rename(columns={"confidence": "ein_confidence"}),
               on="owner_name", how="left")
 df["baseline_990_years"] = df.owner_name.map(nyears).fillna(0).astype(int)
-# repo confidence tier from the activity workstream (METHODOLOGY D14)
+# repo confidence tier from the activity workstream
 dc = pd.read_csv(ROOT / "data/dpg_confidence.csv")[["dpgid", "dpg_confidence"]]
 df = df.merge(dc, on="dpgid", how="left")
 # federal-award exposure (F6, DESIGN B); blank score = owner low confidence, so the DPG has no exposure value (rule B1)
@@ -36,8 +36,8 @@ RULES = [
     # joint funding x activity test: exposure rules AND repo confidence (DESIGN "Joint sample"); B2/B3 join here once
     # data/funding_flags.csv exists
     ("B1", "joint_test", OWNER_OK, OWNER_OK, "owner identification low confidence"),
-    ("D14", "joint_test", df.dpg_confidence.eq("high"), df.dpg_confidence.isin(["high", "medium"]),
-     "repo confidence below threshold (METHODOLOGY D14)"),
+    ("only high-confidence repositories and DPGs feed the main results", "joint_test", df.dpg_confidence.eq("high"), df.dpg_confidence.isin(["high", "medium"]),
+     "repo confidence below threshold (only high-confidence repositories and DPGs feed the main results)"),
 ]
 
 exc = []

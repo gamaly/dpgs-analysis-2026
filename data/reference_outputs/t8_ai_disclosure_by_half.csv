@@ -1,7 +1,0 @@
-half,repos,dpgs_active,merged_human_prs,human_with_signal,share_human_signal,median_dpg_share_dpgs_ge20_prs,n_dpgs_ge20_prs,merged_ai_agent_prs,share_ai_agent_of_human_plus_agent,dpgs_with_disclosed_ai_pr,dpgs_with_ai_agent_pr,top6_repo_share_of_signal,partial_period
-2024H1,140,121,21514,0,0.0,0.0,88,0,0.0,0,0,,False
-2024H2,136,120,21021,2,0.0001,0.0,81,0,0.0,2,0,1.0,False
-2025H1,131,116,22730,7,0.00031,0.0,80,0,0.0,5,0,1.0,False
-2025H2,118,106,21225,80,0.00377,0.0,76,73,0.003428,19,13,0.712,False
-2026H1,123,111,27486,1397,0.05083,0.00373,78,107,0.003878,52,19,0.644,False
-2026H2,117,106,22208,2655,0.11955,0.02326,73,16,0.00072,63,4,0.562,True

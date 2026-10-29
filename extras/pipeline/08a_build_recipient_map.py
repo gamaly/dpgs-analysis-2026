@@ -49,7 +49,7 @@ ROWS = [
     ("Mozilla Foundation", "owner", "parent", "MOZILLA FOUNDATION", H, "exact legal name (EIN map)"),
     ("Linux Foundation (Janssen Project)", "owner", "host", "LINUX FOUNDATION, THE", H, "exact legal name (EIN map)"),
     ("LF Charities (Linux Foundation)", "owner", "host", "LINUX FOUNDATION, THE", M, "LF Charities is a separate legal entity; parent Linux Foundation record used"),
-    ("United Nations Foundation (host of Digital Impact Alliance)", "owner", "host", "UNITED NATIONS FOUNDATION INC", M, "UN Foundation is the legal host of DIAL (EIN map, D38)"),
+    ("United Nations Foundation (host of Digital Impact Alliance)", "owner", "host", "UNITED NATIONS FOUNDATION INC", M, "UN Foundation is the legal host of DIAL (EIN map, the owner is taken from the owner the DPG declared in the registry)"),
     ("Emory University", "owner", "parent", "EMORY UNIVERSITY", H, "exact name"),
     ("University of Washington (I-TECH / DIGI)", "owner", "parent", "UNIVERSITY OF WASHINGTON", H, "exact name"),
     ("University of Texas at Austin (Intelligent Environments Lab)", "owner", "parent", "UNIVERSITY OF TEXAS AT AUSTIN", H, "exact name"),
@@ -79,11 +79,11 @@ ROWS = [
     ("Red Hat", "owner", "parent", "RED HAT, LLC", H, "exact legal name; large for-profit, foreign-aid scope only"),
     ("Johnson & Johnson", "owner", "parent", "JOHNSON & JOHNSON, INC.", H, "exact name; large for-profit, foreign-aid scope only"),
     # --- implementers named in the owner map (foreign-aid scope)
-        ("Chemonics International", "owner", "parent", "CHEMONICS INTERNATIONAL, INC.", H, "declared owner of the Quantification Analytics Tool (D38); exact legal name; Quantification Analytics Tool is a small part of Chemonics, so foreign-aid scope"),
+        ("Chemonics International", "owner", "parent", "CHEMONICS INTERNATIONAL, INC.", H, "declared owner of the Quantification Analytics Tool (the owner is taken from the owner the DPG declared in the registry); exact legal name; Quantification Analytics Tool is a small part of Chemonics, so foreign-aid scope"),
     ("Vital Strategies", "related", "implementer", "VITAL STRATEGIES, INC.", M, "named partner of Resolve to Save Lives; award total is org-wide"),
     ("Norwegian Refugee Council (NORCAP)", "related", "implementer", "NORWEGIAN REFUGEE COUNCIL (NRC) - STIFTELSEN FLYKTNINGHJELPEN", M, "NORCAP is NRC's deployment arm; award total is org-wide"),
     ("World Bank", "related", "implementer", "WORLD BANK, THE", M, "exact name; funder of Climate Action Data Trust"),
-    ("GIZ (openIMIS Initiative)", "owner", "parent", "DEUTSCHE GESELLSCHAFT FUER INTERNATIONALE ZUSAMMENARBEIT (GIZ) GMBH", H, "exact legal name (umlaut spelling FUER); UEI WUJ5L1ULCJH9; 4 USAID prime awards (checked, missed by the earlier search)"),
+    ("GIZ (openIMIS Initiative)", "owner", "parent", "DEUTSCHE GESELLSCHAFT FUER INTERNATIONALE ZUSAMMENARBEIT (GIZ) GMBH", H, "exact legal name (umlaut spelling FUER); UEI WUJ5L1ULCJH9; 4 USAID prime awards "),
     ("GIZ", "related", "implementer", "DEUTSCHE GESELLSCHAFT FUER INTERNATIONALE ZUSAMMENARBEIT (GIZ) GMBH", H, "exact legal name; GIZ is named as an implementer for OpenSPP, Prospect, SYSPIN and SORMAS"),
     # --- rejected: kept in the map as low so the decision is visible (never used)
     ("Acquia", "related", "implementer", "ACQUIA INC", L, "large for-profit tech related org; not searched (DESIGN B3)"),

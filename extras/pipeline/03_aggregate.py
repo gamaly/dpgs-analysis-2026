@@ -1,11 +1,11 @@
 """Aggregate cached raw repo JSON to quarterly metrics per repo and per DPG.
-Spec: METHODOLOGY D4, D5, D6, D9, D14, D19 (no circular measures), D21 (fixed cohort, DPG-level people de-duplicated), TASKS G3/G12, msgs M0002/M0008.
+Spec: team size has no direct measure, so several proxies are used and one (core contributors) is the main one; output is measured by merged PRs, releases and issues closed; PR size is context only; dependency bots are kept out of headline counts and AI agent accounts are a class of their own; metrics are computed per repository and then summed to the DPG; only high-confidence repositories and DPGs feed the main results; team size and output are never built from the same events, rates use a fixed set of repositories created before 2024,  .
 Outputs: data/repo_quarterly.csv, data/dpg_quarterly.csv.
-  * TEAM (D19) = human commit authors on the default branch + human PR mergers + human reviewers. PR authorship is NOT team activity.
+  * TEAM (team size and output are never built from the same events) = human commit authors on the default branch + human PR mergers + human reviewers. PR authorship is NOT team activity.
     active_contributors = any such event in the quarter; core_team = events in >=2 distinct months of the quarter; maintainers = mergers + reviewers.
   * OUTPUT = releases (major/minor/patch, tags as fallback), issues closed, merged human PRs.
-  * DPG level: people are the UNION across the DPG's repos (not summed). Output is summed over the DPG's repos created before 2024-01-01 (in_cohort, D21).
-  * Current quarter is flagged partial_quarter and must be dropped from estimation (D20).
+  * DPG level: people are the UNION across the DPG's repos (not summed). Output is summed over the DPG's repos created before 2024-01-01 (in_cohort, rates use a fixed set of repositories created before 2024).
+  * Current quarter is flagged partial_quarter and must be dropped from estimation (outputs are modelled in logs and pre-trends are always checked).
 Identities are raw logins/emails here; anonymise before sharing. Alias merging beyond noreply->login is G5 (not yet hand-validated).
 Run: python -I scripts/03_aggregate.py
 """
@@ -17,22 +17,25 @@ ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "cache"
 START = pd.Timestamp("2020-01-01")
 COHORT_BEFORE = pd.Timestamp("2024-01-01")
-MIGRATION_MIN_COMMITS = 50  # D45: a repo created later still counts as cohort if it has >=50 commits dated before 2024 (migrated history)
+MIGRATION_MIN_COMMITS = 50  # the fixed set of repositories is those created before 2024 or holding at least 50 earlier commits: a repo created later still counts as cohort if it has >=50 commits dated before 2024 (migrated history)
 TODAY = pd.Timestamp.today().normalize()
 CURRENT_Q = str(TODAY.to_period("Q"))
 
 # Automation accounts. Patterns catch "-bot", "[bot]", "-ci", "automation", release/builder bots; HAND_BOTS lists user accounts found by scanning the cache
-# (checked, 2026-10-29). Names that merely contain "bot"/"robot" but belong to people (TimidRobot, vbothe23, ...) are deliberately NOT matched.
+# . Names that merely contain "bot"/"robot" but belong to people (TimidRobot, vbothe23, ...) are deliberately NOT matched.
 DEP_BOTS = re.compile(r"dependabot|renovate|github-actions|pre-commit-ci|snyk|greenkeeper|allcontributors|weblate|transifex|crowdin|codecov|imgbot|sonar"
                       r"|[-_.]bot(?:$|[-_.\[])|\[bot\]|^bot[-_]|[-_]ci$|automation|actions-user|semantic-release|release-bot|-builder$|auto-merge|mergify|fossabot|houndci", re.I)
 HAND_BOTS = {"blsqbot", "framabot", "terraframe-builder", "chiaautomation", "aam-digital-ci", "openelis-bot", "dask-bot", "consulbot", "ersilia-bot",
-             "cc-open-source-bot", "epiverse-trace-bot", "publiccode-pr-bot", "step-security-bot", "flintcibot", "cc-creativecommons-github-io-bot", "pix-service-auto-merge"}
+             "cc-open-source-bot", "epiverse-trace-bot", "publiccode-pr-bot", "step-security-bot", "flintcibot", "cc-creativecommons-github-io-bot", "pix-service-auto-merge",
+             # found by a scan of the cached accounts: automation accounts that are GitHub "User" accounts
+             "jenkins-is-staging", "mo-auto", "mo-auto2", "mo-auto3", "mo-auto4", "riotrobot", "riottranslatebot", "zacksbot", "rtibblesbot",
+             "ckanbot", "sormas-robot", "pix-service", "pix-service-prod", "github-advanced-security", "github-code-quality", "qlty-cloud-legacy"}
 AI_AGENTS = re.compile(r"^copilot|copilot-swe-agent|devin-ai|^claude|claude-bridge|codex|cursor(?:-?agent|\[bot\])|^cursor$|sweep-ai|openhands|jules"
-                       r"|coderabbit|greptile|gemini-code-assist|qodo|sourcery-ai|korbit-ai|ellipsis-dev|codeant-ai|bito-code", re.I)  # AI reviewers added (D50 check, 2026-10-29)
+                       r"|coderabbit|greptile|gemini-code-assist|qodo|sourcery-ai|korbit-ai|ellipsis-dev|codeant-ai|bito-code", re.I)  # AI reviewers added (first-time contributors are counted from a person's first appearance in a DPG check, 2026-10-29)
 NOREPLY = re.compile(r"^(?:\d+\+)?(.+)@users\.noreply\.github\.com$", re.I)
 
 def actor_class(login, typename=None):
-    """human | dep_bot | ai_agent | unknown (D6)."""
+    """human | dep_bot | ai_agent | unknown (dependency bots are kept out of headline counts and AI agent accounts are a class of their own)."""
     if not isinstance(login, str) or not login: return "unknown"
     if AI_AGENTS.search(login): return "ai_agent"
     if typename == "Bot" or login.endswith("[bot]") or login.lower() in HAND_BOTS or DEP_BOTS.search(login): return "dep_bot"
@@ -86,7 +89,7 @@ def process(d):
         c = ts(p["createdAt"])
         if c >= START:
             add(qs(c), f"pr_opened_{cls}")
-            if cls == "human": team.append((qs(c), c.month, pkey(au.get("login")), "pr_open"))  # role measure only (D44)
+            if cls == "human": team.append((qs(c), c.month, pkey(au.get("login")), "pr_open"))  # role measure only (review and role measures are descriptive: more PRs is not a sign of a healthier product)
             title = p.get("title") or ""
             labels = [n["name"] for n in ((p.get("labels") or {}).get("nodes") or [])]
             if cls == "human" and (re.match(r"(?i)^\s*(feat|feature)\b", title) or any(re.search(r"(?i)feature|enhancement", n) for n in labels)):
@@ -98,7 +101,7 @@ def process(d):
                 if cls == "human":
                     merge_hours.setdefault(qs(m), []).append((m - c).total_seconds() / 3600)
                     add(qs(m), "lines_changed", (p.get("additions") or 0) + (p.get("deletions") or 0))
-                if cls == "human": team.append((qs(m), m.month, pkey(au.get("login")), "pr_author"))  # author of a merged PR (D39 variant; see ACTIVITY note)
+                if cls == "human": team.append((qs(m), m.month, pkey(au.get("login")), "pr_author"))  # author of a merged PR (a core contributor is a person active in at least 2 of the 3 months of a quarter variant; see ACTIVITY note)
                 mg = (p.get("mergedBy") or {}).get("login")
                 if cls == "human":
                     revs = [rv for rv in ((p.get("reviews") or {}).get("nodes") or []) if (rv.get("author") or {}).get("login") and rv.get("submittedAt")
@@ -142,10 +145,10 @@ def process(d):
         rows.setdefault(q, {})["top1_commit_share"] = v[0] / sum(v); rows[q]["top2_commit_share"] = sum(v[:2]) / sum(v)
     return rows, team, method, pairs, {"name_login": name_login, "email_name": email_name}
 
-ACTIVITY = ("commit", "merge", "review", "pr_author")  # D39: commit, merged PR, or PR review. Variant without pr_author is stored as *_nopr (sensitivity)
+ACTIVITY = ("commit", "merge", "review", "pr_author")  # a core contributor is a person active in at least 2 of the 3 months of a quarter: commit, merged PR, or PR review. Variant without pr_author is stored as *_nopr (sensitivity)
 
 def team_metrics(events, roles=ACTIVITY):
-    """events: (quarter, month, person, role) -> {quarter: dict(active_contributors, core_team, dev_months, maintainers)} (D39)."""
+    """events: (quarter, month, person, role) -> {quarter: dict(active_contributors, core_team, dev_months, maintainers)} (a core contributor is a person active in at least 2 of the 3 months of a quarter)."""
     df = pd.DataFrame(events, columns=["q", "m", "p", "role"]).dropna()
     df = df[df.role.isin(roles)]
     out = {}
@@ -157,7 +160,7 @@ def team_metrics(events, roles=ACTIVITY):
     return out
 
 def role_counts(events):
-    """D44: distinct people per role per quarter (bots/AI agents already excluded; people de-duplicated across the DPG's repos)."""
+    """review and role measures are descriptive: more PRs is not a sign of a healthier product: distinct people per role per quarter (bots/AI agents already excluded; people de-duplicated across the DPG's repos)."""
     df = pd.DataFrame(events, columns=["q", "m", "p", "role"]).dropna()
     out = {}
     for q, g in df.groupby("q"):
@@ -165,7 +168,7 @@ def role_counts(events):
     return out
 
 def departures(events, quarters, last_complete, roles=ACTIVITY):
-    """D39 departures. established(q) = active in >=4 of the previous 8 quarters. A departure in q = established person active in q whose last
+    """a core contributor is a person active in at least 2 of the 3 months of a quarter departures. established(q) = active in >=4 of the previous 8 quarters. A departure in q = established person active in q whose last
     active (complete) quarter is q. Defined only for q <= last_complete-2 (needs 2 silent complete quarters); history needs 8 prior quarters in data."""
     df = pd.DataFrame(events, columns=["q", "m", "p", "role"]).dropna(); df = df[df.role.isin(roles)]
     act = {}  # person -> sorted quarter ordinals active (complete quarters only)
@@ -204,7 +207,7 @@ if __name__ == "__main__":
                                                 archived=m["isArchived"], fork=m["isFork"], name=d["full_name"])
         # the registry may use the old name; index by the canonical name too
         per_repo[m["nameWithOwner"].lower()] = per_repo[d["full_name"].lower()]
-    # alias merging: an email seen with exactly one login on any commit maps email-only authors to that login (G5/D39; hand-validation = QC Q5)
+    # alias merging: an email seen with exactly one login on any commit maps email-only authors to that login (G5/a core contributor is a person active in at least 2 of the 3 months of a quarter; hand-validation = the hand check)
     e2l = {}
     for em, lg in all_pairs: e2l.setdefault(em, set()).add(lg)
     e2l = {em: next(iter(l)) for em, l in e2l.items() if len(l) == 1}
@@ -226,7 +229,7 @@ if __name__ == "__main__":
     rq = pd.DataFrame(out)
     num = [c for c in rq.columns if c not in ("full_name", "quarter", "release_method", "repo_created", "in_cohort", "cohort_via_migration_rule", "partial_quarter", "renamed", "repo_archived", "repo_is_fork", "n_dpgs_for_repo", "top1_commit_share", "top2_commit_share", "pr_median_merge_hours")]
     rq[num] = rq[num].fillna(0)
-    # one row per (dpgid, full_name) mapping; repo_quarterly is repo-level: do NOT sum it across dpgid (shared repos, see data notes)
+    # one row per (dpgid, full_name) mapping; repo_quarterly is repo-level: do NOT sum it across dpgid (shared repos, 
     rq.merge(inv[["dpgid", "dpg", "full_name", "confidence"]].assign(k=lambda x: x.full_name.str.lower()).drop_duplicates("k")[["full_name", "dpgid", "dpg", "confidence"]], how="left", on="full_name").to_csv(ROOT / "data/repo_quarterly.csv", index=False)
 
     # DPG roll-up: people = union across the DPG's repos; output = sum over the DPG's in-cohort repos; balanced quarterly panel with zeros.
@@ -248,7 +251,7 @@ if __name__ == "__main__":
         for em, lg in alias.items(): alias_rows.append({"dpgid": dpgid, "email_key": em, "author_name": en[em], "merged_into_login": lg})
         fix = lambda evs: [(q_, m_, alias.get(p_, p_), r_) for q_, m_, p_, r_ in evs]
         n_alias += sum(1 for v in coh for e in v["team"] if e[2] in alias)
-        ev = fix([e for v in coh for e in v["team"]])  # union of people across the DPG's cohort repos (D21)
+        ev = fix([e for v in coh for e in v["team"]])  # union of people across the DPG's cohort repos (rates use a fixed set of repositories created before 2024)
         ev_all = fix([e for v in uniq.values() for e in v["team"]])  # sensitivity: all repos
         tm = team_metrics(ev); tm_nopr = team_metrics(ev, roles=("commit", "merge", "review")); tm_all = team_metrics(ev_all)
         dep = departures(ev, allq, LAST_COMPLETE); rc = role_counts(ev)
@@ -258,9 +261,9 @@ if __name__ == "__main__":
                 for c, x in r.items():
                     if c in count_cols and c in rq.columns: sums[q][c] = sums[q].get(c, 0) + (x if x == x else 0)
         first = min([v["eff_start"] for v in coh], default=None)
-        if not coh:  # no repo created before 2024: not measurable in the fixed cohort (D21); listed, never written as zeros (AMRIT, M0133)
+        if not coh:  # no repo created before 2024: not measurable in the fixed cohort (rates use a fixed set of repositories created before 2024); listed, never written as zeros (AMRIT, 
             nocoh_rows.append({"dpgid": dpgid, "dpg": g.dpg.iloc[0], "repos": "|".join(sorted(v["name"] for v in uniq.values())),
-                               "earliest_repo_created": min(v["created"] for v in uniq.values()).date(), "reason": "all repos created on/after 2024-01-01 and <50 commits before 2024 (D21/D45)"})
+                               "earliest_repo_created": min(v["created"] for v in uniq.values()).date(), "reason": "all repos created on/after 2024-01-01 and <50 commits before 2024 (rates use a fixed set of repositories created before 2024; the fixed set of repositories is those created before 2024 or holding at least 50 earlier commits)"})
             continue
         # people file: hashed ids only (raw logins/emails stay in the cache)
         pdf = pd.DataFrame(ev, columns=["q", "m", "p", "role"]).dropna()
@@ -281,12 +284,12 @@ if __name__ == "__main__":
                        departure_rate_dpg=dd["departure_rate"], departures_censored=dd["departures_censored"], history_complete=dd["history_complete"])
             dpg_rows.append({"dpgid": dpgid, "dpg": g.dpg.iloc[0], "quarter": q, **row, "n_repos_cohort": len(coh), "n_cohort_via_migration_rule": sum(v["migrated"] for v in coh), "n_repos_all": len(uniq),
                              "partial_quarter": q == CURRENT_Q, "any_renamed_repo": any(v["renamed"] for v in uniq.values())})
-    NOTES = {"PSMRI/AMRIT": "registry lists only an umbrella repo created 2024-10; the project code spans ~81 repos in the PSMRI org (earliest created 2023-05) that D30/D45 do not pick up; no manual pick (PM M0166)"}
+    NOTES = {"PSMRI/AMRIT": "registry lists only an umbrella repo created 2024-10; the project code spans ~81 repos in the PSMRI org (earliest created 2023-05) that for organisation-only DPGs a rule selects the repositories: a dedicated organisation contributes all its product repositories, any other organisation only name matches; the fixed set of repositories is those created before 2024 or holding at least 50 earlier commits do not pick up; no manual pick "}
     nc = pd.DataFrame(nocoh_rows)
     if len(nc): nc["note"] = [next((v for k, v in NOTES.items() if k.lower() in r.lower()), "") for r in nc.repos]
     nc.to_csv(ROOT / "data/dpg_no_cohort_repo.csv", index=False)
     pd.DataFrame(people_rows).to_csv(ROOT / "data/people_quarterly.csv", index=False)
-    pd.DataFrame(alias_rows).to_csv(CACHE / "_alias_merges.csv", index=False)  # raw identities: internal, for the hand-validation sample; never share
+    pd.DataFrame(alias_rows).to_csv(CACHE / "_alias_merges.csv", index=False)  # raw identities: internal, for the hand-validation sample (the hand check); never share
     dq = pd.DataFrame(dpg_rows).merge(dconf, how="left", on="dpgid")
     dq.to_csv(ROOT / "data/dpg_quarterly.csv", index=False)
     print(f"name-merged events (cohort): {n_alias}; " f"repos aggregated: {len({v['name'] for v in per_repo.values()})}; repo-quarters: {len(rq)}; DPGs: {dq.dpgid.nunique()}; dpg-quarters: {len(dq)}; skipped not-ok: {skipped}; unreadable: {nerr}")

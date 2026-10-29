@@ -166,7 +166,7 @@ def pick_org_repos(dpg_names, pool):
 
 if __name__ == "__main__":
     CACHE.mkdir(exist_ok=True)
-    inv = pd.read_csv(ROOT / "data/all_repos.csv")  # from 02a/02b; tiers per METHODOLOGY.md D14
+    inv = pd.read_csv(ROOT / "data/all_repos.csv")  # from 02a/02b; tiers per only high-confidence repositories and DPGs feed the main results
     tiers = sys.argv[sys.argv.index("--tiers") + 1].split(",") if "--tiers" in sys.argv else ["high", "medium"]
     inv = inv[inv.confidence.isin(tiers)].drop_duplicates("full_name")
     size = pd.read_csv(ROOT / "data/repo_size.csv").set_index("full_name").est_points.to_dict() if (ROOT / "data/repo_size.csv").exists() else {}

@@ -1,4 +1,4 @@
-"""F9 / METHODOLOGY D47: Form 990 panel, one row per EIN x fiscal year (FY2019 .. latest) -> data/org_990_panel.csv.
+"""the Form 990 panel is descriptive and covers US-nonprofit owners: Form 990 panel, one row per EIN x fiscal year (FY2019 .. latest) -> data/org_990_panel.csv.
 Sources in order: IRS e-file XML (TEOS zips, read member by member with range requests, see irs_zip.py) -> ProPublica PDF-only years
 (listed, figures left blank, source='pdf', to be read by hand) -> 'not yet filed' / 'not found'.
 Usage: python -I scripts/09_990_panel.py --phase 1      (the six exposed-DPG owners with a US EIN)

@@ -1,5 +1,5 @@
 """F6: per-DPG federal-award exposure score -> data/funding_flags.csv (hand-off to the joint test).
-Rules: DESIGN.md section B, "Scoring mechanics". Inputs: data/org_awards_usg.csv, data/usg_recipient_map.csv, data/dpg_owner_map.csv.
+Rules: the study design rules section B, "Scoring mechanics". Inputs: data/org_awards_usg.csv, data/usg_recipient_map.csv, data/dpg_owner_map.csv.
 Outputs: data/funding_flags.csv, data/funding_flags_dropped_awards.csv.
 Score: 3 = active foreign-aid prime award; 2 = foreign-aid subaward only; 1 = other federal award only; 0 = none found.
 """

@@ -1,11 +1,11 @@
-"""P8 / Q3 (METHODOLOGY D36, measure 1): which collected repos declare an AI library in a dependency manifest?
-List of libraries is FIXED below (D36); changes must be logged in METHODOLOGY before results are read.
+"""(AI features are measured from dependency manifests and from PR text, measure 1): which collected repos declare an AI library in a dependency manifest?
+List of libraries is FIXED below (AI features are measured from dependency manifests and from PR text); changes must be logged in the study rules before results are read.
 Steps (each cached, resumable):
   1. file list per repo: REST git trees API (recursive) -> manifest paths      [needs GITHUB_TOKEN, 1 REST call/repo]
   2. manifest text from raw.githubusercontent.com (no API budget)               [cache/deps/<owner>__<repo>.json]
   3. parse offline -> data/ai_dependencies.csv (one row per repo/file/library), data/ai_dependencies_repo.csv (one row per repo)
-Only repos already collected by G1 (cache/<owner>__<repo>.json, status ok) in tiers high+medium (D14).
-Fetching is gated: it needs --gh-clear (GH has announced on the board that G1 is done and the token is free; M0018).
+Only repos already collected by G1 (cache/<owner>__<repo>.json, status ok) in tiers high+medium (only high-confidence repositories and DPGs feed the main results).
+Fetching is gated: it needs --gh-clear (the GitHub collection must be complete and the token free).
 Usage: python -I scripts/03e_ai_dependencies.py --dry-run | --gh-clear [--limit N] | --parse-only
 """
 import json, os, re, sys, time, tomllib
@@ -17,7 +17,7 @@ CACHE, DATA = ROOT / "cache", ROOT / "data"
 DEPS = CACHE / "deps"
 MAX_MANIFESTS, MAX_BYTES = 40, 300_000
 
-# --- D36 fixed library list (normalised names: lowercase, '_' and '.' -> '-') -------------------------------------
+# --- AI features are measured from dependency manifests and from PR text fixed library list (normalised names: lowercase, '_' and '.' -> '-') -------------------------------------
 LLM = {"openai", "anthropic", "@anthropic-ai/sdk", "google-generativeai", "@google/genai", "litellm", "ollama", "mistralai", "cohere"}
 LLM_PREFIX = ("langchain", "@langchain/", "llama-index")  # langchain*, llama-index/llama_index
 ML = {"scikit-learn", "tensorflow", "torch", "pytorch", "keras", "xgboost", "lightgbm", "transformers", "spacy", "onnxruntime"}
@@ -144,7 +144,7 @@ if __name__ == "__main__":
     if "--dry-run" in sys.argv: sys.exit()
     if "--parse-only" not in sys.argv:
         if "--gh-clear" not in sys.argv:
-            sys.exit("Not fetching: needs --gh-clear (GH announced G1 complete and the token is free). Use --parse-only to parse cached manifests.")
+            sys.exit("Not fetching: needs --gh-clear (the GitHub collection must be complete and the token free). Use --parse-only to parse cached manifests.")
         S = requests.Session(); S.headers["Authorization"] = f"bearer {env_token()}"
         for i, (full, _, live) in enumerate(todo, 1):
             print(f"[{i}/{len(todo)}] {full}", flush=True)

@@ -1,5 +1,5 @@
 """Pull yearly Form 990 financials from ProPublica for every EIN in data/org_ein_map.csv (all confidence levels;
-inclusion rules are applied at analysis time, see "Experimental design" in the project notes).
+inclusion rules are applied at analysis time, see the study design rules).
 Output: data/org_990_yearly.csv (one row per EIN x tax year). Cache: cache/propublica/org_<ein>.json.
 ProPublica summary fields lack government grants (Part VIII 1e), employee count and Schedule I; those need IRS e-file XML.
 """

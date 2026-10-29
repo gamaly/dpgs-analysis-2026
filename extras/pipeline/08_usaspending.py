@@ -1,5 +1,5 @@
 """US federal awards (prime + subawards) for DPG owner orgs and their related orgs, via the USAspending API.
-Two stages, with a hand-review step between them (see DESIGN.md, rules B2):
+Two stages, with a hand-review step between them (see the study design rules, rules B2):
   --lookup : search AWARD records by name (prime grants/contracts + subawards) and list the distinct recipient
              names/UEIs they contain -> data/usg_recipient_candidates.csv. (The /recipient/ index misses real
              recipients, e.g. Jembi Health Systems, and subawardees are often recorded by name only, without UEI.)

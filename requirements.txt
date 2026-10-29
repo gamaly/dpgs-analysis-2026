@@ -3,7 +3,7 @@
 pandas>=2.2
 numpy>=1.26
 matplotlib>=3.8
-# only to open and run the notebooks locally, and for extras/verify_numbers.py:
+# only to open and run the notebooks locally:
 jupyterlab
 ipykernel
 nbformat

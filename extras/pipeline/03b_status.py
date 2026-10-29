@@ -1,4 +1,4 @@
-"""Repo and DPG status: active / slowing / dormant (METHODOLOGY D32). Run: python -I scripts/03b_status.py"""
+"""Repo and DPG status: active / slowing / dormant (a repository is dormant with no merged PR or release in 12 months, slowing with fewer than half as many events as in the 12 months before, otherwise active). Run: python -I scripts/03b_status.py"""
 import json, re
 from pathlib import Path
 import pandas as pd
@@ -11,7 +11,7 @@ REF = pd.Timestamp("2026-10-29")
 R0, P0 = REF - pd.DateOffset(months=12), REF - pd.DateOffset(months=24)
 
 def repo_status(d):
-    ev = []  # timestamps of events (D32)
+    ev = []  # timestamps of events (a repository is dormant with no merged PR or release in 12 months, slowing with fewer than half as many events as in the 12 months before, otherwise active)
     bot_merges = 0
     for p in d.get("prs") or []:
         if not p.get("mergedAt"): continue
@@ -22,7 +22,7 @@ def repo_status(d):
         elif cls == "dep_bot" and t >= R0: bot_merges += 1
     kinds, method = agg.release_kinds(d.get("releases"), d.get("tags"))
     ev += [t for t, k in kinds]
-    pre = [agg.ts(x["publishedAt"] or x["createdAt"]) for x in d.get("releases") or [] if x["isPrerelease"]]  # sensitivity only (D32 note)
+    pre = [agg.ts(x["publishedAt"] or x["createdAt"]) for x in d.get("releases") or [] if x["isPrerelease"]]  # sensitivity only (a repository is dormant with no merged PR or release in 12 months, slowing with fewer than half as many events as in the 12 months before, otherwise active note)
     def label(events):
         s = pd.Series(events, dtype="datetime64[ns]")
         r = int(((s > R0) & (s <= REF)).sum()); p_ = int(((s > P0) & (s <= R0)).sum())

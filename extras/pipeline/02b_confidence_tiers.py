@@ -1,4 +1,4 @@
-"""Assign each repo a confidence tier (METHODOLOGY.md D14). Reads/writes data/all_repos.csv; also writes data/dpg_confidence.csv."""
+"""Assign each repo a confidence tier (only high-confidence repositories and DPGs feed the main results). Reads/writes data/all_repos.csv; also writes data/dpg_confidence.csv."""
 from pathlib import Path
 import json, re
 import pandas as pd
@@ -13,7 +13,7 @@ listed_keys = set(zip(df[df.source == "listed_repo"].dpgid, df[df.source == "lis
 dup = (df.source == "org_enumerated") & pd.Series([(a, b.lower()) in listed_keys for a, b in zip(df.dpgid, df.full_name)], index=df.index)
 n_dup = int(dup.sum()); df = df[~dup].copy()
 
-# METHODOLOGY D30: dedicated-org rule for org-only DPGs
+# for organisation-only DPGs a rule selects the repositories: a dedicated organisation contributes all its product repositories, any other organisation only name matches: dedicated-org rule for org-only DPGs
 norm = lambda x: re.sub(r"[^a-z0-9]", "", str(x).lower())
 reg = {d["dpgid"]: d for d in json.load(open(ROOT / "data/raw/registry.json", encoding="utf-8"))}
 org_rows = df[df.source == "org_enumerated"]
@@ -36,11 +36,11 @@ rev = pd.read_csv(review).set_index("full_name").decision.to_dict() if review.ex
 def tier(r):
     if not r.resolved: return "excluded", "unresolved"
     if rev.get(r.full_name) == "exclude": return "excluded", "manual_exclude"
-    if rev.get(r.full_name) == "include": return "high", "manual_verified"  # hand decision overrides the fork rule (M0015)
+    if rev.get(r.full_name) == "include": return "high", "manual_verified"  # hand decision overrides the fork rule 
     if r.fork or r.mirror: return "excluded", "fork_or_mirror"
     if r.shared: return "low", "shared_between_dpgs"
     if r.source == "listed_repo": return "high", "listed_in_registry"
-    if r.org_dedicated:  # D30: whole dedicated org minus forks (above), stale and non-product repos
+    if r.org_dedicated:  # for organisation-only DPGs a rule selects the repositories: a dedicated organisation contributes all its product repositories, any other organisation only name matches: whole dedicated org minus forks (above), stale and non-product repos
         if r.stale_since_2020: return "excluded", "org_repo_stale_since_2020"
         if r.nonproduct_name: return "excluded", "org_repo_nonproduct_name"
         return "medium", "org_dedicated_rule_D30"

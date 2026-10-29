@@ -1,6 +1,6 @@
 """Descriptive tables for the findings memo. Reads existing outputs only.
 Run: python -I scripts/13_findings_tables.py
-Sample: DPGs with dpg_confidence == "high"; fixed cohort (D21/D45) as built in dpg_quarterly.csv;
+Sample: DPGs with dpg_confidence == "high"; fixed cohort (rates use a fixed set of repositories created before 2024; the fixed set of repositories is those created before 2024 or holding at least 50 earlier commits) as built in dpg_quarterly.csv;
 the partial current quarter (partial_quarter flag) is dropped. Descriptive only, no tests."""
 from pathlib import Path
 import pandas as pd
